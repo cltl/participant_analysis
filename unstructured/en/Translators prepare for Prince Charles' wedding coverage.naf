@@ -1,0 +1,390 @@
+<NAF xml:lang="en" version="v3.1">
+<nafHeader>
+<fileDesc creationtime="2011-01-10T00:00:00UTC" title="Translators prepare for Prince Charles' wedding coverage"/>
+<public uri="https://www.bbc.co.uk/programmes/p00g8yms"/>
+<linguisticProcessors layer="terms">
+<lp beginTimestamp="2021-11-29T16:04:56UTC" endTimestamp="2021-11-29T16:04:56UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+</linguisticProcessors>
+<linguisticProcessors layer="text">
+<lp beginTimestamp="2021-11-29T16:04:56UTC" endTimestamp="2021-11-29T16:04:56UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+</linguisticProcessors>
+<linguisticProcessors layer="deps">
+<lp beginTimestamp="2021-11-29T16:04:56UTC" endTimestamp="2021-11-29T16:04:56UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+</linguisticProcessors>
+<linguisticProcessors layer="raw">
+<lp beginTimestamp="2021-11-29T16:04:56UTC" endTimestamp="2021-11-29T16:04:56UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+</linguisticProcessors>
+<linguisticProcessors layer="multiwords">
+<lp beginTimestamp="2021-11-29T16:04:56UTC" endTimestamp="2021-11-29T16:04:56UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+</linguisticProcessors>
+<linguisticProcessors layer="entities">
+<lp beginTimestamp="2011-01-10T00:00:00UTC" endTimestamp="2011-01-10T00:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+</linguisticProcessors>
+<linguisticProcessors layer="srl">
+<lp name="open-sesame" version="commit-96639aedd24442433365d4d9fca877931fe222e4" timestamp="2021-12-01T13:21:37CET" beginTimestamp="2021-12-01T12:08:35UTC" endTimestamp="2021-12-01T12:21:26UTC" hostname="kyoto"/>
+<lp beginTimestamp="undefined" endTimestamp="2022-05-26T10:56:35UTC" name="annotator_dorien" version="guidelines_v1" id="GuWneyCn2lZZ7nY3TniOi9Cow97krFXG"/>
+</linguisticProcessors>
+</nafHeader>
+<raw>Translators prepare for Prince Charles' wedding coverage.
+
+Language translators for TV stations across the globe gather in the BBC studio to prepare their coverage for Charles and Diana's wedding.
+</raw>
+<text>
+<wf sent="1" id="w1" length="11" offset="0">Translators</wf><wf sent="1" id="w2" length="7" offset="12">prepare</wf><wf sent="1" id="w3" length="3" offset="20">for</wf><wf sent="1" id="w4" length="6" offset="24">Prince</wf><wf sent="1" id="w5" length="7" offset="31">Charles</wf><wf sent="1" id="w6" length="1" offset="38">'</wf><wf sent="1" id="w7" length="7" offset="40">wedding</wf><wf sent="1" id="w8" length="8" offset="48">coverage</wf><wf sent="1" id="w9" length="1" offset="56">.</wf><wf sent="2" id="w10" length="8" offset="58">
+Language
+</wf>
+<wf sent="2" id="w11" length="11" offset="67">
+translators
+</wf>
+<wf sent="2" id="w12" length="3" offset="79">
+for
+</wf>
+<wf sent="2" id="w13" length="2" offset="83">
+TV
+</wf>
+<wf sent="2" id="w14" length="8" offset="86">
+stations
+</wf>
+<wf sent="2" id="w15" length="6" offset="95">
+across
+</wf>
+<wf sent="2" id="w16" length="3" offset="102">
+the
+</wf>
+<wf sent="2" id="w17" length="5" offset="106">
+globe
+</wf>
+<wf sent="2" id="w18" length="6" offset="112">
+gather
+</wf>
+<wf sent="2" id="w19" length="2" offset="119">
+in
+</wf>
+<wf sent="2" id="w20" length="3" offset="122">
+the
+</wf>
+<wf sent="2" id="w21" length="3" offset="126">
+BBC
+</wf>
+<wf sent="2" id="w22" length="6" offset="130">
+studio
+</wf>
+<wf sent="2" id="w23" length="2" offset="137">
+to
+</wf>
+<wf sent="2" id="w24" length="7" offset="140">
+prepare
+</wf>
+<wf sent="2" id="w25" length="5" offset="148">
+their
+</wf>
+<wf sent="2" id="w26" length="8" offset="154">
+coverage
+</wf>
+<wf sent="2" id="w27" length="3" offset="163">
+for
+</wf>
+<wf sent="2" id="w28" length="7" offset="167">
+Charles
+</wf>
+<wf sent="2" id="w29" length="3" offset="175">
+and
+</wf>
+<wf sent="2" id="w30" length="5" offset="179">
+Diana
+</wf>
+<wf sent="2" id="w31" length="2" offset="184">
+'s
+</wf>
+<wf sent="2" id="w32" length="7" offset="187">
+wedding
+</wf>
+<wf sent="2" id="w33" length="1" offset="194">
+.
+</wf>
+</text>
+<terms>
+<term id="t1" lemma="translator" pos="NOUN" type="open" morphofeat="NNS"><span><target id="w1"/></span></term><term id="t2" lemma="prepare" pos="VERB" type="open" morphofeat="VBP"><span><target id="w2"/></span></term><term id="t3" lemma="for" pos="ADP" type="open" morphofeat="IN"><span><target id="w3"/></span></term><term id="t4" lemma="Prince" pos="PROPN" type="open" morphofeat="NNP"><span><target id="w4"/></span></term><term id="t5" lemma="Charles" pos="PROPN" type="open" morphofeat="NNP"><span><target id="w5"/></span></term><term id="t6" lemma="'" pos="PART" type="open" morphofeat="POS"><span><target id="w6"/></span></term><term id="t7" lemma="wedding" pos="NOUN" type="open" morphofeat="NN"><span><target id="w7"/></span></term><term id="t8" lemma="coverage" pos="NOUN" type="open" morphofeat="NN"><span><target id="w8"/></span></term><term id="t9" lemma="." pos="PUNCT" type="open" morphofeat="."><span><target id="w9"/></span></term><term id="t10" lemma="language" pos="NOUN" type="open" morphofeat="NN">
+<span>
+<target id="w10"/>
+</span>
+</term>
+<term id="t11" lemma="translator" pos="NOUN" type="open" morphofeat="NNS">
+<span>
+<target id="w11"/>
+</span>
+</term>
+<term id="t12" lemma="for" pos="ADP" type="open" morphofeat="IN">
+<span>
+<target id="w12"/>
+</span>
+</term>
+<term id="t13" lemma="tv" pos="NOUN" type="open" morphofeat="NN">
+<span>
+<target id="w13"/>
+</span>
+</term>
+<term id="t14" lemma="station" pos="NOUN" type="open" morphofeat="NNS">
+<span>
+<target id="w14"/>
+</span>
+</term>
+<term id="t15" lemma="across" pos="ADP" type="open" morphofeat="IN">
+<span>
+<target id="w15"/>
+</span>
+</term>
+<term id="t16" lemma="the" pos="DET" type="open" morphofeat="DT">
+<span>
+<target id="w16"/>
+</span>
+</term>
+<term id="t17" lemma="globe" pos="NOUN" type="open" morphofeat="NN">
+<span>
+<target id="w17"/>
+</span>
+</term>
+<term id="t18" lemma="gather" pos="NOUN" type="open" morphofeat="NN">
+<span>
+<target id="w18"/>
+</span>
+</term>
+<term id="t19" lemma="in" pos="ADP" type="open" morphofeat="IN">
+<span>
+<target id="w19"/>
+</span>
+</term>
+<term id="t20" lemma="the" pos="DET" type="open" morphofeat="DT">
+<span>
+<target id="w20"/>
+</span>
+</term>
+<term id="t21" lemma="BBC" pos="PROPN" type="open" morphofeat="NNP">
+<span>
+<target id="w21"/>
+</span>
+</term>
+<term id="t22" lemma="studio" pos="NOUN" type="open" morphofeat="NN">
+<span>
+<target id="w22"/>
+</span>
+</term>
+<term id="t23" lemma="to" pos="PART" type="open" morphofeat="TO">
+<span>
+<target id="w23"/>
+</span>
+</term>
+<term id="t24" lemma="prepare" pos="VERB" type="open" morphofeat="VB">
+<span>
+<target id="w24"/>
+</span>
+</term>
+<term id="t25" lemma="-PRON-" pos="DET" type="open" morphofeat="PRP$">
+<span>
+<target id="w25"/>
+</span>
+</term>
+<term id="t26" lemma="coverage" pos="NOUN" type="open" morphofeat="NN">
+<span>
+<target id="w26"/>
+</span>
+</term>
+<term id="t27" lemma="for" pos="ADP" type="open" morphofeat="IN">
+<span>
+<target id="w27"/>
+</span>
+</term>
+<term id="t28" lemma="Charles" pos="PROPN" type="open" morphofeat="NNP">
+<span>
+<target id="w28"/>
+</span>
+</term>
+<term id="t29" lemma="and" pos="CCONJ" type="open" morphofeat="CC">
+<span>
+<target id="w29"/>
+</span>
+</term>
+<term id="t30" lemma="Diana" pos="PROPN" type="open" morphofeat="NNP">
+<span>
+<target id="w30"/>
+</span>
+</term>
+<term id="t31" lemma="'s" pos="PART" type="open" morphofeat="POS">
+<span>
+<target id="w31"/>
+</span>
+</term>
+<term id="t32" lemma="wedding" pos="NOUN" type="open" morphofeat="NN">
+<span>
+<target id="w32"/>
+</span>
+</term>
+<term id="t33" lemma="." pos="PUNCT" type="open" morphofeat=".">
+<span>
+<target id="w33"/>
+</span>
+</term>
+</terms>
+<deps>
+<dep from="t2" to="t1" rfunc="nsubj"/><dep from="t2" to="t3" rfunc="prep"/><dep from="t5" to="t4" rfunc="compound"/><dep from="t8" to="t5" rfunc="poss"/><dep from="t3" to="t8" rfunc="pobj"/><dep from="t5" to="t6" rfunc="case"/><dep from="t8" to="t7" rfunc="compound"/><dep from="t2" to="t9" rfunc="punct"/><dep from="t11" to="t10" rfunc="compound"/>
+<dep from="t11" to="t12" rfunc="prep"/>
+<dep from="t14" to="t13" rfunc="compound"/>
+<dep from="t12" to="t14" rfunc="pobj"/>
+<dep from="t14" to="t15" rfunc="prep"/>
+<dep from="t18" to="t16" rfunc="det"/>
+<dep from="t15" to="t18" rfunc="pobj"/>
+<dep from="t18" to="t17" rfunc="compound"/>
+<dep from="t18" to="t19" rfunc="prep"/>
+<dep from="t22" to="t20" rfunc="det"/>
+<dep from="t19" to="t22" rfunc="pobj"/>
+<dep from="t22" to="t21" rfunc="compound"/>
+<dep from="t24" to="t23" rfunc="aux"/>
+<dep from="t11" to="t24" rfunc="relcl"/>
+<dep from="t26" to="t25" rfunc="poss"/>
+<dep from="t24" to="t26" rfunc="dobj"/>
+<dep from="t26" to="t27" rfunc="prep"/>
+<dep from="t27" to="t28" rfunc="pobj"/>
+<dep from="t28" to="t29" rfunc="cc"/>
+<dep from="t32" to="t30" rfunc="poss"/>
+<dep from="t28" to="t32" rfunc="conj"/>
+<dep from="t30" to="t31" rfunc="case"/>
+<dep from="t11" to="t33" rfunc="punct"/>
+</deps>
+<entities/>
+<srl>
+<predicate id="pr1" status="manual">
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-coming_to_believe" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2021-12-01T12:21:26UTC"/>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-come_together" resource="http://premon.fbk.eu/premon/fn17" timestamp="2022-05-26T10:54:58UTC" source="GuWneyCn2lZZ7nY3TniOi9Cow97krFXG" lu_url="http://rdf.cltl.nl/efn/fn_eng-lexicon-1.7-lu-1650006159798" reftype="type"/>
+</externalReferences>
+<span>
+<target id="t18"/>
+</span>
+<role id="r1" status="manual">
+<span>
+<target id="t11"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-come_together@individuals" resource="http://premon.fbk.eu/premon/fn17" timestamp="2022-05-26T10:55:55UTC" source="GuWneyCn2lZZ7nY3TniOi9Cow97krFXG" reftype=""/>
+</externalReferences>
+</role>
+<role id="r2" status="manual">
+<span/>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-come_together@configuration" resource="http://premon.fbk.eu/premon/fn17" timestamp="2022-05-26T10:55:58UTC" source="GuWneyCn2lZZ7nY3TniOi9Cow97krFXG" reftype=""/>
+</externalReferences>
+</role>
+<role id="r3" status="manual">
+<span/>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-come_together@party_1" resource="http://premon.fbk.eu/premon/fn17" timestamp="2022-05-26T10:56:02UTC" source="GuWneyCn2lZZ7nY3TniOi9Cow97krFXG" reftype=""/>
+</externalReferences>
+</role>
+<role id="r4" status="manual">
+<span/>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-come_together@party_2" resource="http://premon.fbk.eu/premon/fn17" timestamp="2022-05-26T10:56:05UTC" source="GuWneyCn2lZZ7nY3TniOi9Cow97krFXG" reftype=""/>
+</externalReferences>
+</role>
+</predicate>
+<predicate id="pr2" status="system">
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-activity_prepare" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2021-12-01T12:21:26UTC"/>
+</externalReferences>
+<span>
+<target id="t24"/>
+</span>
+</predicate>
+<predicate id="pr3" status="manual">
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-forming_relationships" resource="http://premon.fbk.eu/resource" source="GuWneyCn2lZZ7nY3TniOi9Cow97krFXG" reftype="evoke" timestamp="2022-05-26T10:54:50UTC"/>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-forming_relationships" resource="http://premon.fbk.eu/resource" source="GuWneyCn2lZZ7nY3TniOi9Cow97krFXG" reftype="evoke" timestamp="2022-05-26T10:54:50UTC"/>
+</externalReferences>
+<span>
+<target id="t32"/>
+</span>
+<role id="r1" status="manual">
+<span>
+<target id="t28"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-forming_relationships@partner_1" resource="http://premon.fbk.eu/premon/fn17" timestamp="2022-05-26T10:56:09UTC" source="GuWneyCn2lZZ7nY3TniOi9Cow97krFXG" reftype=""/>
+</externalReferences>
+</role>
+<role id="r2" status="manual">
+<span>
+<target id="t30"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-forming_relationships@partner_2" resource="http://premon.fbk.eu/premon/fn17" timestamp="2022-05-26T10:56:12UTC" source="GuWneyCn2lZZ7nY3TniOi9Cow97krFXG" reftype=""/>
+</externalReferences>
+</role>
+<role id="r3" status="manual">
+<span/>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-forming_relationships@partners" resource="http://premon.fbk.eu/premon/fn17" timestamp="2022-05-26T10:56:16UTC" source="GuWneyCn2lZZ7nY3TniOi9Cow97krFXG" reftype=""/>
+</externalReferences>
+</role>
+</predicate>
+<predicate id="pr4" status="manual">
+<span>
+<target id="t26"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-topic" resource="http://premon.fbk.eu/premon/fn17" timestamp="2022-05-26T10:55:43UTC" source="GuWneyCn2lZZ7nY3TniOi9Cow97krFXG" lu_url="http://rdf.cltl.nl/efn/fn_eng-lexicon-1.7-lu-1653555343714" reftype="type"/>
+</externalReferences>
+<role id="r1" status="manual">
+<span>
+<target id="t32"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-topic@topic" resource="http://premon.fbk.eu/premon/fn17" timestamp="2022-05-26T10:56:24UTC" source="GuWneyCn2lZZ7nY3TniOi9Cow97krFXG" reftype=""/>
+</externalReferences>
+</role>
+<role id="r2" status="manual">
+<span>
+<target id="t11"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-topic@communicator" resource="http://premon.fbk.eu/premon/fn17" timestamp="2022-05-26T10:56:30UTC" source="GuWneyCn2lZZ7nY3TniOi9Cow97krFXG" reftype=""/>
+</externalReferences>
+</role>
+<role id="r3" status="manual">
+<span/>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-topic@text" resource="http://premon.fbk.eu/premon/fn17" timestamp="2022-05-26T10:56:35UTC" source="GuWneyCn2lZZ7nY3TniOi9Cow97krFXG" reftype=""/>
+</externalReferences>
+</role>
+</predicate>
+</srl>
+<coreferences>
+<coref id="co1" status="manual" type="entity">
+<span>
+<target id="t28"/>
+</span>
+<externalReferences>
+<externalRef reference="Q43274" resource="http://www.wikidata.org" timestamp="2022-05-26T10:54:17UTC" source="undefined" reftype="entity"/>
+</externalReferences>
+</coref>
+<coref id="co2" status="manual" type="entity">
+<span>
+<target id="t30"/>
+</span>
+<externalReferences>
+<externalRef reference="Q9685" resource="http://www.wikidata.org" timestamp="2022-05-26T10:54:20UTC" source="undefined" reftype="entity"/>
+</externalReferences>
+</coref>
+<coref id="co3" status="manual" type="event">
+<span>
+<target id="t28"/>
+<target id="t29"/>
+<target id="t30"/>
+<target id="t31"/>
+<target id="t32"/>
+</span>
+<externalReferences>
+<externalRef reference="Q1094155" resource="http://www.wikidata.org" timestamp="2022-05-26T10:54:25UTC" source="undefined" reftype="event"/>
+</externalReferences>
+</coref>
+</coreferences>
+</NAF>

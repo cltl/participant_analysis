@@ -1,0 +1,323 @@
+<NAF xml:lang="en" version="v3.1">
+<nafHeader>
+<fileDesc creationtime="2011-01-22T12:00:00UTC" title="Scotland celebrates as Prince Charles marries Diana"/>
+<public uri="https://www.bbc.co.uk/programmes/p00fnhtx"/>
+<linguisticProcessors layer="terms">
+<lp beginTimestamp="2021-11-29T16:04:54UTC" endTimestamp="2021-11-29T16:04:54UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+</linguisticProcessors>
+<linguisticProcessors layer="text">
+<lp beginTimestamp="2021-11-29T16:04:54UTC" endTimestamp="2021-11-29T16:04:54UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+</linguisticProcessors>
+<linguisticProcessors layer="deps">
+<lp beginTimestamp="2021-11-29T16:04:54UTC" endTimestamp="2021-11-29T16:04:54UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+</linguisticProcessors>
+<linguisticProcessors layer="raw">
+<lp beginTimestamp="2021-11-29T16:04:54UTC" endTimestamp="2021-11-29T16:04:54UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+</linguisticProcessors>
+<linguisticProcessors layer="multiwords">
+<lp beginTimestamp="2021-11-29T16:04:54UTC" endTimestamp="2021-11-29T16:04:54UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+</linguisticProcessors>
+<linguisticProcessors layer="entities">
+<lp beginTimestamp="2011-01-22T12:00:00UTC" endTimestamp="2011-01-22T12:00:00UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+</linguisticProcessors>
+<linguisticProcessors layer="srl">
+<lp name="open-sesame" version="commit-96639aedd24442433365d4d9fca877931fe222e4" timestamp="2021-12-01T13:21:36CET" beginTimestamp="2021-12-01T12:08:35UTC" endTimestamp="2021-12-01T12:21:26UTC" hostname="kyoto"/>
+<lp beginTimestamp="undefined" endTimestamp="2022-05-26T10:47:46UTC" name="annotator_dorien" version="guidelines_v1" id="GuWneyCn2lZZ7nY3TniOi9Cow97krFXG"/>
+</linguisticProcessors>
+</nafHeader>
+<raw>Scotland celebrates as Prince Charles marries Diana.
+
+Street parties are held in Scotland to celebrate the marriage of Prince Charles to Lady Diana Spencer.
+</raw>
+<text>
+<wf sent="1" id="w1" length="8" offset="0">Scotland</wf><wf sent="1" id="w2" length="10" offset="9">celebrates</wf><wf sent="1" id="w3" length="2" offset="20">as</wf><wf sent="1" id="w4" length="6" offset="23">Prince</wf><wf sent="1" id="w5" length="7" offset="30">Charles</wf><wf sent="1" id="w6" length="7" offset="38">marries</wf><wf sent="1" id="w7" length="5" offset="46">Diana</wf><wf sent="1" id="w8" length="1" offset="51">.</wf><wf sent="2" id="w9" length="6" offset="53">
+Street
+</wf>
+<wf sent="2" id="w10" length="7" offset="60">
+parties
+</wf>
+<wf sent="2" id="w11" length="3" offset="68">
+are
+</wf>
+<wf sent="2" id="w12" length="4" offset="72">
+held
+</wf>
+<wf sent="2" id="w13" length="2" offset="77">
+in
+</wf>
+<wf sent="2" id="w14" length="8" offset="80">
+Scotland
+</wf>
+<wf sent="2" id="w15" length="2" offset="89">
+to
+</wf>
+<wf sent="2" id="w16" length="9" offset="92">
+celebrate
+</wf>
+<wf sent="2" id="w17" length="3" offset="102">
+the
+</wf>
+<wf sent="2" id="w18" length="8" offset="106">
+marriage
+</wf>
+<wf sent="2" id="w19" length="2" offset="115">
+of
+</wf>
+<wf sent="2" id="w20" length="6" offset="118">
+Prince
+</wf>
+<wf sent="2" id="w21" length="7" offset="125">
+Charles
+</wf>
+<wf sent="2" id="w22" length="2" offset="133">
+to
+</wf>
+<wf sent="2" id="w23" length="4" offset="136">
+Lady
+</wf>
+<wf sent="2" id="w24" length="5" offset="141">
+Diana
+</wf>
+<wf sent="2" id="w25" length="7" offset="147">
+Spencer
+</wf>
+<wf sent="2" id="w26" length="1" offset="154">
+.
+</wf>
+</text>
+<terms>
+<term id="t1" lemma="Scotland" pos="PROPN" type="open" morphofeat="NNP"><span><target id="w1"/></span></term><term id="t2" lemma="celebrate" pos="NOUN" type="open" morphofeat="NNS"><span><target id="w2"/></span></term><term id="t3" lemma="as" pos="SCONJ" type="open" morphofeat="IN"><span><target id="w3"/></span></term><term id="t4" lemma="Prince" pos="PROPN" type="open" morphofeat="NNP"><span><target id="w4"/></span></term><term id="t5" lemma="Charles" pos="PROPN" type="open" morphofeat="NNP"><span><target id="w5"/></span></term><term id="t6" lemma="marry" pos="VERB" type="open" morphofeat="VBZ"><span><target id="w6"/></span></term><term id="t7" lemma="Diana" pos="PROPN" type="open" morphofeat="NNP"><span><target id="w7"/></span></term><term id="t8" lemma="." pos="PUNCT" type="open" morphofeat="."><span><target id="w8"/></span></term><term id="t9" lemma="street" pos="NOUN" type="open" morphofeat="NN">
+<span>
+<target id="w9"/>
+</span>
+</term>
+<term id="t10" lemma="party" pos="NOUN" type="open" morphofeat="NNS">
+<span>
+<target id="w10"/>
+</span>
+</term>
+<term id="t11" lemma="be" pos="VERB" type="open" morphofeat="VBP">
+<span>
+<target id="w11"/>
+</span>
+</term>
+<term id="t12" lemma="hold" pos="VERB" type="open" morphofeat="VBN">
+<span>
+<target id="w12"/>
+</span>
+</term>
+<term id="t13" lemma="in" pos="ADP" type="open" morphofeat="IN">
+<span>
+<target id="w13"/>
+</span>
+</term>
+<term id="t14" lemma="Scotland" pos="PROPN" type="open" morphofeat="NNP">
+<span>
+<target id="w14"/>
+</span>
+</term>
+<term id="t15" lemma="to" pos="PART" type="open" morphofeat="TO">
+<span>
+<target id="w15"/>
+</span>
+</term>
+<term id="t16" lemma="celebrate" pos="VERB" type="open" morphofeat="VB">
+<span>
+<target id="w16"/>
+</span>
+</term>
+<term id="t17" lemma="the" pos="DET" type="open" morphofeat="DT">
+<span>
+<target id="w17"/>
+</span>
+</term>
+<term id="t18" lemma="marriage" pos="NOUN" type="open" morphofeat="NN">
+<span>
+<target id="w18"/>
+</span>
+</term>
+<term id="t19" lemma="of" pos="ADP" type="open" morphofeat="IN">
+<span>
+<target id="w19"/>
+</span>
+</term>
+<term id="t20" lemma="Prince" pos="PROPN" type="open" morphofeat="NNP">
+<span>
+<target id="w20"/>
+</span>
+</term>
+<term id="t21" lemma="Charles" pos="PROPN" type="open" morphofeat="NNP">
+<span>
+<target id="w21"/>
+</span>
+</term>
+<term id="t22" lemma="to" pos="ADP" type="open" morphofeat="IN">
+<span>
+<target id="w22"/>
+</span>
+</term>
+<term id="t23" lemma="Lady" pos="PROPN" type="open" morphofeat="NNP">
+<span>
+<target id="w23"/>
+</span>
+</term>
+<term id="t24" lemma="Diana" pos="PROPN" type="open" morphofeat="NNP">
+<span>
+<target id="w24"/>
+</span>
+</term>
+<term id="t25" lemma="Spencer" pos="PROPN" type="open" morphofeat="NNP">
+<span>
+<target id="w25"/>
+</span>
+</term>
+<term id="t26" lemma="." pos="PUNCT" type="open" morphofeat=".">
+<span>
+<target id="w26"/>
+</span>
+</term>
+</terms>
+<deps>
+<dep from="t2" to="t1" rfunc="nsubj"/><dep from="t6" to="t3" rfunc="mark"/><dep from="t2" to="t6" rfunc="advcl"/><dep from="t5" to="t4" rfunc="compound"/><dep from="t6" to="t5" rfunc="nsubj"/><dep from="t6" to="t7" rfunc="dobj"/><dep from="t2" to="t8" rfunc="punct"/><dep from="t10" to="t9" rfunc="compound"/>
+<dep from="t12" to="t10" rfunc="nsubjpass"/>
+<dep from="t12" to="t11" rfunc="auxpass"/>
+<dep from="t12" to="t13" rfunc="prep"/>
+<dep from="t13" to="t14" rfunc="pobj"/>
+<dep from="t16" to="t15" rfunc="aux"/>
+<dep from="t12" to="t16" rfunc="advcl"/>
+<dep from="t18" to="t17" rfunc="det"/>
+<dep from="t16" to="t18" rfunc="dobj"/>
+<dep from="t18" to="t19" rfunc="prep"/>
+<dep from="t21" to="t20" rfunc="compound"/>
+<dep from="t19" to="t21" rfunc="pobj"/>
+<dep from="t18" to="t22" rfunc="prep"/>
+<dep from="t25" to="t23" rfunc="compound"/>
+<dep from="t22" to="t25" rfunc="pobj"/>
+<dep from="t25" to="t24" rfunc="compound"/>
+<dep from="t12" to="t26" rfunc="punct"/>
+</deps>
+<entities/>
+<srl>
+<predicate id="pr1" status="system">
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-roadways" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2021-12-01T12:21:26UTC"/>
+</externalReferences>
+<span>
+<target id="t9"/>
+</span>
+</predicate>
+<predicate id="pr2" status="manual">
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-aggregate" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2021-12-01T12:21:26UTC"/>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-social_event" resource="http://premon.fbk.eu/premon/fn17" timestamp="2022-05-26T10:46:50UTC" source="GuWneyCn2lZZ7nY3TniOi9Cow97krFXG" lu_url="http://rdf.cltl.nl/efn/fn_eng-lexicon-1.7-lu-1652698952394" reftype="type"/>
+</externalReferences>
+<span>
+<target id="t10"/>
+</span>
+<role id="r1" status="manual">
+<span>
+<target id="t10"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-social_event@social_event" resource="http://premon.fbk.eu/premon/fn17" timestamp="2022-05-26T10:47:01UTC" source="GuWneyCn2lZZ7nY3TniOi9Cow97krFXG" reftype=""/>
+</externalReferences>
+</role>
+<role id="r2" status="manual">
+<span/>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-social_event@attendee" resource="http://premon.fbk.eu/premon/fn17" timestamp="2022-05-26T10:47:05UTC" source="GuWneyCn2lZZ7nY3TniOi9Cow97krFXG" reftype=""/>
+</externalReferences>
+</role>
+</predicate>
+<predicate id="pr3" status="manual">
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-forming_relationships" resource="http://premon.fbk.eu/resource" source="GuWneyCn2lZZ7nY3TniOi9Cow97krFXG" reftype="evoke" timestamp="2022-05-26T10:46:40UTC"/>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-forming_relationships" resource="http://premon.fbk.eu/resource" source="GuWneyCn2lZZ7nY3TniOi9Cow97krFXG" reftype="evoke" timestamp="2022-05-26T10:46:40UTC"/>
+</externalReferences>
+<span>
+<target id="t18"/>
+</span>
+<role id="r1" status="manual">
+<span>
+<target id="t21"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-forming_relationships@partner_1" resource="http://premon.fbk.eu/premon/fn17" timestamp="2022-05-26T10:47:09UTC" source="GuWneyCn2lZZ7nY3TniOi9Cow97krFXG" reftype=""/>
+</externalReferences>
+</role>
+<role id="r2" status="manual">
+<span>
+<target id="t24"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-forming_relationships@partner_2" resource="http://premon.fbk.eu/premon/fn17" timestamp="2022-05-26T10:47:15UTC" source="GuWneyCn2lZZ7nY3TniOi9Cow97krFXG" reftype=""/>
+</externalReferences>
+</role>
+<role id="r3" status="manual">
+<span/>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-forming_relationships@partners" resource="http://premon.fbk.eu/premon/fn17" timestamp="2022-05-26T10:47:18UTC" source="GuWneyCn2lZZ7nY3TniOi9Cow97krFXG" reftype=""/>
+</externalReferences>
+</role>
+</predicate>
+<predicate id="pr4" status="manual">
+<span>
+<target id="t16"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-social_event" resource="http://premon.fbk.eu/premon/fn17" timestamp="2022-05-26T10:47:32UTC" source="GuWneyCn2lZZ7nY3TniOi9Cow97krFXG" lu_url="http://rdf.cltl.nl/efn/fn_eng-lexicon-1.7-lu-1652699030928" reftype="type"/>
+</externalReferences>
+<role id="r1" status="manual">
+<span>
+<target id="t18"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-social_event@social_event" resource="http://premon.fbk.eu/premon/fn17" timestamp="2022-05-26T10:47:41UTC" source="GuWneyCn2lZZ7nY3TniOi9Cow97krFXG" reftype=""/>
+</externalReferences>
+</role>
+<role id="r2" status="manual">
+<span/>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-social_event@attendee" resource="http://premon.fbk.eu/premon/fn17" timestamp="2022-05-26T10:47:46UTC" source="GuWneyCn2lZZ7nY3TniOi9Cow97krFXG" reftype=""/>
+</externalReferences>
+</role>
+</predicate>
+</srl>
+<coreferences>
+<coref id="co1" status="manual" type="entity">
+<span>
+<target id="t20"/>
+<target id="t21"/>
+</span>
+<externalReferences>
+<externalRef reference="Q43274" resource="http://www.wikidata.org" timestamp="2022-05-26T10:46:11UTC" source="undefined" reftype="entity"/>
+</externalReferences>
+</coref>
+<coref id="co2" status="manual" type="entity">
+<span>
+<target id="t23"/>
+<target id="t24"/>
+<target id="t25"/>
+</span>
+<externalReferences>
+<externalRef reference="Q9685" resource="http://www.wikidata.org" timestamp="2022-05-26T10:46:17UTC" source="undefined" reftype="entity"/>
+</externalReferences>
+</coref>
+<coref id="co3" status="manual" type="event">
+<span>
+<target id="t17"/>
+<target id="t18"/>
+<target id="t19"/>
+<target id="t20"/>
+<target id="t21"/>
+<target id="t22"/>
+<target id="t23"/>
+<target id="t24"/>
+<target id="t25"/>
+</span>
+<externalReferences>
+<externalRef reference="Q1094155" resource="http://www.wikidata.org" timestamp="2022-05-26T10:46:27UTC" source="undefined" reftype="event"/>
+</externalReferences>
+</coref>
+</coreferences>
+</NAF>

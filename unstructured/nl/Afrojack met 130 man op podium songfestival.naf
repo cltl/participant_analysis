@@ -1,0 +1,4963 @@
+<NAF xml:lang="nl" version="v4">
+<nafHeader>
+<fileDesc creationtime="2020-03-09T10:12:00UTC" title="Afrojack met 130 man op podium songfestival"/>
+<public uri="http://web.archive.org/web/20210603063953/https://www.ad.nl/show/afrojack-met-130-man-op-podium-songfestival~ade5f698/"/>
+<linguisticProcessors layer="raw">
+<lp beginTimestamp="2021-11-24T18:07:10UTC" endTimestamp="2021-11-24T18:07:10UTC" name="spaCy-model_nl_core_news_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+</linguisticProcessors>
+<linguisticProcessors layer="text">
+<lp beginTimestamp="2021-11-24T18:07:10UTC" endTimestamp="2021-11-24T18:07:10UTC" name="spaCy-model_nl_core_news_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+</linguisticProcessors>
+<linguisticProcessors layer="terms">
+<lp beginTimestamp="2021-11-24T18:07:10UTC" endTimestamp="2021-11-24T18:07:10UTC" name="spaCy-model_nl_core_news_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+</linguisticProcessors>
+<linguisticProcessors layer="deps">
+<lp beginTimestamp="2021-11-24T18:07:10UTC" endTimestamp="2021-11-24T18:07:10UTC" name="spaCy-model_nl_core_news_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+</linguisticProcessors>
+<linguisticProcessors layer="multiwords">
+<lp beginTimestamp="2021-11-24T18:07:10UTC" endTimestamp="2021-11-24T18:07:10UTC" name="spaCy-model_nl_core_news_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+</linguisticProcessors>
+<linguisticProcessors layer="srl">
+<lp beginTimestamp="undefined" endTimestamp="2021-12-19T13:44:05UTC" name="annotator_adrielli" version="guidelines_v1" id="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45"/>
+<lp beginTimestamp="undefined" endTimestamp="2024-11-04T10:21:38UTC" name="annotator_levi" version="guidelines_v1" id="5rGmZz46xcXFMnEYKrNCrFGpiG_mFhjk"/>
+</linguisticProcessors>
+</nafHeader>
+<raw>Afrojack met 130 man op podium songfestival.
+
+Na het fiasco met Madonna vorig jaar in Israël had de organisatie van het songfestival al aangegeven niet een internationale act te gaan zoeken, maar het dichter bij huis te houden. Dat lukt met Afrojack zeer goed. De dj groeide op in Spijkenisse, onder de rook van Rotterdam waar het muziekfeest halverwege mei plaatsvindt. ,,We gaan Afrojack niet zomaar op het podium zetten", legt Bakker uit. ,,We gaan iets heel speciaals doen. Natuurlijk zouden we hem achter een dj-boot kunnen zetten en dan gaat hij een waanzinnige act weggeven. Maar ons thema is Open Up , dus we willen heel graag verschillende stijlen met elkaar verbinden. Afrojack gaat daarom optreden met een live orkest, 65 man. Jonge muzikanten die we allemaal geselecteerd hebben van de conservatoria in Nederland. Dus het wordt een cross-over van allemaal muziekstijlen.” Kippenvel Het wordt een drukke bedoening op het podium tijdens de act van Afrojack. ,,Er zijn geloof ik nog nooit zo veel mensen tegelijk op het eurovisiepodium geweest", zegt Bakker. ,,65 man orkest, 25-koppig gospelkoor, Afrojack en onze danscrew met 40 man.” De repetities zijn al in volle gang. ,,Ik krijg nu al kippenvel", vult de man, die over de liveshows gaat, glunderend aan. De vraag is of het optreden van Afrojack door het coronavirus wel voor een volle zaal zal zijn. ,,Er zijn allerlei scenario’s mogelijk”, aldus Bakker. ,,Het zou mij en de fans pijn doen als het zonder publiek moet, maar ik weet niet welke kant het opgaat. We focussen ons nu op een uitverkochte zaal en een goede show. Mocht er van hoger hand een beslissing worden genomen, dan zien we wel verder.” Afrojack, net als de Nederlandse inzending Jeangu Macrooy met Surinaamse roots, is al jaren internationaal succesvol als dj. Hij scoorde een nummer 1-hit in de Verenigde Staten samen met Pitbull en Ne-Yo met het nummer Give me Everything. Hij stond in 2019 op nummer 9 in de top 100-lijst van meest populaire dj's van het Britse tijdschrift DJ Mag.</raw>
+<text>
+<wf sent="1" id="w1" length="8" offset="0">Afrojack</wf>
+<wf sent="1" id="w2" length="3" offset="9">met</wf>
+<wf sent="1" id="w3" length="3" offset="13">130</wf>
+<wf sent="1" id="w4" length="3" offset="17">man</wf>
+<wf sent="1" id="w5" length="2" offset="21">op</wf>
+<wf sent="1" id="w6" length="6" offset="24">podium</wf>
+<wf sent="1" id="w7" length="12" offset="31">
+songfestival<subtoken id="w7.sub0" length="4" offset="31">
+<![CDATA[song]]>
+</subtoken>
+<subtoken id="w7.sub1" length="8" offset="35">
+<![CDATA[festival]]>
+</subtoken>
+</wf>
+<wf sent="1" id="w8" length="1" offset="43">.</wf>
+<wf sent="2" id="w9" length="2" offset="45">Na</wf>
+<wf sent="2" id="w10" length="3" offset="48">het</wf>
+<wf sent="2" id="w11" length="6" offset="52">fiasco</wf>
+<wf sent="2" id="w12" length="3" offset="59">met</wf>
+<wf sent="2" id="w13" length="7" offset="63">Madonna</wf>
+<wf sent="2" id="w14" length="5" offset="71">vorig</wf>
+<wf sent="2" id="w15" length="4" offset="77">jaar</wf>
+<wf sent="2" id="w16" length="2" offset="82">in</wf>
+<wf sent="2" id="w17" length="6" offset="85">Israël</wf>
+<wf sent="2" id="w18" length="3" offset="92">had</wf>
+<wf sent="2" id="w19" length="2" offset="96">de</wf>
+<wf sent="2" id="w20" length="11" offset="99">organisatie</wf>
+<wf sent="2" id="w21" length="3" offset="111">van</wf>
+<wf sent="2" id="w22" length="3" offset="115">het</wf>
+<wf sent="2" id="w23" length="12" offset="119">
+songfestival<subtoken id="w23.sub0" length="4" offset="119">song</subtoken>
+<subtoken id="w23.sub1" length="8" offset="123">festival</subtoken>
+</wf>
+<wf sent="2" id="w24" length="2" offset="132">al</wf>
+<wf sent="2" id="w25" length="10" offset="135">aangegeven</wf>
+<wf sent="2" id="w26" length="4" offset="146">niet</wf>
+<wf sent="2" id="w27" length="3" offset="151">een</wf>
+<wf sent="2" id="w28" length="14" offset="155">internationale</wf>
+<wf sent="2" id="w29" length="3" offset="170">act</wf>
+<wf sent="2" id="w30" length="2" offset="174">te</wf>
+<wf sent="2" id="w31" length="4" offset="177">gaan</wf>
+<wf sent="2" id="w32" length="6" offset="182">zoeken</wf>
+<wf sent="2" id="w33" length="1" offset="188">,</wf>
+<wf sent="2" id="w34" length="4" offset="190">maar</wf>
+<wf sent="2" id="w35" length="3" offset="195">het</wf>
+<wf sent="2" id="w36" length="7" offset="199">dichter</wf>
+<wf sent="2" id="w37" length="3" offset="207">bij</wf>
+<wf sent="2" id="w38" length="4" offset="211">huis</wf>
+<wf sent="2" id="w39" length="2" offset="216">te</wf>
+<wf sent="2" id="w40" length="6" offset="219">houden</wf>
+<wf sent="2" id="w41" length="1" offset="225">.</wf>
+<wf sent="3" id="w42" length="3" offset="227">Dat</wf>
+<wf sent="3" id="w43" length="4" offset="231">lukt</wf>
+<wf sent="3" id="w44" length="3" offset="236">met</wf>
+<wf sent="3" id="w45" length="8" offset="240">Afrojack</wf>
+<wf sent="3" id="w46" length="4" offset="249">zeer</wf>
+<wf sent="3" id="w47" length="4" offset="254">goed</wf>
+<wf sent="3" id="w48" length="1" offset="258">.</wf>
+<wf sent="4" id="w49" length="2" offset="260">De</wf>
+<wf sent="4" id="w50" length="2" offset="263">dj</wf>
+<wf sent="4" id="w51" length="7" offset="266">groeide</wf>
+<wf sent="4" id="w52" length="2" offset="274">op</wf>
+<wf sent="4" id="w53" length="2" offset="277">in</wf>
+<wf sent="4" id="w54" length="11" offset="280">Spijkenisse</wf>
+<wf sent="4" id="w55" length="1" offset="291">,</wf>
+<wf sent="4" id="w56" length="5" offset="293">onder</wf>
+<wf sent="4" id="w57" length="2" offset="299">de</wf>
+<wf sent="4" id="w58" length="4" offset="302">rook</wf>
+<wf sent="4" id="w59" length="3" offset="307">van</wf>
+<wf sent="4" id="w60" length="9" offset="311">Rotterdam</wf>
+<wf sent="4" id="w61" length="4" offset="321">waar</wf>
+<wf sent="4" id="w62" length="3" offset="326">het</wf>
+<wf sent="4" id="w63" length="11" offset="330">
+muziekfeest<subtoken id="w63.sub0" length="6" offset="330">muziek</subtoken>
+<subtoken id="w63.sub1" length="5" offset="336">feest</subtoken>
+</wf>
+<wf sent="4" id="w64" length="10" offset="342">halverwege</wf>
+<wf sent="4" id="w65" length="3" offset="353">mei</wf>
+<wf sent="4" id="w66" length="11" offset="357">plaatsvindt</wf>
+<wf sent="4" id="w67" length="1" offset="368">.</wf>
+<wf sent="5" id="w68" length="1" offset="370">,</wf>
+<wf sent="5" id="w69" length="1" offset="371">,</wf>
+<wf sent="5" id="w70" length="2" offset="372">We</wf>
+<wf sent="5" id="w71" length="4" offset="375">gaan</wf>
+<wf sent="5" id="w72" length="8" offset="380">Afrojack</wf>
+<wf sent="5" id="w73" length="4" offset="389">niet</wf>
+<wf sent="5" id="w74" length="6" offset="394">zomaar</wf>
+<wf sent="5" id="w75" length="2" offset="401">op</wf>
+<wf sent="5" id="w76" length="3" offset="404">het</wf>
+<wf sent="5" id="w77" length="6" offset="408">podium</wf>
+<wf sent="5" id="w78" length="6" offset="415">zetten</wf>
+<wf sent="5" id="w79" length="1" offset="421">"</wf>
+<wf sent="5" id="w80" length="1" offset="422">,</wf>
+<wf sent="5" id="w81" length="4" offset="424">legt</wf>
+<wf sent="5" id="w82" length="6" offset="429">Bakker</wf>
+<wf sent="5" id="w83" length="3" offset="436">uit</wf>
+<wf sent="5" id="w84" length="1" offset="439">.</wf>
+<wf sent="6" id="w85" length="1" offset="441">,</wf>
+<wf sent="6" id="w86" length="1" offset="442">,</wf>
+<wf sent="6" id="w87" length="2" offset="443">We</wf>
+<wf sent="6" id="w88" length="4" offset="446">gaan</wf>
+<wf sent="6" id="w89" length="4" offset="451">iets</wf>
+<wf sent="6" id="w90" length="4" offset="456">heel</wf>
+<wf sent="6" id="w91" length="9" offset="461">speciaals</wf>
+<wf sent="6" id="w92" length="4" offset="471">doen</wf>
+<wf sent="6" id="w93" length="1" offset="475">.</wf>
+<wf sent="7" id="w94" length="10" offset="477">Natuurlijk</wf>
+<wf sent="7" id="w95" length="6" offset="488">zouden</wf>
+<wf sent="7" id="w96" length="2" offset="495">we</wf>
+<wf sent="7" id="w97" length="3" offset="498">hem</wf>
+<wf sent="7" id="w98" length="6" offset="502">achter</wf>
+<wf sent="7" id="w99" length="3" offset="509">een</wf>
+<wf sent="7" id="w100" length="2" offset="513">dj</wf>
+<wf sent="7" id="w101" length="1" offset="515">-</wf>
+<wf sent="7" id="w102" length="4" offset="516">boot</wf>
+<wf sent="7" id="w103" length="6" offset="521">kunnen</wf>
+<wf sent="7" id="w104" length="6" offset="528">zetten</wf>
+<wf sent="7" id="w105" length="2" offset="535">en</wf>
+<wf sent="7" id="w106" length="3" offset="538">dan</wf>
+<wf sent="7" id="w107" length="4" offset="542">gaat</wf>
+<wf sent="7" id="w108" length="3" offset="547">hij</wf>
+<wf sent="7" id="w109" length="3" offset="551">een</wf>
+<wf sent="7" id="w110" length="11" offset="555">waanzinnige</wf>
+<wf sent="7" id="w111" length="3" offset="567">act</wf>
+<wf sent="7" id="w112" length="8" offset="571">weggeven</wf>
+<wf sent="7" id="w113" length="1" offset="579">.</wf>
+<wf sent="8" id="w114" length="4" offset="581">Maar</wf>
+<wf sent="8" id="w115" length="3" offset="586">ons</wf>
+<wf sent="8" id="w116" length="5" offset="590">thema</wf>
+<wf sent="8" id="w117" length="2" offset="596">is</wf>
+<wf sent="8" id="w118" length="4" offset="599">Open</wf>
+<wf sent="8" id="w119" length="2" offset="604">Up</wf>
+<wf sent="8" id="w120" length="1" offset="607">,</wf>
+<wf sent="8" id="w121" length="3" offset="609">dus</wf>
+<wf sent="8" id="w122" length="2" offset="613">we</wf>
+<wf sent="8" id="w123" length="6" offset="616">willen</wf>
+<wf sent="8" id="w124" length="4" offset="623">heel</wf>
+<wf sent="8" id="w125" length="5" offset="628">graag</wf>
+<wf sent="8" id="w126" length="13" offset="634">verschillende</wf>
+<wf sent="8" id="w127" length="7" offset="648">stijlen</wf>
+<wf sent="8" id="w128" length="3" offset="656">met</wf>
+<wf sent="8" id="w129" length="6" offset="660">elkaar</wf>
+<wf sent="8" id="w130" length="9" offset="667">verbinden</wf>
+<wf sent="8" id="w131" length="1" offset="676">.</wf>
+<wf sent="9" id="w132" length="8" offset="678">Afrojack</wf>
+<wf sent="9" id="w133" length="4" offset="687">gaat</wf>
+<wf sent="9" id="w134" length="6" offset="692">daarom</wf>
+<wf sent="9" id="w135" length="8" offset="699">optreden</wf>
+<wf sent="9" id="w136" length="3" offset="708">met</wf>
+<wf sent="9" id="w137" length="3" offset="712">een</wf>
+<wf sent="9" id="w138" length="4" offset="716">live</wf>
+<wf sent="9" id="w139" length="6" offset="721">orkest</wf>
+<wf sent="9" id="w140" length="1" offset="727">,</wf>
+<wf sent="9" id="w141" length="2" offset="729">65</wf>
+<wf sent="9" id="w142" length="3" offset="732">man</wf>
+<wf sent="9" id="w143" length="1" offset="735">.</wf>
+<wf sent="10" id="w144" length="5" offset="737">Jonge</wf>
+<wf sent="10" id="w145" length="10" offset="743">muzikanten</wf>
+<wf sent="10" id="w146" length="3" offset="754">die</wf>
+<wf sent="10" id="w147" length="2" offset="758">we</wf>
+<wf sent="10" id="w148" length="8" offset="761">allemaal</wf>
+<wf sent="10" id="w149" length="12" offset="770">geselecteerd</wf>
+<wf sent="10" id="w150" length="6" offset="783">hebben</wf>
+<wf sent="10" id="w151" length="3" offset="790">van</wf>
+<wf sent="10" id="w152" length="2" offset="794">de</wf>
+<wf sent="10" id="w153" length="13" offset="797">conservatoria</wf>
+<wf sent="10" id="w154" length="2" offset="811">in</wf>
+<wf sent="10" id="w155" length="9" offset="814">Nederland</wf>
+<wf sent="10" id="w156" length="1" offset="823">.</wf>
+<wf sent="11" id="w157" length="3" offset="825">Dus</wf>
+<wf sent="11" id="w158" length="3" offset="829">het</wf>
+<wf sent="11" id="w159" length="5" offset="833">wordt</wf>
+<wf sent="11" id="w160" length="3" offset="839">een</wf>
+<wf sent="11" id="w161" length="5" offset="843">cross</wf>
+<wf sent="11" id="w162" length="1" offset="848">-</wf>
+<wf sent="11" id="w163" length="4" offset="849">over</wf>
+<wf sent="11" id="w164" length="3" offset="854">van</wf>
+<wf sent="11" id="w165" length="8" offset="858">allemaal</wf>
+<wf sent="11" id="w166" length="13" offset="867">
+muziekstijlen<subtoken id="w166.sub0" length="6" offset="867">muziek</subtoken>
+<subtoken id="w166.sub1" length="7" offset="873">stijlen</subtoken>
+</wf>
+<wf sent="11" id="w167" length="1" offset="880">.</wf>
+<wf sent="12" id="w168" length="1" offset="881">”</wf>
+<wf sent="12" id="w169" length="9" offset="883">Kippenvel</wf>
+<wf sent="13" id="w170" length="3" offset="893">Het</wf>
+<wf sent="13" id="w171" length="5" offset="897">wordt</wf>
+<wf sent="13" id="w172" length="3" offset="903">een</wf>
+<wf sent="13" id="w173" length="6" offset="907">drukke</wf>
+<wf sent="13" id="w174" length="9" offset="914">bedoening</wf>
+<wf sent="13" id="w175" length="2" offset="924">op</wf>
+<wf sent="13" id="w176" length="3" offset="927">het</wf>
+<wf sent="13" id="w177" length="6" offset="931">podium</wf>
+<wf sent="13" id="w178" length="7" offset="938">tijdens</wf>
+<wf sent="13" id="w179" length="2" offset="946">de</wf>
+<wf sent="13" id="w180" length="3" offset="949">act</wf>
+<wf sent="13" id="w181" length="3" offset="953">van</wf>
+<wf sent="13" id="w182" length="8" offset="957">Afrojack</wf>
+<wf sent="13" id="w183" length="1" offset="965">.</wf>
+<wf sent="14" id="w184" length="1" offset="967">,</wf>
+<wf sent="14" id="w185" length="1" offset="968">,</wf>
+<wf sent="14" id="w186" length="2" offset="969">Er</wf>
+<wf sent="14" id="w187" length="4" offset="972">zijn</wf>
+<wf sent="14" id="w188" length="6" offset="977">geloof</wf>
+<wf sent="14" id="w189" length="2" offset="984">ik</wf>
+<wf sent="14" id="w190" length="3" offset="987">nog</wf>
+<wf sent="14" id="w191" length="5" offset="991">nooit</wf>
+<wf sent="14" id="w192" length="2" offset="997">zo</wf>
+<wf sent="14" id="w193" length="4" offset="1000">veel</wf>
+<wf sent="14" id="w194" length="6" offset="1005">mensen</wf>
+<wf sent="14" id="w195" length="8" offset="1012">tegelijk</wf>
+<wf sent="14" id="w196" length="2" offset="1021">op</wf>
+<wf sent="14" id="w197" length="3" offset="1024">het</wf>
+<wf sent="14" id="w198" length="15" offset="1028">
+eurovisiepodium<subtoken id="w198.sub0" length="9" offset="1028">eurovisie</subtoken>
+<subtoken id="w198.sub1" length="6" offset="1037">podium</subtoken>
+</wf>
+<wf sent="14" id="w199" length="7" offset="1044">geweest</wf>
+<wf sent="14" id="w200" length="1" offset="1051">"</wf>
+<wf sent="14" id="w201" length="1" offset="1052">,</wf>
+<wf sent="14" id="w202" length="4" offset="1054">zegt</wf>
+<wf sent="14" id="w203" length="6" offset="1059">Bakker</wf>
+<wf sent="14" id="w204" length="1" offset="1065">.</wf>
+<wf sent="14" id="w205" length="1" offset="1067">,</wf>
+<wf sent="14" id="w206" length="1" offset="1068">,</wf>
+<wf sent="14" id="w207" length="2" offset="1069">65</wf>
+<wf sent="14" id="w208" length="3" offset="1072">man</wf>
+<wf sent="14" id="w209" length="6" offset="1076">orkest</wf>
+<wf sent="14" id="w210" length="1" offset="1082">,</wf>
+<wf sent="14" id="w211" length="9" offset="1084">25-koppig</wf>
+<wf sent="14" id="w212" length="10" offset="1094">
+gospelkoor<subtoken id="w212.sub0" length="6" offset="1094">gospel</subtoken>
+<subtoken id="w212.sub1" length="4" offset="1100">koor</subtoken>
+</wf>
+<wf sent="14" id="w213" length="1" offset="1104">,</wf>
+<wf sent="14" id="w214" length="8" offset="1106">Afrojack</wf>
+<wf sent="14" id="w215" length="2" offset="1115">en</wf>
+<wf sent="14" id="w216" length="4" offset="1118">onze</wf>
+<wf sent="14" id="w217" length="8" offset="1123">
+danscrew<subtoken id="w217.sub0" length="4" offset="1123">dans</subtoken>
+<subtoken id="w217.sub1" length="4" offset="1127">crew</subtoken>
+</wf>
+<wf sent="14" id="w218" length="3" offset="1132">met</wf>
+<wf sent="14" id="w219" length="2" offset="1136">40</wf>
+<wf sent="14" id="w220" length="3" offset="1139">man</wf>
+<wf sent="14" id="w221" length="1" offset="1142">.</wf>
+<wf sent="15" id="w222" length="1" offset="1143">”</wf>
+<wf sent="16" id="w223" length="2" offset="1145">De</wf>
+<wf sent="16" id="w224" length="10" offset="1148">repetities</wf>
+<wf sent="16" id="w225" length="4" offset="1159">zijn</wf>
+<wf sent="16" id="w226" length="2" offset="1164">al</wf>
+<wf sent="16" id="w227" length="2" offset="1167">in</wf>
+<wf sent="16" id="w228" length="5" offset="1170">volle</wf>
+<wf sent="16" id="w229" length="4" offset="1176">gang</wf>
+<wf sent="16" id="w230" length="1" offset="1180">.</wf>
+<wf sent="17" id="w231" length="1" offset="1182">,</wf>
+<wf sent="17" id="w232" length="1" offset="1183">,</wf>
+<wf sent="17" id="w233" length="2" offset="1184">Ik</wf>
+<wf sent="17" id="w234" length="5" offset="1187">krijg</wf>
+<wf sent="17" id="w235" length="2" offset="1193">nu</wf>
+<wf sent="17" id="w236" length="2" offset="1196">al</wf>
+<wf sent="17" id="w237" length="9" offset="1199">kippenvel</wf>
+<wf sent="17" id="w238" length="1" offset="1208">"</wf>
+<wf sent="17" id="w239" length="1" offset="1209">,</wf>
+<wf sent="17" id="w240" length="4" offset="1211">vult</wf>
+<wf sent="17" id="w241" length="2" offset="1216">de</wf>
+<wf sent="17" id="w242" length="3" offset="1219">man</wf>
+<wf sent="17" id="w243" length="1" offset="1222">,</wf>
+<wf sent="17" id="w244" length="3" offset="1224">die</wf>
+<wf sent="17" id="w245" length="4" offset="1228">over</wf>
+<wf sent="17" id="w246" length="2" offset="1233">de</wf>
+<wf sent="17" id="w247" length="9" offset="1236">
+liveshows<subtoken id="w247.sub0" length="4" offset="1236">live</subtoken>
+<subtoken id="w247.sub1" length="5" offset="1240">shows</subtoken>
+</wf>
+<wf sent="17" id="w248" length="4" offset="1246">gaat</wf>
+<wf sent="17" id="w249" length="1" offset="1250">,</wf>
+<wf sent="17" id="w250" length="10" offset="1252">glunderend</wf>
+<wf sent="17" id="w251" length="3" offset="1263">aan</wf>
+<wf sent="17" id="w252" length="1" offset="1266">.</wf>
+<wf sent="18" id="w253" length="2" offset="1268">De</wf>
+<wf sent="18" id="w254" length="5" offset="1271">vraag</wf>
+<wf sent="18" id="w255" length="2" offset="1277">is</wf>
+<wf sent="18" id="w256" length="2" offset="1280">of</wf>
+<wf sent="18" id="w257" length="3" offset="1283">het</wf>
+<wf sent="18" id="w258" length="8" offset="1287">optreden</wf>
+<wf sent="18" id="w259" length="3" offset="1296">van</wf>
+<wf sent="18" id="w260" length="8" offset="1300">Afrojack</wf>
+<wf sent="18" id="w261" length="4" offset="1309">door</wf>
+<wf sent="18" id="w262" length="3" offset="1314">het</wf>
+<wf sent="18" id="w263" length="11" offset="1318">coronavirus</wf>
+<wf sent="18" id="w264" length="3" offset="1330">wel</wf>
+<wf sent="18" id="w265" length="4" offset="1334">voor</wf>
+<wf sent="18" id="w266" length="3" offset="1339">een</wf>
+<wf sent="18" id="w267" length="5" offset="1343">volle</wf>
+<wf sent="18" id="w268" length="4" offset="1349">zaal</wf>
+<wf sent="18" id="w269" length="3" offset="1354">zal</wf>
+<wf sent="18" id="w270" length="4" offset="1358">zijn</wf>
+<wf sent="18" id="w271" length="1" offset="1362">.</wf>
+<wf sent="18" id="w272" length="1" offset="1364">,</wf>
+<wf sent="18" id="w273" length="1" offset="1365">,</wf>
+<wf sent="18" id="w274" length="2" offset="1366">Er</wf>
+<wf sent="18" id="w275" length="4" offset="1369">zijn</wf>
+<wf sent="18" id="w276" length="8" offset="1374">allerlei</wf>
+<wf sent="18" id="w277" length="8" offset="1383">scenario</wf>
+<wf sent="18" id="w278" length="2" offset="1391">’s</wf>
+<wf sent="18" id="w279" length="8" offset="1394">mogelijk</wf>
+<wf sent="18" id="w280" length="1" offset="1402">”</wf>
+<wf sent="18" id="w281" length="1" offset="1403">,</wf>
+<wf sent="18" id="w282" length="5" offset="1405">aldus</wf>
+<wf sent="18" id="w283" length="6" offset="1411">Bakker</wf>
+<wf sent="18" id="w284" length="1" offset="1417">.</wf>
+<wf sent="19" id="w285" length="1" offset="1419">,</wf>
+<wf sent="19" id="w286" length="1" offset="1420">,</wf>
+<wf sent="19" id="w287" length="3" offset="1421">Het</wf>
+<wf sent="19" id="w288" length="3" offset="1425">zou</wf>
+<wf sent="19" id="w289" length="3" offset="1429">mij</wf>
+<wf sent="19" id="w290" length="2" offset="1433">en</wf>
+<wf sent="19" id="w291" length="2" offset="1436">de</wf>
+<wf sent="19" id="w292" length="4" offset="1439">fans</wf>
+<wf sent="19" id="w293" length="4" offset="1444">pijn</wf>
+<wf sent="19" id="w294" length="4" offset="1449">doen</wf>
+<wf sent="19" id="w295" length="3" offset="1454">als</wf>
+<wf sent="19" id="w296" length="3" offset="1458">het</wf>
+<wf sent="19" id="w297" length="6" offset="1462">zonder</wf>
+<wf sent="19" id="w298" length="7" offset="1469">publiek</wf>
+<wf sent="19" id="w299" length="4" offset="1477">moet</wf>
+<wf sent="19" id="w300" length="1" offset="1481">,</wf>
+<wf sent="19" id="w301" length="4" offset="1483">maar</wf>
+<wf sent="19" id="w302" length="2" offset="1488">ik</wf>
+<wf sent="19" id="w303" length="4" offset="1491">weet</wf>
+<wf sent="19" id="w304" length="4" offset="1496">niet</wf>
+<wf sent="19" id="w305" length="5" offset="1501">welke</wf>
+<wf sent="19" id="w306" length="4" offset="1507">kant</wf>
+<wf sent="19" id="w307" length="3" offset="1512">het</wf>
+<wf sent="19" id="w308" length="6" offset="1516">opgaat</wf>
+<wf sent="19" id="w309" length="1" offset="1522">.</wf>
+<wf sent="20" id="w310" length="2" offset="1524">We</wf>
+<wf sent="20" id="w311" length="8" offset="1527">focussen</wf>
+<wf sent="20" id="w312" length="3" offset="1536">ons</wf>
+<wf sent="20" id="w313" length="2" offset="1540">nu</wf>
+<wf sent="20" id="w314" length="2" offset="1543">op</wf>
+<wf sent="20" id="w315" length="3" offset="1546">een</wf>
+<wf sent="20" id="w316" length="12" offset="1550">uitverkochte</wf>
+<wf sent="20" id="w317" length="4" offset="1563">zaal</wf>
+<wf sent="20" id="w318" length="2" offset="1568">en</wf>
+<wf sent="20" id="w319" length="3" offset="1571">een</wf>
+<wf sent="20" id="w320" length="5" offset="1575">goede</wf>
+<wf sent="20" id="w321" length="4" offset="1581">show</wf>
+<wf sent="20" id="w322" length="1" offset="1585">.</wf>
+<wf sent="21" id="w323" length="5" offset="1587">Mocht</wf>
+<wf sent="21" id="w324" length="2" offset="1593">er</wf>
+<wf sent="21" id="w325" length="3" offset="1596">van</wf>
+<wf sent="21" id="w326" length="5" offset="1600">hoger</wf>
+<wf sent="21" id="w327" length="4" offset="1606">hand</wf>
+<wf sent="21" id="w328" length="3" offset="1611">een</wf>
+<wf sent="21" id="w329" length="10" offset="1615">beslissing</wf>
+<wf sent="21" id="w330" length="6" offset="1626">worden</wf>
+<wf sent="21" id="w331" length="7" offset="1633">genomen</wf>
+<wf sent="21" id="w332" length="1" offset="1640">,</wf>
+<wf sent="21" id="w333" length="3" offset="1642">dan</wf>
+<wf sent="21" id="w334" length="4" offset="1646">zien</wf>
+<wf sent="21" id="w335" length="2" offset="1651">we</wf>
+<wf sent="21" id="w336" length="3" offset="1654">wel</wf>
+<wf sent="21" id="w337" length="6" offset="1658">verder</wf>
+<wf sent="21" id="w338" length="1" offset="1664">.</wf>
+<wf sent="22" id="w339" length="1" offset="1665">”</wf>
+<wf sent="22" id="w340" length="8" offset="1667">Afrojack</wf>
+<wf sent="22" id="w341" length="1" offset="1675">,</wf>
+<wf sent="22" id="w342" length="3" offset="1677">net</wf>
+<wf sent="22" id="w343" length="3" offset="1681">als</wf>
+<wf sent="22" id="w344" length="2" offset="1685">de</wf>
+<wf sent="22" id="w345" length="11" offset="1688">Nederlandse</wf>
+<wf sent="22" id="w346" length="9" offset="1700">inzending</wf>
+<wf sent="22" id="w347" length="6" offset="1710">Jeangu</wf>
+<wf sent="22" id="w348" length="7" offset="1717">Macrooy</wf>
+<wf sent="22" id="w349" length="3" offset="1725">met</wf>
+<wf sent="22" id="w350" length="10" offset="1729">Surinaamse</wf>
+<wf sent="22" id="w351" length="5" offset="1740">roots</wf>
+<wf sent="22" id="w352" length="1" offset="1745">,</wf>
+<wf sent="22" id="w353" length="2" offset="1747">is</wf>
+<wf sent="22" id="w354" length="2" offset="1750">al</wf>
+<wf sent="22" id="w355" length="5" offset="1753">jaren</wf>
+<wf sent="22" id="w356" length="14" offset="1759">internationaal</wf>
+<wf sent="22" id="w357" length="9" offset="1774">succesvol</wf>
+<wf sent="22" id="w358" length="3" offset="1784">als</wf>
+<wf sent="22" id="w359" length="2" offset="1788">dj</wf>
+<wf sent="22" id="w360" length="1" offset="1790">.</wf>
+<wf sent="23" id="w361" length="3" offset="1792">Hij</wf>
+<wf sent="23" id="w362" length="7" offset="1796">scoorde</wf>
+<wf sent="23" id="w363" length="3" offset="1804">een</wf>
+<wf sent="23" id="w364" length="6" offset="1808">nummer</wf>
+<wf sent="23" id="w365" length="5" offset="1815">1-hit</wf>
+<wf sent="23" id="w366" length="2" offset="1821">in</wf>
+<wf sent="23" id="w367" length="2" offset="1824">de</wf>
+<wf sent="23" id="w368" length="9" offset="1827">Verenigde</wf>
+<wf sent="23" id="w369" length="6" offset="1837">Staten</wf>
+<wf sent="23" id="w370" length="5" offset="1844">samen</wf>
+<wf sent="23" id="w371" length="3" offset="1850">met</wf>
+<wf sent="23" id="w372" length="7" offset="1854">Pitbull</wf>
+<wf sent="23" id="w373" length="2" offset="1862">en</wf>
+<wf sent="23" id="w374" length="2" offset="1865">Ne</wf>
+<wf sent="23" id="w375" length="1" offset="1867">-</wf>
+<wf sent="23" id="w376" length="2" offset="1868">Yo</wf>
+<wf sent="23" id="w377" length="3" offset="1871">met</wf>
+<wf sent="23" id="w378" length="3" offset="1875">het</wf>
+<wf sent="23" id="w379" length="6" offset="1879">nummer</wf>
+<wf sent="23" id="w380" length="4" offset="1886">Give</wf>
+<wf sent="23" id="w381" length="2" offset="1891">me</wf>
+<wf sent="23" id="w382" length="10" offset="1894">Everything</wf>
+<wf sent="23" id="w383" length="1" offset="1904">.</wf>
+<wf sent="24" id="w384" length="3" offset="1906">Hij</wf>
+<wf sent="24" id="w385" length="5" offset="1910">stond</wf>
+<wf sent="24" id="w386" length="2" offset="1916">in</wf>
+<wf sent="24" id="w387" length="4" offset="1919">2019</wf>
+<wf sent="24" id="w388" length="2" offset="1924">op</wf>
+<wf sent="24" id="w389" length="6" offset="1927">nummer</wf>
+<wf sent="24" id="w390" length="1" offset="1934">9</wf>
+<wf sent="24" id="w391" length="2" offset="1936">in</wf>
+<wf sent="24" id="w392" length="2" offset="1939">de</wf>
+<wf sent="24" id="w393" length="3" offset="1942">top</wf>
+<wf sent="24" id="w394" length="9" offset="1946">100-lijst</wf>
+<wf sent="24" id="w395" length="3" offset="1956">van</wf>
+<wf sent="24" id="w396" length="5" offset="1960">meest</wf>
+<wf sent="24" id="w397" length="9" offset="1966">populaire</wf>
+<wf sent="24" id="w398" length="2" offset="1976">dj</wf>
+<wf sent="24" id="w399" length="2" offset="1978">'s</wf>
+<wf sent="24" id="w400" length="3" offset="1981">van</wf>
+<wf sent="24" id="w401" length="3" offset="1985">het</wf>
+<wf sent="24" id="w402" length="6" offset="1989">Britse</wf>
+<wf sent="24" id="w403" length="11" offset="1996">tijdschrift</wf>
+<wf sent="24" id="w404" length="2" offset="2008">DJ</wf>
+<wf sent="24" id="w405" length="3" offset="2011">Mag</wf>
+<wf sent="24" id="w406" length="1" offset="2014">.</wf>
+</text>
+<terms>
+<term id="t1" lemma="afrojack" pos="PROPN" type="open" morphofeat="N|eigen|ev|basis|zijd|stan__Gender=Com|Number=Sing">
+<span>
+<target id="w1"/>
+</span>
+</term>
+<term id="t2" lemma="met" pos="ADP" type="open" morphofeat="VZ|init">
+<span>
+<target id="w2"/>
+</span>
+</term>
+<term id="t3" lemma="130" pos="NUM" type="open" morphofeat="TW|hoofd|prenom|stan">
+<span>
+<target id="w3"/>
+</span>
+</term>
+<term id="t4" lemma="man" pos="NOUN" type="open" morphofeat="N|soort|ev|basis|zijd|stan__Gender=Com|Number=Sing">
+<span>
+<target id="w4"/>
+</span>
+</term>
+<term id="t5" lemma="op" pos="ADP" type="open" morphofeat="VZ|init">
+<span>
+<target id="w5"/>
+</span>
+</term>
+<term id="t6" lemma="podium" pos="NOUN" type="open" morphofeat="N|soort|ev|basis|onz|stan__Gender=Neut|Number=Sing">
+<span>
+<target id="w6"/>
+</span>
+</term>
+<term id="t7" lemma="songfestival" pos="NOUN" type="open" morphofeat="N|soort|ev|basis|onz|stan__Gender=Neut|Number=Sing" compound_type="endocentric" head="t7.c1">
+<span>
+<target id="w7"/>
+</span>
+<component id="t7.c0" pos="NOUN" lemma="song">
+<span>
+<target id="w7.sub0"/>
+</span>
+</component>
+<component id="t7.c1" pos="NOUN" lemma="festival">
+<span>
+<target id="w7.sub1"/>
+</span>
+</component>
+</term>
+<term id="t8" lemma="." pos="SYM" type="open" morphofeat="LET">
+<span>
+<target id="w8"/>
+</span>
+</term>
+<term id="t9" lemma="na" pos="ADP" type="open" morphofeat="Prep|voor__AdpType=Prep">
+<span>
+<target id="w9"/>
+</span>
+</term>
+<term id="t10" lemma="het" pos="DET" type="open" morphofeat="Art|bep|onzijd|neut__Definite=Def|Gender=Neut|PronType=Art">
+<span>
+<target id="w10"/>
+</span>
+</term>
+<term id="t11" lemma="fiasco" pos="NOUN" type="open" morphofeat="N|soort|ev|neut__Number=Sing">
+<span>
+<target id="w11"/>
+</span>
+</term>
+<term id="t12" lemma="met" pos="ADP" type="open" morphofeat="Prep|voor__AdpType=Prep">
+<span>
+<target id="w12"/>
+</span>
+</term>
+<term id="t13" lemma="madonna" pos="NOUN" type="open" morphofeat="N|eigen|ev|neut__Number=Sing">
+<span>
+<target id="w13"/>
+</span>
+</term>
+<term id="t14" lemma="vorig" pos="ADJ" type="open" morphofeat="Adj|attr|stell|onverv__Degree=Pos">
+<span>
+<target id="w14"/>
+</span>
+</term>
+<term id="t15" lemma="jaar" pos="NOUN" type="open" morphofeat="N|soort|ev|neut__Number=Sing">
+<span>
+<target id="w15"/>
+</span>
+</term>
+<term id="t16" lemma="in" pos="ADP" type="open" morphofeat="Prep|voor__AdpType=Prep">
+<span>
+<target id="w16"/>
+</span>
+</term>
+<term id="t17" lemma="israël" pos="NOUN" type="open" morphofeat="N|eigen|ev|neut__Number=Sing">
+<span>
+<target id="w17"/>
+</span>
+</term>
+<term id="t18" lemma="hebben" pos="VERB" type="open" morphofeat="V|hulp|ovt|1of2of3|ev__Aspect=Imp|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin">
+<span>
+<target id="w18"/>
+</span>
+</term>
+<term id="t19" lemma="de" pos="DET" type="open" morphofeat="Art|bep|zijdofmv|neut__Definite=Def|PronType=Art">
+<span>
+<target id="w19"/>
+</span>
+</term>
+<term id="t20" lemma="organisatie" pos="NOUN" type="open" morphofeat="N|soort|ev|neut__Number=Sing">
+<span>
+<target id="w20"/>
+</span>
+</term>
+<term id="t21" lemma="van" pos="ADP" type="open" morphofeat="Prep|voor__AdpType=Prep">
+<span>
+<target id="w21"/>
+</span>
+</term>
+<term id="t22" lemma="het" pos="DET" type="open" morphofeat="Art|bep|onzijd|neut__Definite=Def|Gender=Neut|PronType=Art">
+<span>
+<target id="w22"/>
+</span>
+</term>
+<term id="t23" lemma="songfestival" pos="NOUN" type="open" morphofeat="N|soort|ev|neut__Number=Sing" compound_type="endocentric" head="t23.c1">
+<span>
+<target id="w23"/>
+</span>
+<component id="t23.c0" pos="NOUN" lemma="song">
+<span>
+<target id="w23.sub0"/>
+</span>
+</component>
+<component id="t23.c1" pos="NOUN" lemma="festival">
+<span>
+<target id="w23.sub1"/>
+</span>
+</component>
+</term>
+<term id="t24" lemma="al" pos="ADV" type="open" morphofeat="Adv|gew|geenfunc|stell|onverv__Degree=Pos">
+<span>
+<target id="w24"/>
+</span>
+</term>
+<term id="t25" lemma="aangeven" pos="VERB" type="open" morphofeat="V|trans|verldw|onverv__Subcat=Tran|Tense=Past|VerbForm=Part">
+<span>
+<target id="w25"/>
+</span>
+</term>
+<term id="t26" lemma="niet" pos="ADV" type="open" morphofeat="Adv|gew|geenfunc|stell|onverv__Degree=Pos">
+<span>
+<target id="w26"/>
+</span>
+</term>
+<term id="t27" lemma="een" pos="DET" type="open" morphofeat="Art|onbep|zijdofonzijd|neut__Definite=Ind|Number=Sing|PronType=Art">
+<span>
+<target id="w27"/>
+</span>
+</term>
+<term id="t28" lemma="internationaal" pos="ADJ" type="open" morphofeat="Adj|attr|stell|vervneut__Case=Nom|Degree=Pos">
+<span>
+<target id="w28"/>
+</span>
+</term>
+<term id="t29" lemma="act" pos="NOUN" type="open" morphofeat="N|soort|ev|neut__Number=Sing">
+<span>
+<target id="w29"/>
+</span>
+</term>
+<term id="t30" lemma="te" pos="ADP" type="open" morphofeat="Prep|voorinf__AdpType=Prep|PartType=Inf">
+<span>
+<target id="w30"/>
+</span>
+</term>
+<term id="t31" lemma="gaan" pos="VERB" type="open" morphofeat="V|hulp|inf__VerbForm=Inf|VerbType=Mod">
+<span>
+<target id="w31"/>
+</span>
+</term>
+<term id="t32" lemma="zoeken" pos="VERB" type="open" morphofeat="V|trans|inf__Subcat=Tran|VerbForm=Inf">
+<span>
+<target id="w32"/>
+</span>
+</term>
+<term id="t33" lemma="," pos="PUNCT" type="open" morphofeat="Punc|komma__PunctType=Comm">
+<span>
+<target id="w33"/>
+</span>
+</term>
+<term id="t34" lemma="maar" pos="CONJ" type="open" morphofeat="Conj|neven___">
+<span>
+<target id="w34"/>
+</span>
+</term>
+<term id="t35" lemma="het" pos="DET" type="open" morphofeat="Art|bep|onzijd|neut__Definite=Def|Gender=Neut|PronType=Art">
+<span>
+<target id="w35"/>
+</span>
+</term>
+<term id="t36" lemma="dichter" pos="NOUN" type="open" morphofeat="N|soort|ev|neut__Number=Sing">
+<span>
+<target id="w36"/>
+</span>
+</term>
+<term id="t37" lemma="bij" pos="ADP" type="open" morphofeat="Prep|voor__AdpType=Prep">
+<span>
+<target id="w37"/>
+</span>
+</term>
+<term id="t38" lemma="huis" pos="NOUN" type="open" morphofeat="N|soort|ev|neut__Number=Sing">
+<span>
+<target id="w38"/>
+</span>
+</term>
+<term id="t39" lemma="te" pos="ADP" type="open" morphofeat="Prep|voorinf__AdpType=Prep|PartType=Inf">
+<span>
+<target id="w39"/>
+</span>
+</term>
+<term id="t40" lemma="houden" pos="VERB" type="open" morphofeat="V|trans|inf__Subcat=Tran|VerbForm=Inf">
+<span>
+<target id="w40"/>
+</span>
+</term>
+<term id="t41" lemma="." pos="PUNCT" type="open" morphofeat="Punc|punt__PunctType=Peri">
+<span>
+<target id="w41"/>
+</span>
+</term>
+<term id="t42" lemma="dat" pos="PRON" type="open" morphofeat="Pron|aanw|neut|zelfst__PronType=Dem">
+<span>
+<target id="w42"/>
+</span>
+</term>
+<term id="t43" lemma="lukken" pos="VERB" type="open" morphofeat="V|intrans|ott|3|ev__Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Subcat=Intr|Tense=Pres|VerbForm=Fin">
+<span>
+<target id="w43"/>
+</span>
+</term>
+<term id="t44" lemma="met" pos="ADP" type="open" morphofeat="Prep|voor__AdpType=Prep">
+<span>
+<target id="w44"/>
+</span>
+</term>
+<term id="t45" lemma="afrojack" pos="NOUN" type="open" morphofeat="N|eigen|ev|neut__Number=Sing">
+<span>
+<target id="w45"/>
+</span>
+</term>
+<term id="t46" lemma="zeer" pos="ADV" type="open" morphofeat="Adv|gew|geenfunc|stell|onverv__Degree=Pos">
+<span>
+<target id="w46"/>
+</span>
+</term>
+<term id="t47" lemma="goed" pos="ADJ" type="open" morphofeat="Adj|attr|stell|onverv__Degree=Pos">
+<span>
+<target id="w47"/>
+</span>
+</term>
+<term id="t48" lemma="." pos="PUNCT" type="open" morphofeat="Punc|punt__PunctType=Peri">
+<span>
+<target id="w48"/>
+</span>
+</term>
+<term id="t49" lemma="de" pos="DET" type="open" morphofeat="Art|bep|zijdofmv|neut__Definite=Def|PronType=Art">
+<span>
+<target id="w49"/>
+</span>
+</term>
+<term id="t50" lemma="dj" pos="DET" type="open" morphofeat="Art|bep|zijdofmv|neut__Definite=Def|PronType=Art">
+<span>
+<target id="w50"/>
+</span>
+</term>
+<term id="t51" lemma="groeien" pos="VERB" type="open" morphofeat="V|intrans|ovt|1of2of3|ev__Aspect=Imp|Mood=Ind|Number=Sing|Subcat=Intr|Tense=Past|VerbForm=Fin" component_of="mw2">
+<span>
+<target id="w51"/>
+</span>
+</term>
+<term id="t52" lemma="op" pos="ADV" type="open" morphofeat="Adv|deelv__PartType=Vbp" component_of="mw2">
+<span>
+<target id="w52"/>
+</span>
+</term>
+<term id="t53" lemma="in" pos="ADP" type="open" morphofeat="Prep|voor__AdpType=Prep">
+<span>
+<target id="w53"/>
+</span>
+</term>
+<term id="t54" lemma="spijkenisse" pos="NOUN" type="open" morphofeat="N|eigen|ev|neut__Number=Sing">
+<span>
+<target id="w54"/>
+</span>
+</term>
+<term id="t55" lemma="," pos="PUNCT" type="open" morphofeat="Punc|komma__PunctType=Comm">
+<span>
+<target id="w55"/>
+</span>
+</term>
+<term id="t56" lemma="onder" pos="ADP" type="open" morphofeat="Prep|voor__AdpType=Prep">
+<span>
+<target id="w56"/>
+</span>
+</term>
+<term id="t57" lemma="de" pos="DET" type="open" morphofeat="Art|bep|zijdofmv|neut__Definite=Def|PronType=Art">
+<span>
+<target id="w57"/>
+</span>
+</term>
+<term id="t58" lemma="rook" pos="NOUN" type="open" morphofeat="N|soort|ev|neut__Number=Sing">
+<span>
+<target id="w58"/>
+</span>
+</term>
+<term id="t59" lemma="van" pos="ADP" type="open" morphofeat="Prep|voor__AdpType=Prep">
+<span>
+<target id="w59"/>
+</span>
+</term>
+<term id="t60" lemma="rotterdam" pos="NOUN" type="open" morphofeat="N|eigen|ev|neut__Number=Sing">
+<span>
+<target id="w60"/>
+</span>
+</term>
+<term id="t61" lemma="waar" pos="ADV" type="open" morphofeat="Adv|gew|vrag__PronType=Int">
+<span>
+<target id="w61"/>
+</span>
+</term>
+<term id="t62" lemma="het" pos="DET" type="open" morphofeat="Art|bep|onzijd|neut__Definite=Def|Gender=Neut|PronType=Art">
+<span>
+<target id="w62"/>
+</span>
+</term>
+<term id="t63" lemma="muziekfeest" pos="NOUN" type="open" morphofeat="N|soort|ev|neut__Number=Sing" compound_type="endocentric" head="t63.c1">
+<span>
+<target id="w63"/>
+</span>
+<component id="t63.c0" pos="NOUN" lemma="muziek">
+<span>
+<target id="w63.sub0"/>
+</span>
+</component>
+<component id="t63.c1" pos="NOUN" lemma="feest">
+<span>
+<target id="w63.sub1"/>
+</span>
+</component>
+</term>
+<term id="t64" lemma="halverwege" pos="ADP" type="open" morphofeat="Prep|voor__AdpType=Prep">
+<span>
+<target id="w64"/>
+</span>
+</term>
+<term id="t65" lemma="mei" pos="NOUN" type="open" morphofeat="N|eigen|ev|neut__Number=Sing">
+<span>
+<target id="w65"/>
+</span>
+</term>
+<term id="t66" lemma="plaatsvinden" pos="VERB" type="open" morphofeat="V|intrans|ott|3|ev__Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Subcat=Intr|Tense=Pres|VerbForm=Fin">
+<span>
+<target id="w66"/>
+</span>
+</term>
+<term id="t67" lemma="." pos="PUNCT" type="open" morphofeat="Punc|punt__PunctType=Peri">
+<span>
+<target id="w67"/>
+</span>
+</term>
+<term id="t68" lemma="," pos="PUNCT" type="open" morphofeat="Punc|komma__PunctType=Comm">
+<span>
+<target id="w68"/>
+</span>
+</term>
+<term id="t69" lemma="," pos="PUNCT" type="open" morphofeat="Punc|komma__PunctType=Comm">
+<span>
+<target id="w69"/>
+</span>
+</term>
+<term id="t70" lemma="we" pos="PRON" type="open" morphofeat="Pron|per|1|mv|nom__Case=Nom|Number=Plur|Person=1|PronType=Prs">
+<span>
+<target id="w70"/>
+</span>
+</term>
+<term id="t71" lemma="gaan" pos="VERB" type="open" morphofeat="V|hulp|ott|1of2of3|mv__Aspect=Imp|Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin|VerbType=Mod">
+<span>
+<target id="w71"/>
+</span>
+</term>
+<term id="t72" lemma="afrojack" pos="NOUN" type="open" morphofeat="N|eigen|ev|neut__Number=Sing">
+<span>
+<target id="w72"/>
+</span>
+</term>
+<term id="t73" lemma="niet" pos="ADV" type="open" morphofeat="Adv|gew|geenfunc|stell|onverv__Degree=Pos">
+<span>
+<target id="w73"/>
+</span>
+</term>
+<term id="t74" lemma="zomaar" pos="ADV" type="open" morphofeat="Adv|gew|geenfunc|stell|onverv__Degree=Pos">
+<span>
+<target id="w74"/>
+</span>
+</term>
+<term id="t75" lemma="op" pos="ADP" type="open" morphofeat="Prep|voor__AdpType=Prep">
+<span>
+<target id="w75"/>
+</span>
+</term>
+<term id="t76" lemma="het" pos="DET" type="open" morphofeat="Art|bep|onzijd|neut__Definite=Def|Gender=Neut|PronType=Art">
+<span>
+<target id="w76"/>
+</span>
+</term>
+<term id="t77" lemma="podium" pos="NOUN" type="open" morphofeat="N|soort|ev|neut__Number=Sing">
+<span>
+<target id="w77"/>
+</span>
+</term>
+<term id="t78" lemma="zetten" pos="VERB" type="open" morphofeat="V|trans|inf__Subcat=Tran|VerbForm=Inf">
+<span>
+<target id="w78"/>
+</span>
+</term>
+<term id="t79" lemma="&quot;" pos="PUNCT" type="open" morphofeat="Punc|aanhaaldubb__PunctType=Quot">
+<span>
+<target id="w79"/>
+</span>
+</term>
+<term id="t80" lemma="," pos="PUNCT" type="open" morphofeat="Punc|komma__PunctType=Comm">
+<span>
+<target id="w80"/>
+</span>
+</term>
+<term id="t81" lemma="leggen" pos="VERB" type="open" morphofeat="V|trans|ott|3|ev__Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Subcat=Tran|Tense=Pres|VerbForm=Fin" component_of="mw3">
+<span>
+<target id="w81"/>
+</span>
+</term>
+<term id="t82" lemma="bakker" pos="NOUN" type="open" morphofeat="N|eigen|ev|neut__Number=Sing">
+<span>
+<target id="w82"/>
+</span>
+</term>
+<term id="t83" lemma="uit" pos="ADV" type="open" morphofeat="Adv|deelv__PartType=Vbp" component_of="mw3">
+<span>
+<target id="w83"/>
+</span>
+</term>
+<term id="t84" lemma="." pos="PUNCT" type="open" morphofeat="Punc|punt__PunctType=Peri">
+<span>
+<target id="w84"/>
+</span>
+</term>
+<term id="t85" lemma="," pos="PUNCT" type="open" morphofeat="Punc|komma__PunctType=Comm">
+<span>
+<target id="w85"/>
+</span>
+</term>
+<term id="t86" lemma="," pos="PUNCT" type="open" morphofeat="Punc|komma__PunctType=Comm">
+<span>
+<target id="w86"/>
+</span>
+</term>
+<term id="t87" lemma="we" pos="PRON" type="open" morphofeat="Pron|per|1|mv|nom__Case=Nom|Number=Plur|Person=1|PronType=Prs">
+<span>
+<target id="w87"/>
+</span>
+</term>
+<term id="t88" lemma="gaan" pos="VERB" type="open" morphofeat="V|hulp|ott|1of2of3|mv__Aspect=Imp|Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin|VerbType=Mod">
+<span>
+<target id="w88"/>
+</span>
+</term>
+<term id="t89" lemma="iets" pos="PRON" type="open" morphofeat="Pron|onbep|neut|zelfst__PronType=Ind">
+<span>
+<target id="w89"/>
+</span>
+</term>
+<term id="t90" lemma="heel" pos="ADV" type="open" morphofeat="Adv|gew|geenfunc|stell|onverv__Degree=Pos">
+<span>
+<target id="w90"/>
+</span>
+</term>
+<term id="t91" lemma="speciaal" pos="ADJ" type="open" morphofeat="Adj|attr|stell|onverv__Degree=Pos">
+<span>
+<target id="w91"/>
+</span>
+</term>
+<term id="t92" lemma="doen" pos="VERB" type="open" morphofeat="V|trans|inf__Subcat=Tran|VerbForm=Inf">
+<span>
+<target id="w92"/>
+</span>
+</term>
+<term id="t93" lemma="." pos="PUNCT" type="open" morphofeat="Punc|punt__PunctType=Peri">
+<span>
+<target id="w93"/>
+</span>
+</term>
+<term id="t94" lemma="natuurlijk" pos="ADJ" type="open" morphofeat="Adj|adv|stell|onverv__Degree=Pos|Variant=Short">
+<span>
+<target id="w94"/>
+</span>
+</term>
+<term id="t95" lemma="zullen" pos="VERB" type="open" morphofeat="V|hulp|ovt|1of2of3|mv__Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin">
+<span>
+<target id="w95"/>
+</span>
+</term>
+<term id="t96" lemma="we" pos="PRON" type="open" morphofeat="Pron|per|1|mv|nom__Case=Nom|Number=Plur|Person=1|PronType=Prs">
+<span>
+<target id="w96"/>
+</span>
+</term>
+<term id="t97" lemma="hem" pos="PRON" type="open" morphofeat="Pron|per|3|ev|datofacc__Case=Acc,Dat|Number=Sing|Person=3|PronType=Prs">
+<span>
+<target id="w97"/>
+</span>
+</term>
+<term id="t98" lemma="achter" pos="ADP" type="open" morphofeat="Prep|voor__AdpType=Prep">
+<span>
+<target id="w98"/>
+</span>
+</term>
+<term id="t99" lemma="een" pos="DET" type="open" morphofeat="Art|onbep|zijdofonzijd|neut__Definite=Ind|Number=Sing|PronType=Art">
+<span>
+<target id="w99"/>
+</span>
+</term>
+<term id="t100" lemma="dj" pos="ADV" type="open" morphofeat="Adv|gew|aanw__PronType=Dem">
+<span>
+<target id="w100"/>
+</span>
+</term>
+<term id="t101" lemma="-" pos="PUNCT" type="open" morphofeat="Punc|liggstreep___">
+<span>
+<target id="w101"/>
+</span>
+</term>
+<term id="t102" lemma="boot" pos="ADJ" type="open" morphofeat="Adj|adv|stell|onverv__Degree=Pos|Variant=Short">
+<span>
+<target id="w102"/>
+</span>
+</term>
+<term id="t103" lemma="kunnen" pos="VERB" type="open" morphofeat="V|hulp|inf__VerbForm=Inf|VerbType=Mod">
+<span>
+<target id="w103"/>
+</span>
+</term>
+<term id="t104" lemma="zetten" pos="VERB" type="open" morphofeat="V|trans|inf__Subcat=Tran|VerbForm=Inf">
+<span>
+<target id="w104"/>
+</span>
+</term>
+<term id="t105" lemma="en" pos="CONJ" type="open" morphofeat="Conj|neven___">
+<span>
+<target id="w105"/>
+</span>
+</term>
+<term id="t106" lemma="dan" pos="ADV" type="open" morphofeat="Adv|gew|aanw__PronType=Dem">
+<span>
+<target id="w106"/>
+</span>
+</term>
+<term id="t107" lemma="gaan" pos="VERB" type="open" morphofeat="V|intrans|ott|3|ev__Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Subcat=Intr|Tense=Pres|VerbForm=Fin">
+<span>
+<target id="w107"/>
+</span>
+</term>
+<term id="t108" lemma="hij" pos="PRON" type="open" morphofeat="Pron|per|3|ev|nom__Case=Nom|Number=Sing|Person=3|PronType=Prs">
+<span>
+<target id="w108"/>
+</span>
+</term>
+<term id="t109" lemma="een" pos="DET" type="open" morphofeat="Art|onbep|zijdofonzijd|neut__Definite=Ind|Number=Sing|PronType=Art">
+<span>
+<target id="w109"/>
+</span>
+</term>
+<term id="t110" lemma="waanzinnig" pos="ADJ" type="open" morphofeat="Adj|attr|stell|vervneut__Case=Nom|Degree=Pos">
+<span>
+<target id="w110"/>
+</span>
+</term>
+<term id="t111" lemma="act" pos="NOUN" type="open" morphofeat="N|soort|ev|neut__Number=Sing">
+<span>
+<target id="w111"/>
+</span>
+</term>
+<term id="t112" lemma="weggeven" pos="VERB" type="open" morphofeat="V|trans|inf__Subcat=Tran|VerbForm=Inf">
+<span>
+<target id="w112"/>
+</span>
+</term>
+<term id="t113" lemma="." pos="PUNCT" type="open" morphofeat="Punc|punt__PunctType=Peri">
+<span>
+<target id="w113"/>
+</span>
+</term>
+<term id="t114" lemma="maar" pos="CONJ" type="open" morphofeat="Conj|neven___">
+<span>
+<target id="w114"/>
+</span>
+</term>
+<term id="t115" lemma="ons" pos="PRON" type="open" morphofeat="Pron|bez|1|mv|neut|attr__Number=Plur|Person=1|Poss=Yes|PronType=Prs">
+<span>
+<target id="w115"/>
+</span>
+</term>
+<term id="t116" lemma="thema" pos="NOUN" type="open" morphofeat="N|soort|ev|neut__Number=Sing">
+<span>
+<target id="w116"/>
+</span>
+</term>
+<term id="t117" lemma="zijn" pos="VERB" type="open" morphofeat="V|hulpofkopp|ott|3|ev__Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|VerbType=Aux,Cop">
+<span>
+<target id="w117"/>
+</span>
+</term>
+<term id="t118" lemma="op" pos="NOUN" type="open" morphofeat="N_N|eigen|ev|neut_eigen|ev|neut___">
+<span>
+<target id="w118"/>
+</span>
+</term>
+<term id="t119" lemma="up" pos="PROPN" type="open" morphofeat="PROPN___">
+<span>
+<target id="w119"/>
+</span>
+</term>
+<term id="t120" lemma="," pos="PUNCT" type="open" morphofeat="Punc|komma__PunctType=Comm">
+<span>
+<target id="w120"/>
+</span>
+</term>
+<term id="t121" lemma="dus" pos="ADV" type="open" morphofeat="Adv|gew|aanw__PronType=Dem">
+<span>
+<target id="w121"/>
+</span>
+</term>
+<term id="t122" lemma="we" pos="PRON" type="open" morphofeat="Pron|per|1|mv|nom__Case=Nom|Number=Plur|Person=1|PronType=Prs">
+<span>
+<target id="w122"/>
+</span>
+</term>
+<term id="t123" lemma="willen" pos="VERB" type="open" morphofeat="V|hulp|ott|1of2of3|mv__Aspect=Imp|Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin">
+<span>
+<target id="w123"/>
+</span>
+</term>
+<term id="t124" lemma="heel" pos="ADV" type="open" morphofeat="Adv|gew|geenfunc|stell|onverv__Degree=Pos">
+<span>
+<target id="w124"/>
+</span>
+</term>
+<term id="t125" lemma="graag" pos="ADJ" type="open" morphofeat="Adj|adv|stell|onverv__Degree=Pos|Variant=Short">
+<span>
+<target id="w125"/>
+</span>
+</term>
+<term id="t126" lemma="verschillende" pos="PRON" type="open" morphofeat="Pron|onbep|neut|attr__PronType=Ind">
+<span>
+<target id="w126"/>
+</span>
+</term>
+<term id="t127" lemma="stijl" pos="NOUN" type="open" morphofeat="N|soort|mv|neut__Number=Plur">
+<span>
+<target id="w127"/>
+</span>
+</term>
+<term id="t128" lemma="met" pos="ADP" type="open" morphofeat="Prep|voor__AdpType=Prep">
+<span>
+<target id="w128"/>
+</span>
+</term>
+<term id="t129" lemma="elkaar" pos="PRON" type="open" morphofeat="Pron|rec|neut__PronType=Rcp">
+<span>
+<target id="w129"/>
+</span>
+</term>
+<term id="t130" lemma="verbinden" pos="VERB" type="open" morphofeat="V|intrans|ovt|1of2of3|mv__Aspect=Imp|Mood=Ind|Number=Plur|Subcat=Intr|Tense=Past|VerbForm=Fin">
+<span>
+<target id="w130"/>
+</span>
+</term>
+<term id="t131" lemma="." pos="PUNCT" type="open" morphofeat="Punc|punt__PunctType=Peri">
+<span>
+<target id="w131"/>
+</span>
+</term>
+<term id="t132" lemma="afrojack" pos="NOUN" type="open" morphofeat="N|eigen|ev|neut__Number=Sing">
+<span>
+<target id="w132"/>
+</span>
+</term>
+<term id="t133" lemma="gaan" pos="VERB" type="open" morphofeat="V|intrans|ott|3|ev__Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Subcat=Intr|Tense=Pres|VerbForm=Fin">
+<span>
+<target id="w133"/>
+</span>
+</term>
+<term id="t134" lemma="daarom" pos="ADV" type="open" morphofeat="Adv|gew|aanw__PronType=Dem">
+<span>
+<target id="w134"/>
+</span>
+</term>
+<term id="t135" lemma="optreden" pos="VERB" type="open" morphofeat="V|intrans|inf__Subcat=Intr|VerbForm=Inf">
+<span>
+<target id="w135"/>
+</span>
+</term>
+<term id="t136" lemma="met" pos="ADP" type="open" morphofeat="Prep|voor__AdpType=Prep">
+<span>
+<target id="w136"/>
+</span>
+</term>
+<term id="t137" lemma="een" pos="DET" type="open" morphofeat="Art|onbep|zijdofonzijd|neut__Definite=Ind|Number=Sing|PronType=Art">
+<span>
+<target id="w137"/>
+</span>
+</term>
+<term id="t138" lemma="live" pos="ADJ" type="open" morphofeat="Adj|attr|stell|onverv__Degree=Pos">
+<span>
+<target id="w138"/>
+</span>
+</term>
+<term id="t139" lemma="orkest" pos="NOUN" type="open" morphofeat="N|soort|ev|neut__Number=Sing">
+<span>
+<target id="w139"/>
+</span>
+</term>
+<term id="t140" lemma="," pos="PUNCT" type="open" morphofeat="Punc|komma__PunctType=Comm">
+<span>
+<target id="w140"/>
+</span>
+</term>
+<term id="t141" lemma="65" pos="NUM" type="open" morphofeat="Num|hoofd|bep|attr|onverv__Definite=Def|NumType=Card">
+<span>
+<target id="w141"/>
+</span>
+</term>
+<term id="t142" lemma="man" pos="NOUN" type="open" morphofeat="N|soort|ev|neut__Number=Sing">
+<span>
+<target id="w142"/>
+</span>
+</term>
+<term id="t143" lemma="." pos="PUNCT" type="open" morphofeat="Punc|punt__PunctType=Peri">
+<span>
+<target id="w143"/>
+</span>
+</term>
+<term id="t144" lemma="jong" pos="ADJ" type="open" morphofeat="Adj|attr|stell|vervneut__Case=Nom|Degree=Pos">
+<span>
+<target id="w144"/>
+</span>
+</term>
+<term id="t145" lemma="muzikant" pos="NOUN" type="open" morphofeat="N|soort|mv|neut__Number=Plur">
+<span>
+<target id="w145"/>
+</span>
+</term>
+<term id="t146" lemma="die" pos="PRON" type="open" morphofeat="Pron|betr|neut|zelfst__PronType=Rel">
+<span>
+<target id="w146"/>
+</span>
+</term>
+<term id="t147" lemma="we" pos="PRON" type="open" morphofeat="Pron|per|1|mv|nom__Case=Nom|Number=Plur|Person=1|PronType=Prs">
+<span>
+<target id="w147"/>
+</span>
+</term>
+<term id="t148" lemma="allemaal" pos="PRON" type="open" morphofeat="Pron|onbep|neut|zelfst__PronType=Ind">
+<span>
+<target id="w148"/>
+</span>
+</term>
+<term id="t149" lemma="selecteren" pos="VERB" type="open" morphofeat="V|trans|verldw|onverv__Subcat=Tran|Tense=Past|VerbForm=Part">
+<span>
+<target id="w149"/>
+</span>
+</term>
+<term id="t150" lemma="hebben" pos="VERB" type="open" morphofeat="V|hulp|inf__VerbForm=Inf">
+<span>
+<target id="w150"/>
+</span>
+</term>
+<term id="t151" lemma="van" pos="ADP" type="open" morphofeat="Prep|voor__AdpType=Prep">
+<span>
+<target id="w151"/>
+</span>
+</term>
+<term id="t152" lemma="de" pos="DET" type="open" morphofeat="Art|bep|zijdofmv|neut__Definite=Def|PronType=Art">
+<span>
+<target id="w152"/>
+</span>
+</term>
+<term id="t153" lemma="conservatorium" pos="NOUN" type="open" morphofeat="N|soort|mv|neut__Number=Plur">
+<span>
+<target id="w153"/>
+</span>
+</term>
+<term id="t154" lemma="in" pos="ADP" type="open" morphofeat="Prep|voor__AdpType=Prep">
+<span>
+<target id="w154"/>
+</span>
+</term>
+<term id="t155" lemma="nederland" pos="NOUN" type="open" morphofeat="N|eigen|ev|neut__Number=Sing">
+<span>
+<target id="w155"/>
+</span>
+</term>
+<term id="t156" lemma="." pos="PUNCT" type="open" morphofeat="Punc|punt__PunctType=Peri">
+<span>
+<target id="w156"/>
+</span>
+</term>
+<term id="t157" lemma="dus" pos="ADV" type="open" morphofeat="Adv|gew|aanw__PronType=Dem">
+<span>
+<target id="w157"/>
+</span>
+</term>
+<term id="t158" lemma="het" pos="PRON" type="open" morphofeat="Pron|per|3|ev|nom__Case=Nom|Number=Sing|Person=3|PronType=Prs">
+<span>
+<target id="w158"/>
+</span>
+</term>
+<term id="t159" lemma="worden" pos="VERB" type="open" morphofeat="V|hulpofkopp|ott|3|ev__Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin">
+<span>
+<target id="w159"/>
+</span>
+</term>
+<term id="t160" lemma="een" pos="DET" type="open" morphofeat="Art|onbep|zijdofonzijd|neut__Definite=Ind|Number=Sing|PronType=Art">
+<span>
+<target id="w160"/>
+</span>
+</term>
+<term id="t161" lemma="cross" pos="NOUN" type="open" morphofeat="N|soort|ev|neut__Number=Sing">
+<span>
+<target id="w161"/>
+</span>
+</term>
+<term id="t162" lemma="-" pos="PUNCT" type="open" morphofeat="Punc|liggstreep___">
+<span>
+<target id="w162"/>
+</span>
+</term>
+<term id="t163" lemma="over" pos="ADV" type="open" morphofeat="Adv|deelv__PartType=Vbp">
+<span>
+<target id="w163"/>
+</span>
+</term>
+<term id="t164" lemma="van" pos="ADP" type="open" morphofeat="Prep|voor__AdpType=Prep">
+<span>
+<target id="w164"/>
+</span>
+</term>
+<term id="t165" lemma="allemaal" pos="PRON" type="open" morphofeat="Pron|onbep|neut|zelfst__PronType=Ind">
+<span>
+<target id="w165"/>
+</span>
+</term>
+<term id="t166" lemma="muziekstijl" pos="NOUN" type="open" morphofeat="N|soort|mv|neut__Number=Plur" compound_type="endocentric" head="t166.c1">
+<span>
+<target id="w166"/>
+</span>
+<component id="t166.c0" pos="NOUN" lemma="muziek">
+<span>
+<target id="w166.sub0"/>
+</span>
+</component>
+<component id="t166.c1" pos="NOUN" lemma="stijlen">
+<span>
+<target id="w166.sub1"/>
+</span>
+</component>
+</term>
+<term id="t167" lemma="." pos="PUNCT" type="open" morphofeat="Punc|punt__PunctType=Peri">
+<span>
+<target id="w167"/>
+</span>
+</term>
+<term id="t168" lemma="”" pos="NOUN" type="open" morphofeat="N|soort|ev|neut__Number=Sing">
+<span>
+<target id="w168"/>
+</span>
+</term>
+<term id="t169" lemma="kippenvel" pos="NOUN" type="open" morphofeat="N|eigen|ev|neut__Number=Sing">
+<span>
+<target id="w169"/>
+</span>
+</term>
+<term id="t170" lemma="het" pos="PRON" type="open" morphofeat="Pron|onbep|neut|zelfst__PronType=Ind">
+<span>
+<target id="w170"/>
+</span>
+</term>
+<term id="t171" lemma="worden" pos="VERB" type="open" morphofeat="V|hulpofkopp|ott|3|ev__Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin">
+<span>
+<target id="w171"/>
+</span>
+</term>
+<term id="t172" lemma="een" pos="DET" type="open" morphofeat="Art|onbep|zijdofonzijd|neut__Definite=Ind|Number=Sing|PronType=Art">
+<span>
+<target id="w172"/>
+</span>
+</term>
+<term id="t173" lemma="druk" pos="ADJ" type="open" morphofeat="Adj|attr|stell|vervneut__Case=Nom|Degree=Pos">
+<span>
+<target id="w173"/>
+</span>
+</term>
+<term id="t174" lemma="bedoening" pos="NOUN" type="open" morphofeat="N|soort|ev|neut__Number=Sing">
+<span>
+<target id="w174"/>
+</span>
+</term>
+<term id="t175" lemma="op" pos="ADP" type="open" morphofeat="Prep|voor__AdpType=Prep">
+<span>
+<target id="w175"/>
+</span>
+</term>
+<term id="t176" lemma="het" pos="DET" type="open" morphofeat="Art|bep|onzijd|neut__Definite=Def|Gender=Neut|PronType=Art">
+<span>
+<target id="w176"/>
+</span>
+</term>
+<term id="t177" lemma="podium" pos="NOUN" type="open" morphofeat="N|soort|ev|neut__Number=Sing">
+<span>
+<target id="w177"/>
+</span>
+</term>
+<term id="t178" lemma="tijdens" pos="ADP" type="open" morphofeat="Prep|voor__AdpType=Prep">
+<span>
+<target id="w178"/>
+</span>
+</term>
+<term id="t179" lemma="de" pos="DET" type="open" morphofeat="Art|bep|zijdofmv|neut__Definite=Def|PronType=Art">
+<span>
+<target id="w179"/>
+</span>
+</term>
+<term id="t180" lemma="act" pos="NOUN" type="open" morphofeat="N|soort|ev|neut__Number=Sing">
+<span>
+<target id="w180"/>
+</span>
+</term>
+<term id="t181" lemma="van" pos="ADP" type="open" morphofeat="Prep|voor__AdpType=Prep">
+<span>
+<target id="w181"/>
+</span>
+</term>
+<term id="t182" lemma="afrojack" pos="NOUN" type="open" morphofeat="N|eigen|ev|neut__Number=Sing">
+<span>
+<target id="w182"/>
+</span>
+</term>
+<term id="t183" lemma="." pos="PUNCT" type="open" morphofeat="Punc|punt__PunctType=Peri">
+<span>
+<target id="w183"/>
+</span>
+</term>
+<term id="t184" lemma="," pos="PUNCT" type="open" morphofeat="Punc|komma__PunctType=Comm">
+<span>
+<target id="w184"/>
+</span>
+</term>
+<term id="t185" lemma="," pos="PUNCT" type="open" morphofeat="Punc|komma__PunctType=Comm">
+<span>
+<target id="w185"/>
+</span>
+</term>
+<term id="t186" lemma="er" pos="ADV" type="open" morphofeat="Adv|gew|er__AdvType=Ex">
+<span>
+<target id="w186"/>
+</span>
+</term>
+<term id="t187" lemma="zijn" pos="VERB" type="open" morphofeat="V|intrans|ott|1of2of3|mv__Aspect=Imp|Mood=Ind|Number=Plur|Subcat=Intr|Tense=Pres|VerbForm=Fin">
+<span>
+<target id="w187"/>
+</span>
+</term>
+<term id="t188" lemma="geloven" pos="VERB" type="open" morphofeat="V|trans|ott|1|ev__Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Subcat=Tran|Tense=Pres|VerbForm=Fin">
+<span>
+<target id="w188"/>
+</span>
+</term>
+<term id="t189" lemma="ik" pos="PRON" type="open" morphofeat="Pron|per|1|ev|nom__Case=Nom|Number=Sing|Person=1|PronType=Prs">
+<span>
+<target id="w189"/>
+</span>
+</term>
+<term id="t190" lemma="nog" pos="ADV" type="open" morphofeat="Adv|gew|geenfunc|stell|onverv__Degree=Pos">
+<span>
+<target id="w190"/>
+</span>
+</term>
+<term id="t191" lemma="nooit" pos="ADV" type="open" morphofeat="Adv|gew|onbep__PronType=Ind">
+<span>
+<target id="w191"/>
+</span>
+</term>
+<term id="t192" lemma="zo" pos="ADV" type="open" morphofeat="Adv|gew|aanw__PronType=Dem">
+<span>
+<target id="w192"/>
+</span>
+</term>
+<term id="t193" lemma="veel" pos="NUM" type="open" morphofeat="Num|hoofd|onbep|attr|stell|onverv__Degree=Pos|NumType=Card|PronType=Ind">
+<span>
+<target id="w193"/>
+</span>
+</term>
+<term id="t194" lemma="mens" pos="NOUN" type="open" morphofeat="N|soort|mv|neut__Number=Plur">
+<span>
+<target id="w194"/>
+</span>
+</term>
+<term id="t195" lemma="tegelijk" pos="ADV" type="open" morphofeat="Adv|gew|geenfunc|stell|onverv__Degree=Pos">
+<span>
+<target id="w195"/>
+</span>
+</term>
+<term id="t196" lemma="op" pos="ADP" type="open" morphofeat="Prep|voor__AdpType=Prep">
+<span>
+<target id="w196"/>
+</span>
+</term>
+<term id="t197" lemma="het" pos="DET" type="open" morphofeat="Art|bep|onzijd|neut__Definite=Def|Gender=Neut|PronType=Art">
+<span>
+<target id="w197"/>
+</span>
+</term>
+<term id="t198" lemma="eurovisiepodium" pos="NOUN" type="open" morphofeat="N|soort|ev|neut__Number=Sing" compound_type="endocentric" head="t198.c1">
+<span>
+<target id="w198"/>
+</span>
+<component id="t198.c0" pos="NOUN" lemma="eurovisie">
+<span>
+<target id="w198.sub0"/>
+</span>
+</component>
+<component id="t198.c1" pos="NOUN" lemma="podium">
+<span>
+<target id="w198.sub1"/>
+</span>
+</component>
+</term>
+<term id="t199" lemma="zijn" pos="VERB" type="open" morphofeat="V|hulpofkopp|verldw|onverv__Tense=Past|VerbForm=Part">
+<span>
+<target id="w199"/>
+</span>
+</term>
+<term id="t200" lemma="&quot;" pos="PUNCT" type="open" morphofeat="Punc|aanhaaldubb__PunctType=Quot">
+<span>
+<target id="w200"/>
+</span>
+</term>
+<term id="t201" lemma="," pos="PUNCT" type="open" morphofeat="Punc|komma__PunctType=Comm">
+<span>
+<target id="w201"/>
+</span>
+</term>
+<term id="t202" lemma="zeggen" pos="VERB" type="open" morphofeat="V|trans|ott|3|ev__Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Subcat=Tran|Tense=Pres|VerbForm=Fin">
+<span>
+<target id="w202"/>
+</span>
+</term>
+<term id="t203" lemma="bakker" pos="NOUN" type="open" morphofeat="N|eigen|ev|neut__Number=Sing">
+<span>
+<target id="w203"/>
+</span>
+</term>
+<term id="t204" lemma="." pos="PUNCT" type="open" morphofeat="Punc|punt__PunctType=Peri">
+<span>
+<target id="w204"/>
+</span>
+</term>
+<term id="t205" lemma="," pos="PUNCT" type="open" morphofeat="Punc|komma__PunctType=Comm">
+<span>
+<target id="w205"/>
+</span>
+</term>
+<term id="t206" lemma="," pos="PUNCT" type="open" morphofeat="Punc|komma__PunctType=Comm">
+<span>
+<target id="w206"/>
+</span>
+</term>
+<term id="t207" lemma="65" pos="NUM" type="open" morphofeat="Num|hoofd|bep|attr|onverv__Definite=Def|NumType=Card">
+<span>
+<target id="w207"/>
+</span>
+</term>
+<term id="t208" lemma="man" pos="NOUN" type="open" morphofeat="N|soort|ev|neut__Number=Sing">
+<span>
+<target id="w208"/>
+</span>
+</term>
+<term id="t209" lemma="orkest" pos="NOUN" type="open" morphofeat="N|soort|ev|neut__Number=Sing">
+<span>
+<target id="w209"/>
+</span>
+</term>
+<term id="t210" lemma="," pos="PUNCT" type="open" morphofeat="Punc|komma__PunctType=Comm">
+<span>
+<target id="w210"/>
+</span>
+</term>
+<term id="t211" lemma="25-koppig" pos="ADJ" type="open" morphofeat="Adj|attr|stell|onverv__Degree=Pos">
+<span>
+<target id="w211"/>
+</span>
+</term>
+<term id="t212" lemma="gospelkoor" pos="NOUN" type="open" morphofeat="N|soort|ev|neut__Number=Sing" compound_type="endocentric" head="t212.c1">
+<span>
+<target id="w212"/>
+</span>
+<component id="t212.c0" pos="NOUN" lemma="gospel">
+<span>
+<target id="w212.sub0"/>
+</span>
+</component>
+<component id="t212.c1" pos="NOUN" lemma="koor">
+<span>
+<target id="w212.sub1"/>
+</span>
+</component>
+</term>
+<term id="t213" lemma="," pos="PUNCT" type="open" morphofeat="Punc|komma__PunctType=Comm">
+<span>
+<target id="w213"/>
+</span>
+</term>
+<term id="t214" lemma="afrojack" pos="NOUN" type="open" morphofeat="N|eigen|ev|neut__Number=Sing">
+<span>
+<target id="w214"/>
+</span>
+</term>
+<term id="t215" lemma="en" pos="CONJ" type="open" morphofeat="Conj|neven___">
+<span>
+<target id="w215"/>
+</span>
+</term>
+<term id="t216" lemma="onze" pos="PRON" type="open" morphofeat="Pron|bez|1|mv|neut|attr__Number=Plur|Person=1|Poss=Yes|PronType=Prs">
+<span>
+<target id="w216"/>
+</span>
+</term>
+<term id="t217" lemma="danscrew" pos="NOUN" type="open" morphofeat="N|soort|ev|neut__Number=Sing" compound_type="endocentric" head="t217.c1">
+<span>
+<target id="w217"/>
+</span>
+<component id="t217.c0" pos="NOUN" lemma="dans">
+<span>
+<target id="w217.sub0"/>
+</span>
+</component>
+<component id="t217.c1" pos="NOUN" lemma="crew">
+<span>
+<target id="w217.sub1"/>
+</span>
+</component>
+</term>
+<term id="t218" lemma="met" pos="ADP" type="open" morphofeat="Prep|voor__AdpType=Prep">
+<span>
+<target id="w218"/>
+</span>
+</term>
+<term id="t219" lemma="40" pos="NUM" type="open" morphofeat="Num|hoofd|bep|attr|onverv__Definite=Def|NumType=Card">
+<span>
+<target id="w219"/>
+</span>
+</term>
+<term id="t220" lemma="man" pos="NOUN" type="open" morphofeat="N|soort|ev|neut__Number=Sing">
+<span>
+<target id="w220"/>
+</span>
+</term>
+<term id="t221" lemma="." pos="PUNCT" type="open" morphofeat="Punc|punt__PunctType=Peri">
+<span>
+<target id="w221"/>
+</span>
+</term>
+<term id="t222" lemma="”" pos="NOUN" type="open" morphofeat="N|soort|ev|neut__Number=Sing">
+<span>
+<target id="w222"/>
+</span>
+</term>
+<term id="t223" lemma="de" pos="DET" type="open" morphofeat="Art|bep|zijdofmv|neut__Definite=Def|PronType=Art">
+<span>
+<target id="w223"/>
+</span>
+</term>
+<term id="t224" lemma="repetitie" pos="NOUN" type="open" morphofeat="N|soort|mv|neut__Number=Plur">
+<span>
+<target id="w224"/>
+</span>
+</term>
+<term id="t225" lemma="zijn" pos="VERB" type="open" morphofeat="V|hulpofkopp|ott|1of2of3|mv__Aspect=Imp|Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin">
+<span>
+<target id="w225"/>
+</span>
+</term>
+<term id="t226" lemma="al" pos="ADV" type="open" morphofeat="Adv|gew|geenfunc|stell|onverv__Degree=Pos">
+<span>
+<target id="w226"/>
+</span>
+</term>
+<term id="t227" lemma="in" pos="ADP" type="open" morphofeat="Prep_N|voor_soort|ev|neut__AdpType=Prep">
+<span>
+<target id="w227"/>
+</span>
+</term>
+<term id="t228" lemma="volle" pos="X" type="open" morphofeat="X__Number=Sing">
+<span>
+<target id="w228"/>
+</span>
+</term>
+<term id="t229" lemma="gang" pos="NOUN" type="open" morphofeat="N|soort|ev|neut__Number=Sing">
+<span>
+<target id="w229"/>
+</span>
+</term>
+<term id="t230" lemma="." pos="PUNCT" type="open" morphofeat="Punc|punt__PunctType=Peri">
+<span>
+<target id="w230"/>
+</span>
+</term>
+<term id="t231" lemma="," pos="PUNCT" type="open" morphofeat="Punc|komma__PunctType=Comm">
+<span>
+<target id="w231"/>
+</span>
+</term>
+<term id="t232" lemma="," pos="PUNCT" type="open" morphofeat="Punc|komma__PunctType=Comm">
+<span>
+<target id="w232"/>
+</span>
+</term>
+<term id="t233" lemma="ik" pos="PRON" type="open" morphofeat="Pron|per|1|ev|nom__Case=Nom|Number=Sing|Person=1|PronType=Prs">
+<span>
+<target id="w233"/>
+</span>
+</term>
+<term id="t234" lemma="krijgen" pos="VERB" type="open" morphofeat="V|trans|ott|1|ev__Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Subcat=Tran|Tense=Pres|VerbForm=Fin">
+<span>
+<target id="w234"/>
+</span>
+</term>
+<term id="t235" lemma="nu" pos="ADV" type="open" morphofeat="Adv|gew|aanw__PronType=Dem">
+<span>
+<target id="w235"/>
+</span>
+</term>
+<term id="t236" lemma="al" pos="ADV" type="open" morphofeat="Adv|gew|geenfunc|stell|onverv__Degree=Pos">
+<span>
+<target id="w236"/>
+</span>
+</term>
+<term id="t237" lemma="kippenvel" pos="NOUN" type="open" morphofeat="N|soort|ev|neut__Number=Sing">
+<span>
+<target id="w237"/>
+</span>
+</term>
+<term id="t238" lemma="&quot;" pos="PUNCT" type="open" morphofeat="Punc|aanhaaldubb__PunctType=Quot">
+<span>
+<target id="w238"/>
+</span>
+</term>
+<term id="t239" lemma="," pos="PUNCT" type="open" morphofeat="Punc|komma__PunctType=Comm">
+<span>
+<target id="w239"/>
+</span>
+</term>
+<term id="t240" lemma="vullen" pos="VERB" type="open" morphofeat="V|trans|ovt|1of2of3|ev__Aspect=Imp|Mood=Ind|Number=Sing|Subcat=Tran|Tense=Past|VerbForm=Fin" component_of="mw4">
+<span>
+<target id="w240"/>
+</span>
+</term>
+<term id="t241" lemma="de" pos="DET" type="open" morphofeat="Art|bep|zijdofmv|neut__Definite=Def|PronType=Art">
+<span>
+<target id="w241"/>
+</span>
+</term>
+<term id="t242" lemma="man" pos="NOUN" type="open" morphofeat="N|soort|ev|neut__Number=Sing">
+<span>
+<target id="w242"/>
+</span>
+</term>
+<term id="t243" lemma="," pos="PUNCT" type="open" morphofeat="Punc|komma__PunctType=Comm">
+<span>
+<target id="w243"/>
+</span>
+</term>
+<term id="t244" lemma="die" pos="PRON" type="open" morphofeat="Pron|betr|neut|zelfst__PronType=Rel">
+<span>
+<target id="w244"/>
+</span>
+</term>
+<term id="t245" lemma="over" pos="ADP" type="open" morphofeat="Prep|voor__AdpType=Prep">
+<span>
+<target id="w245"/>
+</span>
+</term>
+<term id="t246" lemma="de" pos="DET" type="open" morphofeat="Art|bep|zijdofmv|neut__Definite=Def|PronType=Art">
+<span>
+<target id="w246"/>
+</span>
+</term>
+<term id="t247" lemma="liveshow" pos="NOUN" type="open" morphofeat="N|soort|mv|neut__Number=Plur" compound_type="endocentric" head="t247.c1">
+<span>
+<target id="w247"/>
+</span>
+<component id="t247.c0" pos="ADJ" lemma="live">
+<span>
+<target id="w247.sub0"/>
+</span>
+</component>
+<component id="t247.c1" pos="NOUN" lemma="shows">
+<span>
+<target id="w247.sub1"/>
+</span>
+</component>
+</term>
+<term id="t248" lemma="gaan" pos="VERB" type="open" morphofeat="V|intrans|ott|3|ev__Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Subcat=Intr|Tense=Pres|VerbForm=Fin">
+<span>
+<target id="w248"/>
+</span>
+</term>
+<term id="t249" lemma="," pos="PUNCT" type="open" morphofeat="Punc|komma__PunctType=Comm">
+<span>
+<target id="w249"/>
+</span>
+</term>
+<term id="t250" lemma="glunderen" pos="VERB" type="open" morphofeat="V|intrans|tegdw|onverv__Subcat=Intr|Tense=Pres|VerbForm=Part">
+<span>
+<target id="w250"/>
+</span>
+</term>
+<term id="t251" lemma="aan" pos="ADV" type="open" morphofeat="Adv|deelv__PartType=Vbp" component_of="mw4">
+<span>
+<target id="w251"/>
+</span>
+</term>
+<term id="t252" lemma="." pos="PUNCT" type="open" morphofeat="Punc|punt__PunctType=Peri">
+<span>
+<target id="w252"/>
+</span>
+</term>
+<term id="t253" lemma="de" pos="DET" type="open" morphofeat="Art|bep|zijdofmv|neut__Definite=Def|PronType=Art">
+<span>
+<target id="w253"/>
+</span>
+</term>
+<term id="t254" lemma="vraag" pos="NOUN" type="open" morphofeat="N|soort|ev|neut__Number=Sing">
+<span>
+<target id="w254"/>
+</span>
+</term>
+<term id="t255" lemma="zijn" pos="VERB" type="open" morphofeat="V|hulpofkopp|ott|3|ev__Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin">
+<span>
+<target id="w255"/>
+</span>
+</term>
+<term id="t256" lemma="of" pos="CONJ" type="open" morphofeat="Conj|onder|metfin___">
+<span>
+<target id="w256"/>
+</span>
+</term>
+<term id="t257" lemma="het" pos="DET" type="open" morphofeat="Art|bep|onzijd|neut__Definite=Def|Gender=Neut|PronType=Art">
+<span>
+<target id="w257"/>
+</span>
+</term>
+<term id="t258" lemma="optreden" pos="VERB" type="open" morphofeat="V|intrans|inf|subst__Subcat=Intr|VerbForm=Inf">
+<span>
+<target id="w258"/>
+</span>
+</term>
+<term id="t259" lemma="van" pos="ADP" type="open" morphofeat="Prep|voor__AdpType=Prep">
+<span>
+<target id="w259"/>
+</span>
+</term>
+<term id="t260" lemma="afrojack" pos="NOUN" type="open" morphofeat="N|eigen|ev|neut__Number=Sing">
+<span>
+<target id="w260"/>
+</span>
+</term>
+<term id="t261" lemma="door" pos="ADP" type="open" morphofeat="Prep|voor__AdpType=Prep">
+<span>
+<target id="w261"/>
+</span>
+</term>
+<term id="t262" lemma="het" pos="DET" type="open" morphofeat="Art|bep|onzijd|neut__Definite=Def|Gender=Neut|PronType=Art">
+<span>
+<target id="w262"/>
+</span>
+</term>
+<term id="t263" lemma="coronaviru" pos="NOUN" type="open" morphofeat="N|soort|ev|neut__Number=Sing">
+<span>
+<target id="w263"/>
+</span>
+</term>
+<term id="t264" lemma="wel" pos="ADV" type="open" morphofeat="Adv|gew|geenfunc|stell|onverv__Degree=Pos">
+<span>
+<target id="w264"/>
+</span>
+</term>
+<term id="t265" lemma="voor" pos="ADP" type="open" morphofeat="Prep|voor__AdpType=Prep">
+<span>
+<target id="w265"/>
+</span>
+</term>
+<term id="t266" lemma="een" pos="DET" type="open" morphofeat="Art|onbep|zijdofonzijd|neut__Definite=Ind|Number=Sing|PronType=Art">
+<span>
+<target id="w266"/>
+</span>
+</term>
+<term id="t267" lemma="vol" pos="ADJ" type="open" morphofeat="Adj|attr|stell|vervneut__Case=Nom|Degree=Pos">
+<span>
+<target id="w267"/>
+</span>
+</term>
+<term id="t268" lemma="zaal" pos="NOUN" type="open" morphofeat="N|soort|ev|neut__Number=Sing">
+<span>
+<target id="w268"/>
+</span>
+</term>
+<term id="t269" lemma="zullen" pos="VERB" type="open" morphofeat="V|hulp|ott|3|ev__Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin">
+<span>
+<target id="w269"/>
+</span>
+</term>
+<term id="t270" lemma="zijn" pos="VERB" type="open" morphofeat="V|hulpofkopp|inf__VerbForm=Inf">
+<span>
+<target id="w270"/>
+</span>
+</term>
+<term id="t271" lemma="." pos="PUNCT" type="open" morphofeat="Punc|punt__PunctType=Peri">
+<span>
+<target id="w271"/>
+</span>
+</term>
+<term id="t272" lemma="," pos="PUNCT" type="open" morphofeat="Punc|komma__PunctType=Comm">
+<span>
+<target id="w272"/>
+</span>
+</term>
+<term id="t273" lemma="," pos="PUNCT" type="open" morphofeat="Punc|komma__PunctType=Comm">
+<span>
+<target id="w273"/>
+</span>
+</term>
+<term id="t274" lemma="er" pos="ADV" type="open" morphofeat="Adv|gew|er__AdvType=Ex">
+<span>
+<target id="w274"/>
+</span>
+</term>
+<term id="t275" lemma="zijn" pos="VERB" type="open" morphofeat="V|intrans|ott|1of2of3|mv__Aspect=Imp|Mood=Ind|Number=Plur|Subcat=Intr|Tense=Pres|VerbForm=Fin">
+<span>
+<target id="w275"/>
+</span>
+</term>
+<term id="t276" lemma="allerlei" pos="PRON" type="open" morphofeat="Pron|onbep|neut|attr__PronType=Ind">
+<span>
+<target id="w276"/>
+</span>
+</term>
+<term id="t277" lemma="scenario" pos="NOUN" type="open" morphofeat="N|soort|ev|neut__Number=Sing">
+<span>
+<target id="w277"/>
+</span>
+</term>
+<term id="t278" lemma="’" pos="NOUN" type="open" morphofeat="N|eigen|ev|neut__Number=Sing">
+<span>
+<target id="w278"/>
+</span>
+</term>
+<term id="t279" lemma="mogelijk" pos="ADJ" type="open" morphofeat="Adj|attr|stell|onverv__Degree=Pos">
+<span>
+<target id="w279"/>
+</span>
+</term>
+<term id="t280" lemma="”" pos="NOUN" type="open" morphofeat="N|soort|ev|neut__Number=Sing">
+<span>
+<target id="w280"/>
+</span>
+</term>
+<term id="t281" lemma="," pos="PUNCT" type="open" morphofeat="Punc|komma__PunctType=Comm">
+<span>
+<target id="w281"/>
+</span>
+</term>
+<term id="t282" lemma="aldus" pos="ADV" type="open" morphofeat="Adv|gew|aanw__PronType=Dem">
+<span>
+<target id="w282"/>
+</span>
+</term>
+<term id="t283" lemma="bakker" pos="NOUN" type="open" morphofeat="N|eigen|ev|neut__Number=Sing">
+<span>
+<target id="w283"/>
+</span>
+</term>
+<term id="t284" lemma="." pos="PUNCT" type="open" morphofeat="Punc|punt__PunctType=Peri">
+<span>
+<target id="w284"/>
+</span>
+</term>
+<term id="t285" lemma="," pos="PUNCT" type="open" morphofeat="Punc|komma__PunctType=Comm">
+<span>
+<target id="w285"/>
+</span>
+</term>
+<term id="t286" lemma="," pos="PUNCT" type="open" morphofeat="Punc|komma__PunctType=Comm">
+<span>
+<target id="w286"/>
+</span>
+</term>
+<term id="t287" lemma="het" pos="PRON" type="open" morphofeat="Pron|onbep|neut|zelfst__PronType=Ind">
+<span>
+<target id="w287"/>
+</span>
+</term>
+<term id="t288" lemma="zullen" pos="VERB" type="open" morphofeat="V|hulp|ovt|1of2of3|ev__Aspect=Imp|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin">
+<span>
+<target id="w288"/>
+</span>
+</term>
+<term id="t289" lemma="mij" pos="PRON" type="open" morphofeat="Pron|per|1|ev|datofacc__Case=Acc,Dat|Number=Sing|Person=1|PronType=Prs">
+<span>
+<target id="w289"/>
+</span>
+</term>
+<term id="t290" lemma="en" pos="CONJ" type="open" morphofeat="Conj|neven___">
+<span>
+<target id="w290"/>
+</span>
+</term>
+<term id="t291" lemma="de" pos="DET" type="open" morphofeat="Art|bep|zijdofmv|neut__Definite=Def|PronType=Art">
+<span>
+<target id="w291"/>
+</span>
+</term>
+<term id="t292" lemma="fans" pos="ADJ" type="open" morphofeat="Adj|attr|stell|onverv__Degree=Pos">
+<span>
+<target id="w292"/>
+</span>
+</term>
+<term id="t293" lemma="pijn" pos="NOUN" type="open" morphofeat="N|soort|ev|neut__Number=Sing" component_of="mw5">
+<span>
+<target id="w293"/>
+</span>
+</term>
+<term id="t294" lemma="doen" pos="VERB" type="open" morphofeat="V|trans|inf__Subcat=Tran|VerbForm=Inf" component_of="mw5">
+<span>
+<target id="w294"/>
+</span>
+</term>
+<term id="t295" lemma="als" pos="CONJ" type="open" morphofeat="Conj|onder|metfin___">
+<span>
+<target id="w295"/>
+</span>
+</term>
+<term id="t296" lemma="het" pos="PRON" type="open" morphofeat="Pron|onbep|neut|zelfst__PronType=Ind">
+<span>
+<target id="w296"/>
+</span>
+</term>
+<term id="t297" lemma="zonder" pos="ADP" type="open" morphofeat="Prep|voor__AdpType=Prep">
+<span>
+<target id="w297"/>
+</span>
+</term>
+<term id="t298" lemma="publiek" pos="NOUN" type="open" morphofeat="N|soort|ev|neut__Number=Sing">
+<span>
+<target id="w298"/>
+</span>
+</term>
+<term id="t299" lemma="moeten" pos="VERB" type="open" morphofeat="V|hulp|ott|3|ev__Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|VerbType=Mod">
+<span>
+<target id="w299"/>
+</span>
+</term>
+<term id="t300" lemma="," pos="PUNCT" type="open" morphofeat="Punc|komma__PunctType=Comm">
+<span>
+<target id="w300"/>
+</span>
+</term>
+<term id="t301" lemma="maar" pos="CONJ" type="open" morphofeat="Conj|neven___">
+<span>
+<target id="w301"/>
+</span>
+</term>
+<term id="t302" lemma="ik" pos="PRON" type="open" morphofeat="Pron|per|1|ev|nom__Case=Nom|Number=Sing|Person=1|PronType=Prs">
+<span>
+<target id="w302"/>
+</span>
+</term>
+<term id="t303" lemma="weten" pos="VERB" type="open" morphofeat="V|trans|ott|1|ev__Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Subcat=Tran|Tense=Pres|VerbForm=Fin">
+<span>
+<target id="w303"/>
+</span>
+</term>
+<term id="t304" lemma="niet" pos="ADV" type="open" morphofeat="Adv|gew|geenfunc|stell|onverv__Degree=Pos">
+<span>
+<target id="w304"/>
+</span>
+</term>
+<term id="t305" lemma="welke" pos="PRON" type="open" morphofeat="Pron|vrag|neut|zelfst__PronType=Int">
+<span>
+<target id="w305"/>
+</span>
+</term>
+<term id="t306" lemma="kant" pos="NOUN" type="open" morphofeat="N|soort|ev|neut__Number=Sing">
+<span>
+<target id="w306"/>
+</span>
+</term>
+<term id="t307" lemma="het" pos="PRON" type="open" morphofeat="Pron|onbep|neut|zelfst__PronType=Ind">
+<span>
+<target id="w307"/>
+</span>
+</term>
+<term id="t308" lemma="opgaan" pos="VERB" type="open" morphofeat="V|intrans|ott|3|ev__Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Subcat=Intr|Tense=Pres|VerbForm=Fin">
+<span>
+<target id="w308"/>
+</span>
+</term>
+<term id="t309" lemma="." pos="PUNCT" type="open" morphofeat="Punc|punt__PunctType=Peri">
+<span>
+<target id="w309"/>
+</span>
+</term>
+<term id="t310" lemma="we" pos="PRON" type="open" morphofeat="Pron|per|1|mv|nom__Case=Nom|Number=Plur|Person=1|PronType=Prs">
+<span>
+<target id="w310"/>
+</span>
+</term>
+<term id="t311" lemma="focussen" pos="VERB" type="open" morphofeat="V|refl|ott|1of2of3|mv__Aspect=Imp|Mood=Ind|Number=Plur|Reflex=Yes|Tense=Pres|VerbForm=Fin">
+<span>
+<target id="w311"/>
+</span>
+</term>
+<term id="t312" lemma="ons" pos="PRON" type="open" morphofeat="Pron|ref|1|mv__Number=Plur|Person=1|PronType=Prs|Reflex=Yes">
+<span>
+<target id="w312"/>
+</span>
+</term>
+<term id="t313" lemma="nu" pos="ADV" type="open" morphofeat="Adv|gew|aanw__PronType=Dem">
+<span>
+<target id="w313"/>
+</span>
+</term>
+<term id="t314" lemma="op" pos="ADP" type="open" morphofeat="Prep|voor__AdpType=Prep">
+<span>
+<target id="w314"/>
+</span>
+</term>
+<term id="t315" lemma="een" pos="DET" type="open" morphofeat="Art|onbep|zijdofonzijd|neut__Definite=Ind|Number=Sing|PronType=Art">
+<span>
+<target id="w315"/>
+</span>
+</term>
+<term id="t316" lemma="uitverkocht" pos="ADJ" type="open" morphofeat="Adj|attr|stell|vervneut__Case=Nom|Degree=Pos">
+<span>
+<target id="w316"/>
+</span>
+</term>
+<term id="t317" lemma="zaal" pos="NOUN" type="open" morphofeat="N|soort|ev|neut__Number=Sing">
+<span>
+<target id="w317"/>
+</span>
+</term>
+<term id="t318" lemma="en" pos="CONJ" type="open" morphofeat="Conj|neven___">
+<span>
+<target id="w318"/>
+</span>
+</term>
+<term id="t319" lemma="een" pos="DET" type="open" morphofeat="Art|onbep|zijdofonzijd|neut__Definite=Ind|Number=Sing|PronType=Art">
+<span>
+<target id="w319"/>
+</span>
+</term>
+<term id="t320" lemma="goed" pos="ADJ" type="open" morphofeat="Adj|attr|stell|vervneut__Case=Nom|Degree=Pos">
+<span>
+<target id="w320"/>
+</span>
+</term>
+<term id="t321" lemma="show" pos="NOUN" type="open" morphofeat="N|soort|ev|neut__Number=Sing">
+<span>
+<target id="w321"/>
+</span>
+</term>
+<term id="t322" lemma="." pos="PUNCT" type="open" morphofeat="Punc|punt__PunctType=Peri">
+<span>
+<target id="w322"/>
+</span>
+</term>
+<term id="t323" lemma="mogen" pos="VERB" type="open" morphofeat="V|intrans|ovt|1of2of3|ev__Aspect=Imp|Mood=Ind|Number=Sing|Subcat=Intr|Tense=Past|VerbForm=Fin">
+<span>
+<target id="w323"/>
+</span>
+</term>
+<term id="t324" lemma="er" pos="ADV" type="open" morphofeat="Adv|pron|er__AdvType=Ex">
+<span>
+<target id="w324"/>
+</span>
+</term>
+<term id="t325" lemma="van" pos="ADV" type="open" morphofeat="Adv|deeladv__PartType=Vbp">
+<span>
+<target id="w325"/>
+</span>
+</term>
+<term id="t326" lemma="hoog" pos="ADJ" type="open" morphofeat="Adj|attr|vergr|onverv__Degree=Cmp">
+<span>
+<target id="w326"/>
+</span>
+</term>
+<term id="t327" lemma="hand" pos="NOUN" type="open" morphofeat="N|soort|ev|neut__Number=Sing">
+<span>
+<target id="w327"/>
+</span>
+</term>
+<term id="t328" lemma="een" pos="DET" type="open" morphofeat="Art|onbep|zijdofonzijd|neut__Definite=Ind|Number=Sing|PronType=Art">
+<span>
+<target id="w328"/>
+</span>
+</term>
+<term id="t329" lemma="beslissing" pos="NOUN" type="open" morphofeat="N|soort|ev|neut__Number=Sing">
+<span>
+<target id="w329"/>
+</span>
+</term>
+<term id="t330" lemma="worden" pos="VERB" type="open" morphofeat="V|hulpofkopp|inf__VerbForm=Inf">
+<span>
+<target id="w330"/>
+</span>
+</term>
+<term id="t331" lemma="nemen" pos="VERB" type="open" morphofeat="V|trans|verldw|onverv__Subcat=Tran|Tense=Past|VerbForm=Part">
+<span>
+<target id="w331"/>
+</span>
+</term>
+<term id="t332" lemma="," pos="PUNCT" type="open" morphofeat="Punc|komma__PunctType=Comm">
+<span>
+<target id="w332"/>
+</span>
+</term>
+<term id="t333" lemma="dan" pos="ADV" type="open" morphofeat="Adv|gew|aanw__PronType=Dem">
+<span>
+<target id="w333"/>
+</span>
+</term>
+<term id="t334" lemma="zien" pos="VERB" type="open" morphofeat="V|trans|ott|1of2of3|mv__Aspect=Imp|Mood=Ind|Number=Plur|Subcat=Tran|Tense=Pres|VerbForm=Fin">
+<span>
+<target id="w334"/>
+</span>
+</term>
+<term id="t335" lemma="we" pos="PRON" type="open" morphofeat="Pron|per|1|mv|nom__Case=Nom|Number=Plur|Person=1|PronType=Prs">
+<span>
+<target id="w335"/>
+</span>
+</term>
+<term id="t336" lemma="wel" pos="ADV" type="open" morphofeat="Adv|gew|geenfunc|stell|onverv__Degree=Pos">
+<span>
+<target id="w336"/>
+</span>
+</term>
+<term id="t337" lemma="ver" pos="ADJ" type="open" morphofeat="Adj|adv|vergr|onverv__Degree=Cmp|Variant=Short">
+<span>
+<target id="w337"/>
+</span>
+</term>
+<term id="t338" lemma="." pos="PUNCT" type="open" morphofeat="Punc|punt__PunctType=Peri">
+<span>
+<target id="w338"/>
+</span>
+</term>
+<term id="t339" lemma="”" pos="NOUN" type="open" morphofeat="N|soort|ev|neut__Number=Sing">
+<span>
+<target id="w339"/>
+</span>
+</term>
+<term id="t340" lemma="afrojack" pos="NOUN" type="open" morphofeat="N|eigen|ev|neut__Number=Sing">
+<span>
+<target id="w340"/>
+</span>
+</term>
+<term id="t341" lemma="," pos="PUNCT" type="open" morphofeat="Punc|komma__PunctType=Comm">
+<span>
+<target id="w341"/>
+</span>
+</term>
+<term id="t342" lemma="net" pos="ADV" type="open" morphofeat="Adv|gew|geenfunc|stell|onverv__Degree=Pos">
+<span>
+<target id="w342"/>
+</span>
+</term>
+<term id="t343" lemma="als" pos="CONJ" type="open" morphofeat="Conj|onder|metfin___">
+<span>
+<target id="w343"/>
+</span>
+</term>
+<term id="t344" lemma="de" pos="DET" type="open" morphofeat="Art|bep|zijdofmv|neut__Definite=Def|PronType=Art">
+<span>
+<target id="w344"/>
+</span>
+</term>
+<term id="t345" lemma="nederlands" pos="ADJ" type="open" morphofeat="Adj|attr|stell|vervneut__Case=Nom|Degree=Pos">
+<span>
+<target id="w345"/>
+</span>
+</term>
+<term id="t346" lemma="inzending" pos="NOUN" type="open" morphofeat="N|soort|ev|neut__Number=Sing">
+<span>
+<target id="w346"/>
+</span>
+</term>
+<term id="t347" lemma="jeangu" pos="NOUN" type="open" morphofeat="N_N|eigen|ev|neut_eigen|ev|neut___">
+<span>
+<target id="w347"/>
+</span>
+</term>
+<term id="t348" lemma="macrooy" pos="PROPN" type="open" morphofeat="PROPN___">
+<span>
+<target id="w348"/>
+</span>
+</term>
+<term id="t349" lemma="met" pos="ADP" type="open" morphofeat="Prep|voor__AdpType=Prep">
+<span>
+<target id="w349"/>
+</span>
+</term>
+<term id="t350" lemma="surinaams" pos="ADJ" type="open" morphofeat="Adj|attr|stell|vervneut__Case=Nom|Degree=Pos">
+<span>
+<target id="w350"/>
+</span>
+</term>
+<term id="t351" lemma="roots" pos="NOUN" type="open" morphofeat="N|soort|ev|neut__Number=Sing">
+<span>
+<target id="w351"/>
+</span>
+</term>
+<term id="t352" lemma="," pos="PUNCT" type="open" morphofeat="Punc|komma__PunctType=Comm">
+<span>
+<target id="w352"/>
+</span>
+</term>
+<term id="t353" lemma="zijn" pos="VERB" type="open" morphofeat="V|hulpofkopp|ott|3|ev__Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin">
+<span>
+<target id="w353"/>
+</span>
+</term>
+<term id="t354" lemma="al" pos="ADV" type="open" morphofeat="Adv|gew|geenfunc|stell|onverv__Degree=Pos">
+<span>
+<target id="w354"/>
+</span>
+</term>
+<term id="t355" lemma="jaar" pos="NOUN" type="open" morphofeat="N|soort|mv|neut__Number=Plur">
+<span>
+<target id="w355"/>
+</span>
+</term>
+<term id="t356" lemma="internationaal" pos="ADJ" type="open" morphofeat="Adj|adv|stell|onverv__Degree=Pos|Variant=Short">
+<span>
+<target id="w356"/>
+</span>
+</term>
+<term id="t357" lemma="succesvol" pos="ADJ" type="open" morphofeat="Adj|attr|stell|onverv__Degree=Pos">
+<span>
+<target id="w357"/>
+</span>
+</term>
+<term id="t358" lemma="als" pos="CONJ" type="open" morphofeat="Conj|onder|metfin___">
+<span>
+<target id="w358"/>
+</span>
+</term>
+<term id="t359" lemma="dj" pos="NOUN" type="open" morphofeat="N|eigen|ev|neut__Number=Sing">
+<span>
+<target id="w359"/>
+</span>
+</term>
+<term id="t360" lemma="." pos="PUNCT" type="open" morphofeat="Punc|punt__PunctType=Peri">
+<span>
+<target id="w360"/>
+</span>
+</term>
+<term id="t361" lemma="hij" pos="PRON" type="open" morphofeat="Pron|per|3|ev|nom__Case=Nom|Number=Sing|Person=3|PronType=Prs">
+<span>
+<target id="w361"/>
+</span>
+</term>
+<term id="t362" lemma="scoren" pos="VERB" type="open" morphofeat="V|trans|ovt|1of2of3|ev__Aspect=Imp|Mood=Ind|Number=Sing|Subcat=Tran|Tense=Past|VerbForm=Fin">
+<span>
+<target id="w362"/>
+</span>
+</term>
+<term id="t363" lemma="een" pos="DET" type="open" morphofeat="Art|onbep|zijdofonzijd|neut__Definite=Ind|Number=Sing|PronType=Art">
+<span>
+<target id="w363"/>
+</span>
+</term>
+<term id="t364" lemma="nummer" pos="NOUN" type="open" morphofeat="N|soort|ev|neut__Number=Sing">
+<span>
+<target id="w364"/>
+</span>
+</term>
+<term id="t365" lemma="1-hit" pos="NOUN" type="open" morphofeat="N|eigen|ev|neut__Number=Sing">
+<span>
+<target id="w365"/>
+</span>
+</term>
+<term id="t366" lemma="in" pos="ADP" type="open" morphofeat="Prep|voor__AdpType=Prep">
+<span>
+<target id="w366"/>
+</span>
+</term>
+<term id="t367" lemma="de" pos="DET" type="open" morphofeat="Art|bep|zijdofmv|neut__Definite=Def|PronType=Art">
+<span>
+<target id="w367"/>
+</span>
+</term>
+<term id="t368" lemma="verenigde" pos="NOUN" type="open" morphofeat="N_N|eigen|mv|neut_eigen|mv|neut___">
+<span>
+<target id="w368"/>
+</span>
+</term>
+<term id="t369" lemma="staten" pos="PROPN" type="open" morphofeat="PROPN___">
+<span>
+<target id="w369"/>
+</span>
+</term>
+<term id="t370" lemma="samen" pos="ADV" type="open" morphofeat="Adv|gew|geenfunc|stell|onverv__Degree=Pos">
+<span>
+<target id="w370"/>
+</span>
+</term>
+<term id="t371" lemma="met" pos="ADP" type="open" morphofeat="Prep|voor__AdpType=Prep">
+<span>
+<target id="w371"/>
+</span>
+</term>
+<term id="t372" lemma="pitbull" pos="NOUN" type="open" morphofeat="N|eigen|ev|neut__Number=Sing">
+<span>
+<target id="w372"/>
+</span>
+</term>
+<term id="t373" lemma="en" pos="CONJ" type="open" morphofeat="Conj|neven___">
+<span>
+<target id="w373"/>
+</span>
+</term>
+<term id="t374" lemma="ne" pos="NOUN" type="open" morphofeat="N|eigen|ev|neut__Number=Sing">
+<span>
+<target id="w374"/>
+</span>
+</term>
+<term id="t375" lemma="-" pos="PUNCT" type="open" morphofeat="Punc|liggstreep___">
+<span>
+<target id="w375"/>
+</span>
+</term>
+<term id="t376" lemma="yo" pos="PROPN" type="open" morphofeat="PROPN___">
+<span>
+<target id="w376"/>
+</span>
+</term>
+<term id="t377" lemma="met" pos="ADP" type="open" morphofeat="Prep|voor__AdpType=Prep">
+<span>
+<target id="w377"/>
+</span>
+</term>
+<term id="t378" lemma="het" pos="DET" type="open" morphofeat="Art|bep|onzijd|neut__Definite=Def|Gender=Neut|PronType=Art">
+<span>
+<target id="w378"/>
+</span>
+</term>
+<term id="t379" lemma="nummer" pos="NOUN" type="open" morphofeat="N|soort|ev|neut__Number=Sing">
+<span>
+<target id="w379"/>
+</span>
+</term>
+<term id="t380" lemma="give" pos="VERB" type="open" morphofeat="V|trans|imp__Mood=Imp|Subcat=Tran|VerbForm=Fin">
+<span>
+<target id="w380"/>
+</span>
+</term>
+<term id="t381" lemma="me" pos="PRON" type="open" morphofeat="Pron|per|1|ev|datofacc__Case=Acc,Dat|Number=Sing|Person=1|PronType=Prs">
+<span>
+<target id="w381"/>
+</span>
+</term>
+<term id="t382" lemma="everything" pos="PROPN" type="open" morphofeat="PROPN___">
+<span>
+<target id="w382"/>
+</span>
+</term>
+<term id="t383" lemma="." pos="PUNCT" type="open" morphofeat="Punc|punt__PunctType=Peri">
+<span>
+<target id="w383"/>
+</span>
+</term>
+<term id="t384" lemma="hij" pos="PRON" type="open" morphofeat="Pron|per|3|ev|nom__Case=Nom|Number=Sing|Person=3|PronType=Prs">
+<span>
+<target id="w384"/>
+</span>
+</term>
+<term id="t385" lemma="staan" pos="VERB" type="open" morphofeat="V|intrans|ovt|1of2of3|ev__Aspect=Imp|Mood=Ind|Number=Sing|Subcat=Intr|Tense=Past|VerbForm=Fin">
+<span>
+<target id="w385"/>
+</span>
+</term>
+<term id="t386" lemma="in" pos="ADP" type="open" morphofeat="Prep|voor__AdpType=Prep">
+<span>
+<target id="w386"/>
+</span>
+</term>
+<term id="t387" lemma="2019" pos="NUM" type="open" morphofeat="Num|hoofd|bep|zelfst|onverv__Definite=Def|NumType=Card">
+<span>
+<target id="w387"/>
+</span>
+</term>
+<term id="t388" lemma="op" pos="ADP" type="open" morphofeat="Prep|voor__AdpType=Prep">
+<span>
+<target id="w388"/>
+</span>
+</term>
+<term id="t389" lemma="nummer" pos="NOUN" type="open" morphofeat="N|soort|ev|neut__Number=Sing">
+<span>
+<target id="w389"/>
+</span>
+</term>
+<term id="t390" lemma="9" pos="NUM" type="open" morphofeat="Num|hoofd|bep|attr|onverv__Definite=Def|NumType=Card">
+<span>
+<target id="w390"/>
+</span>
+</term>
+<term id="t391" lemma="in" pos="ADP" type="open" morphofeat="Prep|voor__AdpType=Prep">
+<span>
+<target id="w391"/>
+</span>
+</term>
+<term id="t392" lemma="de" pos="DET" type="open" morphofeat="Art|bep|zijdofmv|neut__Definite=Def|PronType=Art">
+<span>
+<target id="w392"/>
+</span>
+</term>
+<term id="t393" lemma="top" pos="NOUN" type="open" morphofeat="N|soort|ev|neut__Number=Sing">
+<span>
+<target id="w393"/>
+</span>
+</term>
+<term id="t394" lemma="100-lijst" pos="NOUN" type="open" morphofeat="N|soort|ev|neut__Number=Sing">
+<span>
+<target id="w394"/>
+</span>
+</term>
+<term id="t395" lemma="van" pos="ADP" type="open" morphofeat="Prep|voor__AdpType=Prep">
+<span>
+<target id="w395"/>
+</span>
+</term>
+<term id="t396" lemma="meest" pos="ADV" type="open" morphofeat="Adv|gew|geenfunc|overtr|onverv__Degree=Sup">
+<span>
+<target id="w396"/>
+</span>
+</term>
+<term id="t397" lemma="populair" pos="ADJ" type="open" morphofeat="Adj|attr|stell|vervneut__Case=Nom|Degree=Pos">
+<span>
+<target id="w397"/>
+</span>
+</term>
+<term id="t398" lemma="dj" pos="NOUN" type="open" morphofeat="N|eigen|ev|neut__Number=Sing">
+<span>
+<target id="w398"/>
+</span>
+</term>
+<term id="t399" lemma="de" pos="DET" type="open" morphofeat="Art_N__Case=Gen|Definite=Def|Number=Sing">
+<span>
+<target id="w399"/>
+</span>
+</term>
+<term id="t400" lemma="van" pos="ADP" type="open" morphofeat="Prep|voor__AdpType=Prep">
+<span>
+<target id="w400"/>
+</span>
+</term>
+<term id="t401" lemma="het" pos="DET" type="open" morphofeat="Art|bep|onzijd|neut__Definite=Def|Gender=Neut|PronType=Art">
+<span>
+<target id="w401"/>
+</span>
+</term>
+<term id="t402" lemma="brits" pos="ADJ" type="open" morphofeat="Adj|attr|stell|vervneut__Case=Nom|Degree=Pos">
+<span>
+<target id="w402"/>
+</span>
+</term>
+<term id="t403" lemma="tijdschrift" pos="NOUN" type="open" morphofeat="N|soort|ev|neut__Number=Sing">
+<span>
+<target id="w403"/>
+</span>
+</term>
+<term id="t404" lemma="dj" pos="NOUN" type="open" morphofeat="N|eigen|ev|neut__Number=Sing">
+<span>
+<target id="w404"/>
+</span>
+</term>
+<term id="t405" lemma="mogen" pos="VERB" type="open" morphofeat="V|intrans|ott|3|ev__Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Subcat=Intr|Tense=Pres|VerbForm=Fin">
+<span>
+<target id="w405"/>
+</span>
+</term>
+<term id="t406" lemma="." pos="PUNCT" type="open" morphofeat="Punc|punt__PunctType=Peri">
+<span>
+<target id="w406"/>
+</span>
+</term>
+</terms>
+<deps>
+<dep from="t7" to="t1" rfunc="nsubj"/>
+<dep from="t4" to="t2" rfunc="case"/>
+<dep from="t1" to="t4" rfunc="nmod"/>
+<dep from="t4" to="t3" rfunc="nummod"/>
+<dep from="t6" to="t5" rfunc="case"/>
+<dep from="t4" to="t6" rfunc="nmod"/>
+<dep from="t7" to="t8" rfunc="punct"/>
+<dep from="t11" to="t9" rfunc="case"/>
+<dep from="t25" to="t11" rfunc="obl"/>
+<dep from="t11" to="t10" rfunc="det"/>
+<dep from="t13" to="t12" rfunc="case"/>
+<dep from="t11" to="t13" rfunc="nmod"/>
+<dep from="t15" to="t14" rfunc="amod"/>
+<dep from="t13" to="t15" rfunc="nmod"/>
+<dep from="t17" to="t16" rfunc="case"/>
+<dep from="t11" to="t17" rfunc="nmod"/>
+<dep from="t25" to="t18" rfunc="aux"/>
+<dep from="t20" to="t19" rfunc="det"/>
+<dep from="t25" to="t20" rfunc="obj"/>
+<dep from="t23" to="t21" rfunc="case"/>
+<dep from="t20" to="t23" rfunc="nmod"/>
+<dep from="t23" to="t22" rfunc="det"/>
+<dep from="t25" to="t24" rfunc="advmod"/>
+<dep from="t32" to="t26" rfunc="advmod"/>
+<dep from="t31" to="t32" rfunc="xcomp"/>
+<dep from="t25" to="t31" rfunc="xcomp"/>
+<dep from="t28" to="t27" rfunc="det"/>
+<dep from="t32" to="t28" rfunc="obj"/>
+<dep from="t32" to="t29" rfunc="compound:prt"/>
+<dep from="t31" to="t30" rfunc="mark"/>
+<dep from="t40" to="t33" rfunc="punct"/>
+<dep from="t25" to="t40" rfunc="conj"/>
+<dep from="t40" to="t34" rfunc="cc"/>
+<dep from="t36" to="t35" rfunc="det"/>
+<dep from="t40" to="t36" rfunc="obj"/>
+<dep from="t38" to="t37" rfunc="case"/>
+<dep from="t40" to="t38" rfunc="obl"/>
+<dep from="t40" to="t39" rfunc="mark"/>
+<dep from="t25" to="t41" rfunc="punct"/>
+<dep from="t43" to="t42" rfunc="nsubj"/>
+<dep from="t45" to="t44" rfunc="case"/>
+<dep from="t43" to="t45" rfunc="obl"/>
+<dep from="t47" to="t46" rfunc="advmod"/>
+<dep from="t43" to="t47" rfunc="obl"/>
+<dep from="t43" to="t48" rfunc="punct"/>
+<dep from="t50" to="t49" rfunc="det"/>
+<dep from="t51" to="t50" rfunc="nsubj"/>
+<dep from="t51" to="t52" rfunc="compound:prt"/>
+<dep from="t54" to="t53" rfunc="case"/>
+<dep from="t51" to="t54" rfunc="obl"/>
+<dep from="t51" to="t55" rfunc="punct"/>
+<dep from="t58" to="t56" rfunc="case"/>
+<dep from="t51" to="t58" rfunc="obl"/>
+<dep from="t58" to="t57" rfunc="det"/>
+<dep from="t60" to="t59" rfunc="case"/>
+<dep from="t58" to="t60" rfunc="nmod"/>
+<dep from="t66" to="t61" rfunc="mark"/>
+<dep from="t58" to="t66" rfunc="acl"/>
+<dep from="t63" to="t62" rfunc="det"/>
+<dep from="t66" to="t63" rfunc="nsubj"/>
+<dep from="t65" to="t64" rfunc="case"/>
+<dep from="t66" to="t65" rfunc="obl"/>
+<dep from="t51" to="t67" rfunc="punct"/>
+<dep from="t71" to="t68" rfunc="punct"/>
+<dep from="t71" to="t69" rfunc="punct"/>
+<dep from="t71" to="t70" rfunc="nsubj"/>
+<dep from="t71" to="t72" rfunc="nsubj"/>
+<dep from="t78" to="t73" rfunc="advmod"/>
+<dep from="t71" to="t78" rfunc="xcomp"/>
+<dep from="t78" to="t74" rfunc="advmod"/>
+<dep from="t77" to="t75" rfunc="case"/>
+<dep from="t78" to="t77" rfunc="obl"/>
+<dep from="t77" to="t76" rfunc="det"/>
+<dep from="t71" to="t79" rfunc="punct"/>
+<dep from="t71" to="t80" rfunc="punct"/>
+<dep from="t71" to="t81" rfunc="parataxis"/>
+<dep from="t81" to="t82" rfunc="nsubj"/>
+<dep from="t81" to="t83" rfunc="compound:prt"/>
+<dep from="t71" to="t84" rfunc="punct"/>
+<dep from="t88" to="t85" rfunc="punct"/>
+<dep from="t88" to="t86" rfunc="punct"/>
+<dep from="t88" to="t87" rfunc="nsubj"/>
+<dep from="t92" to="t89" rfunc="obj"/>
+<dep from="t88" to="t92" rfunc="xcomp"/>
+<dep from="t91" to="t90" rfunc="advmod"/>
+<dep from="t92" to="t91" rfunc="obj"/>
+<dep from="t88" to="t93" rfunc="punct"/>
+<dep from="t104" to="t94" rfunc="obl"/>
+<dep from="t103" to="t104" rfunc="xcomp"/>
+<dep from="t103" to="t95" rfunc="aux"/>
+<dep from="t103" to="t96" rfunc="nsubj"/>
+<dep from="t104" to="t97" rfunc="obj"/>
+<dep from="t100" to="t98" rfunc="case"/>
+<dep from="t104" to="t100" rfunc="obl"/>
+<dep from="t100" to="t99" rfunc="det"/>
+<dep from="t102" to="t101" rfunc="nmod"/>
+<dep from="t104" to="t102" rfunc="obl"/>
+<dep from="t107" to="t105" rfunc="cc"/>
+<dep from="t103" to="t107" rfunc="conj"/>
+<dep from="t107" to="t106" rfunc="advmod"/>
+<dep from="t107" to="t108" rfunc="nsubj"/>
+<dep from="t110" to="t109" rfunc="det"/>
+<dep from="t112" to="t110" rfunc="obj"/>
+<dep from="t107" to="t112" rfunc="xcomp"/>
+<dep from="t112" to="t111" rfunc="mark"/>
+<dep from="t103" to="t113" rfunc="punct"/>
+<dep from="t116" to="t115" rfunc="nmod"/>
+<dep from="t118" to="t116" rfunc="nsubj"/>
+<dep from="t114" to="t118" rfunc="parataxis"/>
+<dep from="t118" to="t117" rfunc="cop"/>
+<dep from="t118" to="t119" rfunc="flat"/>
+<dep from="t123" to="t120" rfunc="punct"/>
+<dep from="t114" to="t123" rfunc="parataxis"/>
+<dep from="t123" to="t121" rfunc="cc"/>
+<dep from="t123" to="t122" rfunc="nsubj"/>
+<dep from="t125" to="t124" rfunc="advmod"/>
+<dep from="t130" to="t125" rfunc="obl"/>
+<dep from="t123" to="t130" rfunc="aux"/>
+<dep from="t127" to="t126" rfunc="nmod"/>
+<dep from="t130" to="t127" rfunc="obj"/>
+<dep from="t129" to="t128" rfunc="case"/>
+<dep from="t127" to="t129" rfunc="nmod"/>
+<dep from="t114" to="t131" rfunc="punct"/>
+<dep from="t133" to="t132" rfunc="nsubj"/>
+<dep from="t135" to="t134" rfunc="advmod"/>
+<dep from="t133" to="t135" rfunc="xcomp"/>
+<dep from="t139" to="t136" rfunc="case"/>
+<dep from="t135" to="t139" rfunc="obj"/>
+<dep from="t139" to="t137" rfunc="det"/>
+<dep from="t139" to="t138" rfunc="amod"/>
+<dep from="t139" to="t140" rfunc="punct"/>
+<dep from="t142" to="t141" rfunc="nummod"/>
+<dep from="t139" to="t142" rfunc="appos"/>
+<dep from="t133" to="t143" rfunc="punct"/>
+<dep from="t145" to="t144" rfunc="nsubj"/>
+<dep from="t149" to="t146" rfunc="obj"/>
+<dep from="t145" to="t149" rfunc="acl"/>
+<dep from="t149" to="t147" rfunc="nsubj"/>
+<dep from="t149" to="t148" rfunc="obl"/>
+<dep from="t149" to="t150" rfunc="aux"/>
+<dep from="t153" to="t151" rfunc="case"/>
+<dep from="t149" to="t153" rfunc="obj"/>
+<dep from="t153" to="t152" rfunc="det"/>
+<dep from="t155" to="t154" rfunc="case"/>
+<dep from="t153" to="t155" rfunc="nmod"/>
+<dep from="t145" to="t156" rfunc="punct"/>
+<dep from="t161" to="t158" rfunc="nsubj"/>
+<dep from="t157" to="t161" rfunc="dep"/>
+<dep from="t161" to="t159" rfunc="cop"/>
+<dep from="t161" to="t160" rfunc="det"/>
+<dep from="t161" to="t162" rfunc="nmod"/>
+<dep from="t166" to="t163" rfunc="advmod"/>
+<dep from="t157" to="t166" rfunc="parataxis"/>
+<dep from="t165" to="t164" rfunc="case"/>
+<dep from="t166" to="t165" rfunc="obl"/>
+<dep from="t157" to="t167" rfunc="punct"/>
+<dep from="t168" to="t169" rfunc="appos"/>
+<dep from="t174" to="t170" rfunc="nsubj"/>
+<dep from="t174" to="t171" rfunc="cop"/>
+<dep from="t174" to="t172" rfunc="det"/>
+<dep from="t174" to="t173" rfunc="amod"/>
+<dep from="t177" to="t175" rfunc="case"/>
+<dep from="t174" to="t177" rfunc="nmod"/>
+<dep from="t177" to="t176" rfunc="det"/>
+<dep from="t180" to="t178" rfunc="case"/>
+<dep from="t174" to="t180" rfunc="nmod"/>
+<dep from="t180" to="t179" rfunc="det"/>
+<dep from="t182" to="t181" rfunc="case"/>
+<dep from="t180" to="t182" rfunc="nmod"/>
+<dep from="t174" to="t183" rfunc="punct"/>
+<dep from="t188" to="t184" rfunc="punct"/>
+<dep from="t184" to="t185" rfunc="punct"/>
+<dep from="t187" to="t186" rfunc="advmod"/>
+<dep from="t184" to="t187" rfunc="parataxis"/>
+<dep from="t188" to="t189" rfunc="nsubj"/>
+<dep from="t191" to="t190" rfunc="advmod"/>
+<dep from="t188" to="t191" rfunc="advmod"/>
+<dep from="t193" to="t192" rfunc="advmod"/>
+<dep from="t194" to="t193" rfunc="det:nummod"/>
+<dep from="t199" to="t194" rfunc="obj"/>
+<dep from="t188" to="t199" rfunc="cop"/>
+<dep from="t199" to="t195" rfunc="advmod"/>
+<dep from="t198" to="t196" rfunc="case"/>
+<dep from="t199" to="t198" rfunc="obl"/>
+<dep from="t198" to="t197" rfunc="det"/>
+<dep from="t188" to="t200" rfunc="punct"/>
+<dep from="t188" to="t201" rfunc="punct"/>
+<dep from="t188" to="t202" rfunc="parataxis"/>
+<dep from="t202" to="t203" rfunc="nsubj"/>
+<dep from="t188" to="t204" rfunc="punct"/>
+<dep from="t188" to="t205" rfunc="punct"/>
+<dep from="t188" to="t206" rfunc="punct"/>
+<dep from="t208" to="t207" rfunc="nummod"/>
+<dep from="t188" to="t208" rfunc="dep"/>
+<dep from="t208" to="t209" rfunc="nmod"/>
+<dep from="t208" to="t210" rfunc="punct"/>
+<dep from="t212" to="t211" rfunc="amod"/>
+<dep from="t208" to="t212" rfunc="nmod"/>
+<dep from="t214" to="t213" rfunc="punct"/>
+<dep from="t212" to="t214" rfunc="conj"/>
+<dep from="t217" to="t215" rfunc="cc"/>
+<dep from="t212" to="t217" rfunc="conj"/>
+<dep from="t217" to="t216" rfunc="nmod"/>
+<dep from="t220" to="t218" rfunc="case"/>
+<dep from="t208" to="t220" rfunc="nmod"/>
+<dep from="t220" to="t219" rfunc="nummod"/>
+<dep from="t188" to="t221" rfunc="punct"/>
+<dep from="t224" to="t223" rfunc="det"/>
+<dep from="t229" to="t224" rfunc="nsubj"/>
+<dep from="t229" to="t225" rfunc="cop"/>
+<dep from="t229" to="t226" rfunc="advmod"/>
+<dep from="t229" to="t227" rfunc="case"/>
+<dep from="t229" to="t228" rfunc="amod"/>
+<dep from="t229" to="t230" rfunc="punct"/>
+<dep from="t234" to="t231" rfunc="punct"/>
+<dep from="t234" to="t232" rfunc="punct"/>
+<dep from="t234" to="t233" rfunc="nsubj"/>
+<dep from="t234" to="t235" rfunc="advmod"/>
+<dep from="t234" to="t236" rfunc="advmod"/>
+<dep from="t234" to="t237" rfunc="obj"/>
+<dep from="t234" to="t238" rfunc="punct"/>
+<dep from="t234" to="t239" rfunc="punct"/>
+<dep from="t234" to="t240" rfunc="parataxis"/>
+<dep from="t242" to="t241" rfunc="det"/>
+<dep from="t240" to="t242" rfunc="nsubj"/>
+<dep from="t242" to="t243" rfunc="punct"/>
+<dep from="t248" to="t244" rfunc="obj"/>
+<dep from="t242" to="t248" rfunc="acl"/>
+<dep from="t247" to="t245" rfunc="case"/>
+<dep from="t248" to="t247" rfunc="obl"/>
+<dep from="t247" to="t246" rfunc="det"/>
+<dep from="t234" to="t249" rfunc="punct"/>
+<dep from="t234" to="t250" rfunc="advcl"/>
+<dep from="t250" to="t251" rfunc="obj"/>
+<dep from="t234" to="t252" rfunc="punct"/>
+<dep from="t254" to="t253" rfunc="det"/>
+<dep from="t280" to="t254" rfunc="nsubj"/>
+<dep from="t254" to="t255" rfunc="cop"/>
+<dep from="t270" to="t256" rfunc="mark"/>
+<dep from="t254" to="t270" rfunc="csubj"/>
+<dep from="t258" to="t257" rfunc="det"/>
+<dep from="t270" to="t258" rfunc="csubj"/>
+<dep from="t260" to="t259" rfunc="case"/>
+<dep from="t258" to="t260" rfunc="obl"/>
+<dep from="t263" to="t261" rfunc="case"/>
+<dep from="t258" to="t263" rfunc="obl"/>
+<dep from="t263" to="t262" rfunc="det"/>
+<dep from="t258" to="t264" rfunc="advmod"/>
+<dep from="t268" to="t265" rfunc="case"/>
+<dep from="t258" to="t268" rfunc="obl"/>
+<dep from="t268" to="t266" rfunc="det"/>
+<dep from="t268" to="t267" rfunc="amod"/>
+<dep from="t268" to="t269" rfunc="aux"/>
+<dep from="t254" to="t271" rfunc="punct"/>
+<dep from="t254" to="t272" rfunc="punct"/>
+<dep from="t254" to="t273" rfunc="punct"/>
+<dep from="t275" to="t274" rfunc="advmod"/>
+<dep from="t280" to="t275" rfunc="aux"/>
+<dep from="t277" to="t276" rfunc="nmod"/>
+<dep from="t280" to="t277" rfunc="nsubj"/>
+<dep from="t277" to="t278" rfunc="appos"/>
+<dep from="t280" to="t279" rfunc="obl"/>
+<dep from="t280" to="t281" rfunc="punct"/>
+<dep from="t280" to="t282" rfunc="dep"/>
+<dep from="t282" to="t283" rfunc="obj"/>
+<dep from="t280" to="t284" rfunc="punct"/>
+<dep from="t294" to="t285" rfunc="punct"/>
+<dep from="t285" to="t286" rfunc="punct"/>
+<dep from="t288" to="t287" rfunc="nsubj"/>
+<dep from="t294" to="t288" rfunc="aux"/>
+<dep from="t294" to="t289" rfunc="obj"/>
+<dep from="t293" to="t290" rfunc="cc"/>
+<dep from="t289" to="t293" rfunc="conj"/>
+<dep from="t293" to="t291" rfunc="det"/>
+<dep from="t293" to="t292" rfunc="amod"/>
+<dep from="t299" to="t295" rfunc="mark"/>
+<dep from="t294" to="t299" rfunc="advcl"/>
+<dep from="t299" to="t296" rfunc="nsubj"/>
+<dep from="t298" to="t297" rfunc="case"/>
+<dep from="t299" to="t298" rfunc="obl"/>
+<dep from="t303" to="t300" rfunc="punct"/>
+<dep from="t294" to="t303" rfunc="conj"/>
+<dep from="t303" to="t301" rfunc="cc"/>
+<dep from="t303" to="t302" rfunc="nsubj"/>
+<dep from="t303" to="t304" rfunc="advmod"/>
+<dep from="t306" to="t305" rfunc="nmod"/>
+<dep from="t303" to="t306" rfunc="obj"/>
+<dep from="t308" to="t307" rfunc="det"/>
+<dep from="t303" to="t308" rfunc="xcomp"/>
+<dep from="t294" to="t309" rfunc="punct"/>
+<dep from="t311" to="t310" rfunc="nsubj"/>
+<dep from="t311" to="t312" rfunc="expl:pv"/>
+<dep from="t311" to="t313" rfunc="advmod"/>
+<dep from="t317" to="t314" rfunc="case"/>
+<dep from="t311" to="t317" rfunc="obl"/>
+<dep from="t317" to="t315" rfunc="det"/>
+<dep from="t317" to="t316" rfunc="amod"/>
+<dep from="t321" to="t318" rfunc="cc"/>
+<dep from="t317" to="t321" rfunc="conj"/>
+<dep from="t321" to="t319" rfunc="det"/>
+<dep from="t321" to="t320" rfunc="amod"/>
+<dep from="t311" to="t322" rfunc="punct"/>
+<dep from="t323" to="t324" rfunc="advmod"/>
+<dep from="t327" to="t325" rfunc="case"/>
+<dep from="t323" to="t327" rfunc="obl"/>
+<dep from="t327" to="t326" rfunc="amod"/>
+<dep from="t329" to="t328" rfunc="det"/>
+<dep from="t331" to="t329" rfunc="obj"/>
+<dep from="t323" to="t331" rfunc="ccomp"/>
+<dep from="t331" to="t330" rfunc="aux"/>
+<dep from="t323" to="t332" rfunc="punct"/>
+<dep from="t334" to="t333" rfunc="advmod"/>
+<dep from="t323" to="t334" rfunc="parataxis"/>
+<dep from="t334" to="t335" rfunc="nsubj"/>
+<dep from="t334" to="t336" rfunc="advmod"/>
+<dep from="t334" to="t337" rfunc="obl"/>
+<dep from="t323" to="t338" rfunc="punct"/>
+<dep from="t339" to="t340" rfunc="appos"/>
+<dep from="t339" to="t341" rfunc="punct"/>
+<dep from="t357" to="t342" rfunc="advmod"/>
+<dep from="t339" to="t357" rfunc="appos"/>
+<dep from="t342" to="t343" rfunc="mark"/>
+<dep from="t346" to="t344" rfunc="det"/>
+<dep from="t342" to="t346" rfunc="obl"/>
+<dep from="t346" to="t345" rfunc="amod"/>
+<dep from="t346" to="t347" rfunc="appos"/>
+<dep from="t347" to="t348" rfunc="flat"/>
+<dep from="t351" to="t349" rfunc="case"/>
+<dep from="t346" to="t351" rfunc="nmod"/>
+<dep from="t351" to="t350" rfunc="amod"/>
+<dep from="t357" to="t352" rfunc="punct"/>
+<dep from="t357" to="t353" rfunc="cop"/>
+<dep from="t355" to="t354" rfunc="advmod"/>
+<dep from="t356" to="t355" rfunc="obl"/>
+<dep from="t357" to="t356" rfunc="obl"/>
+<dep from="t359" to="t358" rfunc="mark"/>
+<dep from="t342" to="t359" rfunc="obl"/>
+<dep from="t339" to="t360" rfunc="punct"/>
+<dep from="t362" to="t361" rfunc="nsubj"/>
+<dep from="t364" to="t363" rfunc="det"/>
+<dep from="t362" to="t364" rfunc="obj"/>
+<dep from="t364" to="t365" rfunc="appos"/>
+<dep from="t368" to="t366" rfunc="case"/>
+<dep from="t362" to="t368" rfunc="advmod"/>
+<dep from="t368" to="t367" rfunc="det"/>
+<dep from="t368" to="t369" rfunc="flat"/>
+<dep from="t362" to="t370" rfunc="advmod"/>
+<dep from="t372" to="t371" rfunc="case"/>
+<dep from="t370" to="t372" rfunc="obl"/>
+<dep from="t374" to="t373" rfunc="cc"/>
+<dep from="t372" to="t374" rfunc="conj"/>
+<dep from="t362" to="t375" rfunc="advmod"/>
+<dep from="t362" to="t376" rfunc="advmod"/>
+<dep from="t379" to="t377" rfunc="case"/>
+<dep from="t362" to="t379" rfunc="obl"/>
+<dep from="t379" to="t378" rfunc="det"/>
+<dep from="t379" to="t380" rfunc="appos"/>
+<dep from="t380" to="t381" rfunc="flat"/>
+<dep from="t380" to="t382" rfunc="flat"/>
+<dep from="t362" to="t383" rfunc="punct"/>
+<dep from="t385" to="t384" rfunc="nsubj"/>
+<dep from="t387" to="t386" rfunc="case"/>
+<dep from="t385" to="t387" rfunc="obl"/>
+<dep from="t389" to="t388" rfunc="case"/>
+<dep from="t385" to="t389" rfunc="obl"/>
+<dep from="t389" to="t390" rfunc="appos"/>
+<dep from="t393" to="t391" rfunc="case"/>
+<dep from="t394" to="t393" rfunc="obl"/>
+<dep from="t385" to="t394" rfunc="advcl"/>
+<dep from="t393" to="t392" rfunc="det"/>
+<dep from="t397" to="t395" rfunc="case"/>
+<dep from="t398" to="t397" rfunc="amod"/>
+<dep from="t385" to="t398" rfunc="obj"/>
+<dep from="t397" to="t396" rfunc="advmod"/>
+<dep from="t385" to="t399" rfunc="advmod"/>
+<dep from="t399" to="t400" rfunc="compound"/>
+<dep from="t403" to="t401" rfunc="det"/>
+<dep from="t399" to="t403" rfunc="obj"/>
+<dep from="t403" to="t402" rfunc="amod"/>
+<dep from="t403" to="t404" rfunc="appos"/>
+<dep from="t403" to="t405" rfunc="appos"/>
+<dep from="t385" to="t406" rfunc="punct"/>
+</deps>
+<multiwords>
+<mw id="mw1" lemma="actzoeken" pos="VERB" type="phrasal" status="deprecated">
+<component id="mw1.c1">
+<span>
+<target id="t32"/>
+</span>
+</component>
+<component id="mw1.c2">
+<span>
+<target id="t29"/>
+</span>
+</component>
+</mw>
+<mw id="mw2" lemma="opgroeien" pos="VERB" type="phrasal">
+<component id="mw2.c1">
+<span>
+<target id="t51"/>
+</span>
+</component>
+<component id="mw2.c2">
+<span>
+<target id="t52"/>
+</span>
+</component>
+</mw>
+<mw id="mw3" lemma="uitleggen" pos="VERB" type="phrasal">
+<component id="mw3.c1">
+<span>
+<target id="t81"/>
+</span>
+</component>
+<component id="mw3.c2">
+<span>
+<target id="t83"/>
+</span>
+</component>
+</mw>
+<mw id="mw4" type="phrasal" lemma="aanvullen" pos="VERB">
+<component id="mw4.c1">
+<span>
+<target id="t240"/>
+</span>
+</component>
+<component id="mw4.c2">
+<span>
+<target id="t251"/>
+</span>
+</component>
+</mw>
+<mw id="mw5" type="idiom" lemma="pijn doen" pos="MWE">
+<component id="mw5.c1">
+<span>
+<target id="t293"/>
+</span>
+</component>
+<component id="mw5.c2">
+<span>
+<target id="t294"/>
+</span>
+</component>
+</mw>
+</multiwords>
+<coreferences>
+<coref id="co1" status="manual" type="event">
+<span>
+<target id="t22"/>
+<target id="t23.c0"/>
+<target id="t23.c1"/>
+</span>
+<externalReferences>
+<externalRef reference="Q30973589" resource="http://www.wikidata.org" timestamp="2021-12-19T12:18:51UTC" source="undefined" reftype="event"/>
+</externalReferences>
+</coref>
+<coref id="co2" status="manual" type="entity">
+<span>
+<target id="t45"/>
+</span>
+<externalReferences>
+<externalRef reference="Q349041" resource="http://www.wikidata.org" timestamp="2021-12-19T12:19:05UTC" source="undefined" reftype="entity"/>
+</externalReferences>
+</coref>
+<coref id="co3" status="manual" type="entity">
+<span>
+<target id="t49"/>
+<target id="t50"/>
+</span>
+<externalReferences>
+<externalRef reference="Q349041" resource="http://www.wikidata.org" timestamp="2021-12-19T12:19:57UTC" source="undefined" reftype="entity"/>
+</externalReferences>
+</coref>
+<coref id="co4" status="deprecated" type="entity">
+<span>
+<target id="t60"/>
+</span>
+<externalReferences>
+<externalRef reference="Q55" resource="http://www.wikidata.org" timestamp="2021-12-19T12:20:02UTC" source="undefined" reftype="entity"/>
+</externalReferences>
+</coref>
+<coref id="co5" status="manual" type="event">
+<span>
+<target id="t62"/>
+<target id="t63.c0"/>
+<target id="t63.c1"/>
+</span>
+<externalReferences>
+<externalRef reference="Q30973589" resource="http://www.wikidata.org" timestamp="2021-12-19T12:20:14UTC" source="undefined" reftype="event"/>
+</externalReferences>
+</coref>
+<coref id="co6" status="manual" type="entity">
+<span>
+<target id="t60"/>
+<target id="t61"/>
+<target id="t62"/>
+<target id="t63.c0"/>
+<target id="t63.c1"/>
+<target id="t64"/>
+<target id="t65"/>
+<target id="t66"/>
+</span>
+<externalReferences>
+<externalRef reference="Q55" resource="http://www.wikidata.org" timestamp="2021-12-19T12:20:29UTC" source="undefined" reftype="entity"/>
+</externalReferences>
+</coref>
+<coref id="co7" status="manual" type="entity">
+<span>
+<target id="t72"/>
+</span>
+<externalReferences>
+<externalRef reference="Q349041" resource="http://www.wikidata.org" timestamp="2021-12-19T12:20:34UTC" source="undefined" reftype="entity"/>
+</externalReferences>
+</coref>
+<coref id="co8" status="manual" type="entity">
+<span>
+<target id="t97"/>
+</span>
+<externalReferences>
+<externalRef reference="Q349041" resource="http://www.wikidata.org" timestamp="2021-12-19T12:21:15UTC" source="undefined" reftype="entity"/>
+</externalReferences>
+</coref>
+<coref id="co9" status="manual" type="entity">
+<span>
+<target id="t108"/>
+</span>
+<externalReferences>
+<externalRef reference="Q349041" resource="http://www.wikidata.org" timestamp="2021-12-19T12:21:23UTC" source="undefined" reftype="entity"/>
+</externalReferences>
+</coref>
+<coref id="co10" status="manual" type="entity">
+<span>
+<target id="t132"/>
+</span>
+<externalReferences>
+<externalRef reference="Q349041" resource="http://www.wikidata.org" timestamp="2021-12-19T12:21:39UTC" source="undefined" reftype="entity"/>
+</externalReferences>
+</coref>
+<coref id="co11" status="manual" type="entity">
+<span>
+<target id="t155"/>
+</span>
+<externalReferences>
+<externalRef reference="Q55" resource="http://www.wikidata.org" timestamp="2021-12-19T12:21:50UTC" source="undefined" reftype="entity"/>
+</externalReferences>
+</coref>
+<coref id="co12" status="manual" type="entity">
+<span>
+<target id="t177"/>
+</span>
+<externalReferences>
+<externalRef reference="Q55" resource="http://www.wikidata.org" timestamp="2021-12-19T12:22:05UTC" source="undefined" reftype="entity"/>
+</externalReferences>
+</coref>
+<coref id="co13" status="manual" type="entity">
+<span>
+<target id="t77"/>
+</span>
+<externalReferences>
+<externalRef reference="Q55" resource="http://www.wikidata.org" timestamp="2021-12-19T12:22:08UTC" source="undefined" reftype="entity"/>
+</externalReferences>
+</coref>
+<coref id="co14" status="manual" type="entity">
+<span>
+<target id="t182"/>
+</span>
+<externalReferences>
+<externalRef reference="Q349041" resource="http://www.wikidata.org" timestamp="2021-12-19T12:22:23UTC" source="undefined" reftype="entity"/>
+</externalReferences>
+</coref>
+<coref id="co15" status="manual" type="entity">
+<span>
+<target id="t197"/>
+<target id="t198.c0"/>
+<target id="t198.c1"/>
+</span>
+<externalReferences>
+<externalRef reference="Q55" resource="http://www.wikidata.org" timestamp="2021-12-19T12:22:34UTC" source="undefined" reftype="entity"/>
+</externalReferences>
+</coref>
+<coref id="co16" status="manual" type="event">
+<span>
+<target id="t198.c0"/>
+</span>
+<externalReferences>
+<externalRef reference="Q30973589" resource="http://www.wikidata.org" timestamp="2021-12-19T12:22:37UTC" source="undefined" reftype="event"/>
+</externalReferences>
+</coref>
+<coref id="co17" status="manual" type="entity">
+<span>
+<target id="t214"/>
+</span>
+<externalReferences>
+<externalRef reference="Q349041" resource="http://www.wikidata.org" timestamp="2021-12-19T12:22:51UTC" source="undefined" reftype="entity"/>
+</externalReferences>
+</coref>
+<coref id="co18" status="manual" type="event">
+<span>
+<target id="t246"/>
+<target id="t247.c0"/>
+<target id="t247.c1"/>
+</span>
+<externalReferences>
+<externalRef reference="Q30973589" resource="http://www.wikidata.org" timestamp="2021-12-19T12:25:08UTC" source="undefined" reftype="event"/>
+</externalReferences>
+</coref>
+<coref id="co19" status="manual" type="entity">
+<span>
+<target id="t260"/>
+</span>
+<externalReferences>
+<externalRef reference="Q349041" resource="http://www.wikidata.org" timestamp="2021-12-19T12:25:15UTC" source="undefined" reftype="entity"/>
+</externalReferences>
+</coref>
+<coref id="co20" status="manual" type="entity">
+<span>
+<target id="t340"/>
+</span>
+<externalReferences>
+<externalRef reference="Q349041" resource="http://www.wikidata.org" timestamp="2021-12-19T12:25:32UTC" source="undefined" reftype="entity"/>
+</externalReferences>
+</coref>
+<coref id="co21" status="manual" type="entity">
+<span>
+<target id="t344"/>
+<target id="t345"/>
+<target id="t346"/>
+<target id="t347"/>
+<target id="t348"/>
+<target id="t349"/>
+<target id="t350"/>
+<target id="t351"/>
+</span>
+<externalReferences>
+<externalRef reference="Q1638962685452" resource="http://www.wikidata.org" timestamp="2021-12-19T12:27:14UTC" source="undefined" reftype="entity"/>
+</externalReferences>
+</coref>
+<coref id="co22" status="manual" type="entity">
+<span>
+<target id="t361"/>
+</span>
+<externalReferences>
+<externalRef reference="Q349041" resource="http://www.wikidata.org" timestamp="2021-12-19T12:27:24UTC" source="undefined" reftype="entity"/>
+</externalReferences>
+</coref>
+<coref id="co23" status="manual" type="entity">
+<span>
+<target id="t384"/>
+</span>
+<externalReferences>
+<externalRef reference="Q349041" resource="http://www.wikidata.org" timestamp="2021-12-19T12:27:32UTC" source="undefined" reftype="entity"/>
+</externalReferences>
+</coref>
+<coref id="co24" status="manual" type="entity">
+<span>
+<target id="t1"/>
+</span>
+<externalReferences>
+<externalRef reference="Q349041" resource="http://www.wikidata.org" timestamp="2024-10-26T13:30:12UTC" source="undefined" reftype="entity"/>
+</externalReferences>
+</coref>
+<coref id="co25" status="manual" type="event">
+<span>
+<target id="t7.c0"/>
+<target id="t7.c1"/>
+</span>
+<externalReferences>
+<externalRef reference="Q30973589" resource="http://www.wikidata.org" timestamp="2024-11-03T14:50:15UTC" source="undefined" reftype="event"/>
+</externalReferences>
+</coref>
+<coref id="co26" status="manual" type="entity">
+<span>
+<target id="t20"/>
+<target id="t21"/>
+<target id="t22"/>
+<target id="t23.c0"/>
+<target id="t23.c1"/>
+</span>
+<externalReferences>
+<externalRef reference="Q1651075371225" resource="http://www.wikidata.org" timestamp="2024-11-03T14:50:32UTC" source="undefined" reftype="entity"/>
+</externalReferences>
+</coref>
+<coref id="co27" status="manual" type="entity">
+<span>
+<target id="t70"/>
+</span>
+<externalReferences>
+<externalRef reference="Q1651075371225" resource="http://www.wikidata.org" timestamp="2024-11-03T14:50:57UTC" source="undefined" reftype="entity"/>
+</externalReferences>
+</coref>
+<coref id="co28" status="manual" type="entity">
+<span>
+<target id="t82"/>
+</span>
+<externalReferences>
+<externalRef reference="Q4075956" resource="http://www.wikidata.org" timestamp="2024-11-03T14:51:06UTC" source="undefined" reftype="entity"/>
+</externalReferences>
+</coref>
+<coref id="co29" status="manual" type="entity">
+<span>
+<target id="t203"/>
+</span>
+<externalReferences>
+<externalRef reference="Q4075956" resource="http://www.wikidata.org" timestamp="2024-11-03T14:51:14UTC" source="undefined" reftype="entity"/>
+</externalReferences>
+</coref>
+<coref id="co30" status="manual" type="entity">
+<span>
+<target id="t283"/>
+</span>
+<externalReferences>
+<externalRef reference="Q4075956" resource="http://www.wikidata.org" timestamp="2024-11-03T14:51:25UTC" source="undefined" reftype="entity"/>
+</externalReferences>
+</coref>
+<coref id="co31" status="manual" type="entity">
+<span>
+<target id="t87"/>
+</span>
+<externalReferences>
+<externalRef reference="Q1651075371225" resource="http://www.wikidata.org" timestamp="2024-11-03T14:51:33UTC" source="undefined" reftype="entity"/>
+</externalReferences>
+</coref>
+<coref id="co32" status="manual" type="entity">
+<span>
+<target id="t96"/>
+</span>
+<externalReferences>
+<externalRef reference="Q1651075371225" resource="http://www.wikidata.org" timestamp="2024-11-03T14:51:39UTC" source="undefined" reftype="entity"/>
+</externalReferences>
+</coref>
+<coref id="co33" status="manual" type="entity">
+<span>
+<target id="t115"/>
+</span>
+<externalReferences>
+<externalRef reference="Q1651075371225" resource="http://www.wikidata.org" timestamp="2024-11-03T14:51:48UTC" source="undefined" reftype="entity"/>
+</externalReferences>
+</coref>
+<coref id="co34" status="manual" type="entity">
+<span>
+<target id="t122"/>
+</span>
+<externalReferences>
+<externalRef reference="Q1651075371225" resource="http://www.wikidata.org" timestamp="2024-11-03T14:51:53UTC" source="undefined" reftype="entity"/>
+</externalReferences>
+</coref>
+<coref id="co35" status="manual" type="entity">
+<span>
+<target id="t189"/>
+</span>
+<externalReferences>
+<externalRef reference="Q4075956" resource="http://www.wikidata.org" timestamp="2024-11-03T14:52:10UTC" source="undefined" reftype="entity"/>
+</externalReferences>
+</coref>
+<coref id="co36" status="manual" type="entity">
+<span>
+<target id="t233"/>
+</span>
+<externalReferences>
+<externalRef reference="Q4075956" resource="http://www.wikidata.org" timestamp="2024-11-03T14:52:27UTC" source="undefined" reftype="entity"/>
+</externalReferences>
+</coref>
+<coref id="co37" status="manual" type="entity">
+<span>
+<target id="t242"/>
+</span>
+<externalReferences>
+<externalRef reference="Q4075956" resource="http://www.wikidata.org" timestamp="2024-11-03T14:52:34UTC" source="undefined" reftype="entity"/>
+</externalReferences>
+</coref>
+<coref id="co38" status="manual" type="entity">
+<span>
+<target id="t289"/>
+</span>
+<externalReferences>
+<externalRef reference="Q4075956" resource="http://www.wikidata.org" timestamp="2024-11-03T14:52:45UTC" source="undefined" reftype="entity"/>
+</externalReferences>
+</coref>
+<coref id="co39" status="manual" type="entity">
+<span>
+<target id="t292"/>
+</span>
+<externalReferences>
+<externalRef reference="Q1646835057489" resource="http://www.wikidata.org" timestamp="2024-11-03T14:53:17UTC" source="undefined" reftype="entity"/>
+</externalReferences>
+</coref>
+<coref id="co40" status="manual" type="entity">
+<span>
+<target id="t298"/>
+</span>
+<externalReferences>
+<externalRef reference="Q1646835057489" resource="http://www.wikidata.org" timestamp="2024-11-03T14:53:23UTC" source="undefined" reftype="entity"/>
+</externalReferences>
+</coref>
+<coref id="co41" status="manual" type="entity">
+<span>
+<target id="t302"/>
+</span>
+<externalReferences>
+<externalRef reference="Q4075956" resource="http://www.wikidata.org" timestamp="2024-11-03T14:53:30UTC" source="undefined" reftype="entity"/>
+</externalReferences>
+</coref>
+<coref id="co42" status="manual" type="entity">
+<span>
+<target id="t310"/>
+</span>
+<externalReferences>
+<externalRef reference="Q1651075371225" resource="http://www.wikidata.org" timestamp="2024-11-03T14:53:36UTC" source="undefined" reftype="entity"/>
+</externalReferences>
+</coref>
+<coref id="co43" status="manual" type="event">
+<span>
+<target id="t321"/>
+</span>
+<externalReferences>
+<externalRef reference="Q30973589" resource="http://www.wikidata.org" timestamp="2024-11-03T14:53:53UTC" source="undefined" reftype="event"/>
+</externalReferences>
+</coref>
+<coref id="co44" status="manual" type="entity">
+<span>
+<target id="t325"/>
+<target id="t326"/>
+<target id="t327"/>
+</span>
+<externalReferences>
+<externalRef reference="Q1651075371225" resource="http://www.wikidata.org" timestamp="2024-11-03T14:54:06UTC" source="undefined" reftype="entity"/>
+</externalReferences>
+</coref>
+<coref id="co45" status="manual" type="entity">
+<span>
+<target id="t335"/>
+</span>
+<externalReferences>
+<externalRef reference="Q1651075371225" resource="http://www.wikidata.org" timestamp="2024-11-03T14:54:11UTC" source="undefined" reftype="entity"/>
+</externalReferences>
+</coref>
+<coref id="co46" status="manual" type="entity">
+<span>
+<target id="t147"/>
+</span>
+<externalReferences>
+<externalRef reference="Q1651075371225" resource="http://www.wikidata.org" timestamp="2024-11-04T00:46:38UTC" source="undefined" reftype="entity"/>
+</externalReferences>
+</coref>
+</coreferences>
+<srl>
+<predicate id="pr1" status="manual">
+<span>
+<target id="t23.c1"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-social_event" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T12:42:09UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" lu_url="http://rdf.cltl.nl/efn/fn_eng-lexicon-1.7-lu-1638381966917" reftype="type"/>
+</externalReferences>
+<role id="r1" status="manual">
+<span>
+<target id="t23.c0"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-social_event@social_event" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:05:29UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+<role id="r2" status="manual">
+<span>
+<target id="t45"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-social_event@attendee" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:05:38UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+</predicate>
+<predicate id="pr2" status="manual">
+<span>
+<target id="t29"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-performing_arts" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T12:44:56UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" lu_url="http://rdf.cltl.nl/efn/fn_eng-lexicon-1.7-lu-1638382516832" reftype="type"/>
+</externalReferences>
+<role id="r1" status="manual">
+<span/>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-performing_arts@performer" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:07:53UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+<role id="r2" status="deprecated">
+<span/>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-performing_arts@personnel" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:07:58UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+<role id="r3" status="manual">
+<span>
+<target id="t298"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-performing_arts@audience" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:09:07UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+<role id="r4" status="manual">
+<span>
+<target id="t29"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-performing_arts@performance" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:09:12UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+<role id="r5" status="manual">
+<span/>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-performing_arts@script" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:09:17UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+<role id="r6" status="manual">
+<span/>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-performing_arts@score" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:09:20UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+<role id="r7" status="manual">
+<span>
+<target id="t28"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-performing_arts@type" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:09:27UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+<role id="r8" status="manual">
+<span/>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-performing_arts@medium" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:09:31UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+<role id="r9" status="manual">
+<span>
+<target id="t20"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-performing_arts@personnel" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:40:24UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+</predicate>
+<predicate id="pr3" status="manual">
+<span>
+<target id="t43"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-success_or_failure" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T12:45:45UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" lu_url="http://rdf.cltl.nl/efn/fn_eng-lexicon-1.7-lu-1633770397638" reftype="type"/>
+</externalReferences>
+<role id="r1" status="manual">
+<span>
+<target id="t45"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-success_or_failure@agent" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:09:47UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+<role id="r2" status="manual">
+<span>
+<target id="t40"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-success_or_failure@goal" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:10:19UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+<role id="r3" status="manual">
+<span/>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-success_or_failure@role" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:10:38UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+</predicate>
+<predicate id="pr4" status="manual">
+<span>
+<target id="mw2"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-aging" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T12:46:21UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" lu_url="http://rdf.cltl.nl/efn/fn_eng-lexicon-1.7-lu-1639914381112" reftype="type"/>
+</externalReferences>
+<role id="r1" status="manual">
+<span>
+<target id="t50"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-aging@entity" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:10:44UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+</predicate>
+<predicate id="pr5" status="manual">
+<span>
+<target id="t63.c1"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-event" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T12:46:29UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" lu_url="http://rdf.cltl.nl/efn/fn_eng-lexicon-1.7-lu-1631876379985" reftype="type"/>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-social_event" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T12:47:07UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" lu_url="http://rdf.cltl.nl/efn/fn_eng-lexicon-1.7-lu-1639914427052" reftype="type"/>
+</externalReferences>
+<role id="r1" status="manual">
+<span>
+<target id="t23.c0"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-social_event@social_event" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:11:02UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+<role id="r2" status="manual">
+<span>
+<target id="t50"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-social_event@attendee" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:11:10UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+</predicate>
+<predicate id="pr6" status="manual">
+<span>
+<target id="t66"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-event" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T12:47:22UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" lu_url="http://rdf.cltl.nl/efn/fn_eng-lexicon-1.7-lu-1631563476155" reftype="type"/>
+</externalReferences>
+<role id="r1" status="manual">
+<span>
+<target id="t63.c1"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-event@event" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:11:49UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+<role id="r2" status="manual">
+<span>
+<target id="t60"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-event@place" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:12:50UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+<role id="r3" status="manual">
+<span>
+<target id="t65"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-event@time" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:13:00UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+</predicate>
+<predicate id="pr7" status="manual">
+<span>
+<target id="t78"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-placing" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T12:47:39UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" lu_url="http://rdf.cltl.nl/efn/fn_eng-lexicon-1.7-lu-1631879155678" reftype="type"/>
+</externalReferences>
+<role id="r1" status="manual">
+<span>
+<target id="t70"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-placing@agent" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:14:19UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+<role id="r2" status="manual">
+<span>
+<target id="t72"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-placing@theme" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:14:39UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+<role id="r3" status="manual">
+<span>
+<target id="t77"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-placing@goal" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:15:39UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+</predicate>
+<predicate id="pr8" status="manual">
+<span>
+<target id="t104"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-placing" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T12:48:07UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" lu_url="http://rdf.cltl.nl/efn/fn_eng-lexicon-1.7-lu-1631879155678" reftype="type"/>
+</externalReferences>
+<role id="r1" status="manual">
+<span>
+<target id="t96"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-placing@agent" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:16:38UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+<role id="r2" status="manual">
+<span>
+<target id="t97"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-placing@theme" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:16:54UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+<role id="r3" status="manual">
+<span>
+<target id="t98"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-placing@goal" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:17:13UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+</predicate>
+<predicate id="pr9" status="manual">
+<span>
+<target id="t111"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-performing_arts" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T12:48:22UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" lu_url="http://rdf.cltl.nl/efn/fn_eng-lexicon-1.7-lu-1638382516832" reftype="type"/>
+</externalReferences>
+<role id="r1" status="manual">
+<span>
+<target id="t108"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-performing_arts@performer" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:17:26UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+<role id="r2" status="deprecated">
+<span/>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-performing_arts@personnel" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:17:31UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+<role id="r3" status="manual">
+<span>
+<target id="t298"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-performing_arts@audience" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:17:58UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+<role id="r4" status="manual">
+<span>
+<target id="t111"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-performing_arts@performance" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:18:38UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+<role id="r5" status="manual">
+<span/>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-performing_arts@script" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:18:43UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+<role id="r6" status="manual">
+<span/>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-performing_arts@score" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:18:47UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+<role id="r7" status="manual">
+<span/>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-performing_arts@type" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:18:54UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+<role id="r8" status="manual">
+<span/>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-performing_arts@medium" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:19:02UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+<role id="r9" status="manual">
+<span>
+<target id="t96"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-performing_arts@personnel" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:40:53UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+</predicate>
+<predicate id="pr10" status="manual">
+<span>
+<target id="t112"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-giving" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T12:49:15UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" lu_url="http://rdf.cltl.nl/efn/fn_eng-lexicon-1.7-lu-1639914555737" reftype="type"/>
+</externalReferences>
+<role id="r1" status="manual">
+<span>
+<target id="t108"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-giving@donor" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:19:08UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+<role id="r2" status="manual">
+<span>
+<target id="t111"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-giving@theme" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:19:12UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+<role id="r3" status="manual">
+<span>
+<target id="t298"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-giving@recipient" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:19:16UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+</predicate>
+<predicate id="pr11" status="manual">
+<span>
+<target id="t135"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-performing_arts" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T12:49:40UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" lu_url="http://rdf.cltl.nl/efn/fn_eng-lexicon-1.7-lu-1638610371913" reftype="type"/>
+</externalReferences>
+<role id="r1" status="manual">
+<span>
+<target id="t132"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-performing_arts@performer" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:19:26UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+<role id="r2" status="deprecated">
+<span/>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-performing_arts@personnel" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:22:05UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+<role id="r3" status="manual">
+<span>
+<target id="t298"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-performing_arts@audience" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:22:13UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+<role id="r4" status="manual">
+<span>
+<target id="t180"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-performing_arts@performance" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:23:01UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+<role id="r5" status="manual">
+<span/>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-performing_arts@script" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:23:10UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+<role id="r6" status="manual">
+<span/>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-performing_arts@score" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:23:14UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+<role id="r7" status="manual">
+<span/>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-performing_arts@type" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:23:33UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+<role id="r8" status="manual">
+<span/>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-performing_arts@medium" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:23:37UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+<role id="r9" status="manual">
+<span>
+<target id="t20"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-performing_arts@personnel" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:41:31UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+</predicate>
+<predicate id="pr12" status="manual">
+<span>
+<target id="t145"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-performing_arts" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T12:50:24UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" lu_url="http://rdf.cltl.nl/efn/fn_eng-lexicon-1.7-lu-1639914624956" reftype="evoke"/>
+</externalReferences>
+<role id="r1" status="manual">
+<span>
+<target id="t145"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-performing_arts@performer" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:24:03UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+<role id="r2" status="deprecated">
+<span/>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-performing_arts@personnel" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:24:09UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+<role id="r3" status="manual">
+<span>
+<target id="t298"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-performing_arts@audience" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:24:16UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+<role id="r4" status="manual">
+<span>
+<target id="t180"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-performing_arts@performance" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:24:25UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+<role id="r5" status="manual">
+<span/>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-performing_arts@script" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:24:32UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+<role id="r6" status="manual">
+<span/>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-performing_arts@score" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:24:38UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+<role id="r7" status="manual">
+<span>
+<target id="t139"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-performing_arts@type" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:24:55UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+<role id="r8" status="manual">
+<span/>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-performing_arts@medium" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:25:02UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+<role id="r9" status="manual">
+<span>
+<target id="t147"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-performing_arts@personnel" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:41:54UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+</predicate>
+<predicate id="pr13" status="manual">
+<span>
+<target id="t180"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-performing_arts" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T12:50:56UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" lu_url="http://rdf.cltl.nl/efn/fn_eng-lexicon-1.7-lu-1638382516832" reftype="type"/>
+</externalReferences>
+<role id="r1" status="manual">
+<span>
+<target id="t182"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-performing_arts@performer" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:25:10UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+<role id="r2" status="deprecated">
+<span/>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-performing_arts@personnel" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:25:13UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+<role id="r3" status="manual">
+<span>
+<target id="t298"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-performing_arts@audience" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:25:18UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+<role id="r4" status="manual">
+<span>
+<target id="t180"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-performing_arts@performance" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:25:28UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+<role id="r5" status="manual">
+<span/>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-performing_arts@script" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:25:32UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+<role id="r6" status="manual">
+<span/>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-performing_arts@score" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:25:37UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+<role id="r7" status="manual">
+<span/>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-performing_arts@type" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:25:46UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+<role id="r8" status="manual">
+<span/>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-performing_arts@medium" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:25:50UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+<role id="r9" status="manual">
+<span>
+<target id="t20"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-performing_arts@personnel" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:42:17UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+</predicate>
+<predicate id="pr14" status="manual">
+<span>
+<target id="t174"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-sensation" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T12:52:00UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" lu_url="http://rdf.cltl.nl/efn/fn_eng-lexicon-1.7-lu-1639914720185" reftype="type"/>
+</externalReferences>
+<role id="r1" status="deprecated">
+<span/>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-sensation@perceiver_passive" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:27:10UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+<role id="r2" status="manual">
+<span>
+<target id="t180"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-sensation@source" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:27:41UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+<role id="r3" status="manual">
+<span/>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-sensation@body_part" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:27:49UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+<role id="r4" status="manual">
+<span>
+<target id="t173"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-sensation@percept" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:28:31UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+<role id="r5" status="manual">
+<span>
+<target id="t177"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-sensation@ground" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:28:43UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+<role id="r6" status="manual">
+<span/>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-sensation@perceiver_passive" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:29:19UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+</predicate>
+<predicate id="pr15" status="manual">
+<span>
+<target id="t217.c0"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-performing_arts" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T12:52:37UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" lu_url="http://rdf.cltl.nl/efn/fn_eng-lexicon-1.7-lu-1638890295795" reftype="type"/>
+</externalReferences>
+<role id="r1" status="manual">
+<span>
+<target id="t217.c1"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-performing_arts@performer" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:29:36UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+<role id="r2" status="deprecated">
+<span/>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-performing_arts@personnel" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:29:40UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+<role id="r3" status="manual">
+<span>
+<target id="t298"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-performing_arts@audience" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:29:44UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+<role id="r4" status="manual">
+<span>
+<target id="t180"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-performing_arts@performance" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:29:54UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+<role id="r5" status="manual">
+<span/>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-performing_arts@script" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:29:57UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+<role id="r6" status="manual">
+<span/>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-performing_arts@score" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:30:02UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+<role id="r7" status="manual">
+<span>
+<target id="t217.c0"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-performing_arts@type" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:30:09UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+<role id="r8" status="manual">
+<span/>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-performing_arts@medium" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:30:14UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+<role id="r9" status="manual">
+<span>
+<target id="t216"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-performing_arts@personnel" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:42:51UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+</predicate>
+<predicate id="pr16" status="manual">
+<span>
+<target id="t224"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-practice" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T12:53:39UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" lu_url="http://rdf.cltl.nl/efn/fn_eng-lexicon-1.7-lu-1639914819404" reftype="type"/>
+</externalReferences>
+<role id="r1" status="manual">
+<span>
+<target id="t224"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-practice@action" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:30:28UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+<role id="r2" status="manual">
+<span>
+<target id="t180"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-practice@occasion" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:31:19UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+<role id="r3" status="manual">
+<span>
+<target id="t194"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-practice@agent" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:31:40UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+</predicate>
+<predicate id="pr17" status="manual">
+<span>
+<target id="t247.c1"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-performing_arts" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T12:53:50UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" lu_url="http://rdf.cltl.nl/efn/fn_eng-lexicon-1.7-lu-1638992846501" reftype="type"/>
+</externalReferences>
+<role id="r1" status="manual">
+<span>
+<target id="t45"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-performing_arts@performer" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:31:51UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+<role id="r2" status="deprecated">
+<span/>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-performing_arts@personnel" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:31:58UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+<role id="r3" status="manual">
+<span>
+<target id="t298"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-performing_arts@audience" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:32:22UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+<role id="r4" status="manual">
+<span>
+<target id="t247.c1"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-performing_arts@performance" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:32:37UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+<role id="r5" status="manual">
+<span/>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-performing_arts@script" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:32:40UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+<role id="r6" status="manual">
+<span/>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-performing_arts@score" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:32:44UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+<role id="r7" status="manual">
+<span>
+<target id="t247.c0"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-performing_arts@type" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:32:48UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+<role id="r8" status="manual">
+<span/>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-performing_arts@medium" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:32:52UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+<role id="r9" status="manual">
+<span>
+<target id="t20"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-performing_arts@personnel" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:43:15UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+</predicate>
+<predicate id="pr18" status="manual">
+<span>
+<target id="t258"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-performing_arts" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T12:54:02UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" lu_url="http://rdf.cltl.nl/efn/fn_eng-lexicon-1.7-lu-1638610371913" reftype="type"/>
+</externalReferences>
+<role id="r1" status="manual">
+<span>
+<target id="t260"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-performing_arts@performer" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:32:58UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+<role id="r2" status="deprecated">
+<span/>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-performing_arts@personnel" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:33:02UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+<role id="r3" status="manual">
+<span>
+<target id="t298"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-performing_arts@audience" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:33:08UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+<role id="r4" status="manual">
+<span>
+<target id="t180"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-performing_arts@performance" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:33:17UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+<role id="r5" status="manual">
+<span/>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-performing_arts@script" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:33:24UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+<role id="r6" status="manual">
+<span/>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-performing_arts@score" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:33:39UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+<role id="r7" status="manual">
+<span/>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-performing_arts@type" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:33:45UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+<role id="r8" status="manual">
+<span/>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-performing_arts@medium" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:33:49UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+<role id="r9" status="manual">
+<span>
+<target id="t20"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-performing_arts@personnel" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:43:36UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+</predicate>
+<predicate id="pr19" status="manual">
+<span>
+<target id="t321"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-performing_arts" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T12:54:56UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" lu_url="http://rdf.cltl.nl/efn/fn_eng-lexicon-1.7-lu-1638384173137" reftype="type"/>
+</externalReferences>
+<role id="r1" status="manual">
+<span>
+<target id="t45"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-performing_arts@performer" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:36:56UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+<role id="r2" status="deprecated">
+<span/>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-performing_arts@personnel" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:37:00UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+<role id="r3" status="deprecated">
+<span>
+<target id="t310"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-performing_arts@personnel" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:37:16UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+<role id="r4" status="manual">
+<span>
+<target id="t298"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-performing_arts@audience" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:37:20UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+<role id="r5" status="manual">
+<span>
+<target id="t180"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-performing_arts@performance" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:37:25UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+<role id="r6" status="manual">
+<span/>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-performing_arts@script" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:37:29UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+<role id="r7" status="manual">
+<span/>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-performing_arts@score" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:37:32UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+<role id="r8" status="manual">
+<span/>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-performing_arts@type" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:37:37UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+<role id="r9" status="manual">
+<span/>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-performing_arts@medium" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:37:43UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+<role id="r10" status="manual">
+<span>
+<target id="t310"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-performing_arts@personnel" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:44:05UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+</predicate>
+<predicate id="pr20" status="manual">
+<span>
+<target id="t357"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-success_or_failure" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T12:56:04UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" lu_url="http://rdf.cltl.nl/efn/fn_eng-lexicon-1.7-lu-1639914964895" reftype="evoke"/>
+</externalReferences>
+<role id="r1" status="manual">
+<span>
+<target id="t340"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-success_or_failure@agent" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:37:53UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+<role id="r2" status="manual">
+<span>
+<target id="t359"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-success_or_failure@role" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:38:14UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+<role id="r3" status="manual">
+<span/>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-success_or_failure@goal" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:38:22UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+</predicate>
+<predicate id="pr21" status="manual">
+<span>
+<target id="t362"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-getting" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:02:49UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" lu_url="http://rdf.cltl.nl/efn/fn_eng-lexicon-1.7-lu-1639915369358" reftype="type"/>
+</externalReferences>
+<role id="r1" status="manual">
+<span>
+<target id="t361"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-getting@recipient" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:38:28UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+<role id="r2" status="deprecated">
+<span>
+<target id="t364"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-getting@theme" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:38:34UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+<role id="r3" status="manual">
+<span>
+<target id="t365"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-getting@theme" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:38:57UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+</predicate>
+<predicate id="pr22" status="manual">
+<span>
+<target id="t385"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-occupy_rank" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:03:25UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" lu_url="http://rdf.cltl.nl/efn/fn_eng-lexicon-1.7-lu-1639319446437" reftype="type"/>
+</externalReferences>
+<role id="r1" status="manual">
+<span>
+<target id="t390"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-occupy_rank@rank" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:39:21UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+<role id="r2" status="manual">
+<span>
+<target id="t384"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-occupy_rank@item" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:39:29UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+<role id="r3" status="manual">
+<span>
+<target id="t398"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-occupy_rank@dimension" resource="http://premon.fbk.eu/premon/fn17" timestamp="2021-12-19T13:40:05UTC" source="L4CZpQdDsMTmpUqTnPwx1jWzEey4QT45" reftype=""/>
+</externalReferences>
+</role>
+</predicate>
+<predicate id="pr23" status="manual">
+<span>
+<target id="t7.c1"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-social_event" resource="http://premon.fbk.eu/premon/fn17" timestamp="2024-10-26T13:30:56UTC" source="5rGmZz46xcXFMnEYKrNCrFGpiG_mFhjk" lu_url="http://rdf.cltl.nl/efn/fn_eng-lexicon-1.7-lu-1729942119053" reftype="type"/>
+</externalReferences>
+<role id="r1" status="manual">
+<span>
+<target id="t7.c1"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-social_event@social_event" resource="http://premon.fbk.eu/premon/fn17" timestamp="2024-10-26T13:32:17UTC" source="5rGmZz46xcXFMnEYKrNCrFGpiG_mFhjk" reftype=""/>
+</externalReferences>
+</role>
+<role id="r2" status="manual">
+<span>
+<target id="t1"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-social_event@attendee" resource="http://premon.fbk.eu/premon/fn17" timestamp="2024-10-26T13:32:26UTC" source="5rGmZz46xcXFMnEYKrNCrFGpiG_mFhjk" reftype=""/>
+</externalReferences>
+</role>
+</predicate>
+<predicate id="pr24" status="manual">
+<span>
+<target id="t346"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-arriving" resource="http://premon.fbk.eu/premon/fn17" timestamp="2024-10-26T13:32:00UTC" source="5rGmZz46xcXFMnEYKrNCrFGpiG_mFhjk" lu_url="http://rdf.cltl.nl/efn/fn_eng-lexicon-1.7-lu-1729942320036" reftype="type"/>
+</externalReferences>
+<role id="r1" status="manual">
+<span>
+<target id="t340"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-arriving@theme" resource="http://premon.fbk.eu/premon/fn17" timestamp="2024-10-26T13:32:35UTC" source="5rGmZz46xcXFMnEYKrNCrFGpiG_mFhjk" reftype=""/>
+</externalReferences>
+</role>
+<role id="r2" status="manual">
+<span>
+<target id="t7.c1"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-arriving@goal" resource="http://premon.fbk.eu/premon/fn17" timestamp="2024-10-26T13:32:41UTC" source="5rGmZz46xcXFMnEYKrNCrFGpiG_mFhjk" reftype=""/>
+</externalReferences>
+</role>
+</predicate>
+<predicate id="pr25" status="manual">
+<span>
+<target id="t25"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-communication" resource="http://premon.fbk.eu/premon/fn17" timestamp="2024-11-04T00:39:30UTC" source="5rGmZz46xcXFMnEYKrNCrFGpiG_mFhjk" lu_url="http://rdf.cltl.nl/efn/fn_eng-lexicon-1.7-lu-1730677170836" reftype="type"/>
+</externalReferences>
+<role id="r1" status="manual">
+<span>
+<target id="t20"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-communication@communicator" resource="http://premon.fbk.eu/premon/fn17" timestamp="2024-11-04T10:13:32UTC" source="5rGmZz46xcXFMnEYKrNCrFGpiG_mFhjk" reftype=""/>
+</externalReferences>
+</role>
+<role id="r2" status="manual">
+<span>
+<target id="t32"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-communication@message" resource="http://premon.fbk.eu/premon/fn17" timestamp="2024-11-04T10:13:38UTC" source="5rGmZz46xcXFMnEYKrNCrFGpiG_mFhjk" reftype=""/>
+</externalReferences>
+</role>
+<role id="r3" status="manual">
+<span>
+<target id="t23.c1"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-communication@topic" resource="http://premon.fbk.eu/premon/fn17" timestamp="2024-11-04T10:13:47UTC" source="5rGmZz46xcXFMnEYKrNCrFGpiG_mFhjk" reftype=""/>
+</externalReferences>
+</role>
+</predicate>
+<predicate id="pr26" status="manual">
+<span>
+<target id="t32"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-scrutiny" resource="http://premon.fbk.eu/premon/fn17" timestamp="2024-11-04T00:40:35UTC" source="5rGmZz46xcXFMnEYKrNCrFGpiG_mFhjk" lu_url="http://rdf.cltl.nl/efn/fn_eng-lexicon-1.7-lu-1676361579906" reftype="type"/>
+</externalReferences>
+<role id="r1" status="manual">
+<span>
+<target id="t20"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-scrutiny@cognizer" resource="http://premon.fbk.eu/premon/fn17" timestamp="2024-11-04T10:13:57UTC" source="5rGmZz46xcXFMnEYKrNCrFGpiG_mFhjk" reftype=""/>
+</externalReferences>
+</role>
+<role id="r2" status="manual">
+<span>
+<target id="t29"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-scrutiny@ground" resource="http://premon.fbk.eu/premon/fn17" timestamp="2024-11-04T10:14:01UTC" source="5rGmZz46xcXFMnEYKrNCrFGpiG_mFhjk" reftype=""/>
+</externalReferences>
+</role>
+</predicate>
+<predicate id="pr27" status="manual">
+<span>
+<target id="t40"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-storing" resource="http://premon.fbk.eu/premon/fn17" timestamp="2024-11-04T00:41:56UTC" source="5rGmZz46xcXFMnEYKrNCrFGpiG_mFhjk" lu_url="http://rdf.cltl.nl/efn/fn_eng-lexicon-1.7-lu-1730677316005" reftype="type"/>
+</externalReferences>
+<role id="r1" status="manual">
+<span>
+<target id="t20"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-storing@agent" resource="http://premon.fbk.eu/premon/fn17" timestamp="2024-11-04T10:14:20UTC" source="5rGmZz46xcXFMnEYKrNCrFGpiG_mFhjk" reftype=""/>
+</externalReferences>
+</role>
+<role id="r2" status="manual">
+<span>
+<target id="t35"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-storing@theme" resource="http://premon.fbk.eu/premon/fn17" timestamp="2024-11-04T10:14:24UTC" source="5rGmZz46xcXFMnEYKrNCrFGpiG_mFhjk" reftype=""/>
+</externalReferences>
+</role>
+<role id="r3" status="manual">
+<span>
+<target id="t38"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-storing@location" resource="http://premon.fbk.eu/premon/fn17" timestamp="2024-11-04T10:14:30UTC" source="5rGmZz46xcXFMnEYKrNCrFGpiG_mFhjk" reftype=""/>
+</externalReferences>
+</role>
+</predicate>
+<predicate id="pr28" status="manual">
+<span>
+<target id="mw3"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-statement" resource="http://premon.fbk.eu/premon/fn17" timestamp="2024-11-04T00:43:08UTC" source="5rGmZz46xcXFMnEYKrNCrFGpiG_mFhjk" lu_url="http://rdf.cltl.nl/efn/fn_eng-lexicon-1.7-lu-1689337640747" reftype="type"/>
+</externalReferences>
+<role id="r1" status="manual">
+<span>
+<target id="t82"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-statement@speaker" resource="http://premon.fbk.eu/premon/fn17" timestamp="2024-11-04T10:15:07UTC" source="5rGmZz46xcXFMnEYKrNCrFGpiG_mFhjk" reftype=""/>
+</externalReferences>
+</role>
+<role id="r2" status="deprecated">
+<span>
+<target id="t78"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-statement@message" resource="http://premon.fbk.eu/premon/fn17" timestamp="2024-11-04T10:15:23UTC" source="5rGmZz46xcXFMnEYKrNCrFGpiG_mFhjk" reftype=""/>
+</externalReferences>
+</role>
+<role id="r3" status="manual">
+<span>
+<target id="t71"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-statement@message" resource="http://premon.fbk.eu/premon/fn17" timestamp="2024-11-04T10:15:36UTC" source="5rGmZz46xcXFMnEYKrNCrFGpiG_mFhjk" reftype=""/>
+</externalReferences>
+</role>
+</predicate>
+<predicate id="pr29" status="manual">
+<span>
+<target id="t92"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-intentionally_act" resource="http://premon.fbk.eu/premon/fn17" timestamp="2024-11-04T00:43:16UTC" source="5rGmZz46xcXFMnEYKrNCrFGpiG_mFhjk" lu_url="http://rdf.cltl.nl/efn/fn_eng-lexicon-1.7-lu-1674552286129" reftype="type"/>
+</externalReferences>
+<role id="r1" status="manual">
+<span>
+<target id="t91"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-intentionally_act@act" resource="http://premon.fbk.eu/premon/fn17" timestamp="2024-11-04T10:15:46UTC" source="5rGmZz46xcXFMnEYKrNCrFGpiG_mFhjk" reftype=""/>
+</externalReferences>
+</role>
+<role id="r2" status="manual">
+<span>
+<target id="t87"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-intentionally_act@agent" resource="http://premon.fbk.eu/premon/fn17" timestamp="2024-11-04T10:15:51UTC" source="5rGmZz46xcXFMnEYKrNCrFGpiG_mFhjk" reftype=""/>
+</externalReferences>
+</role>
+</predicate>
+<predicate id="pr30" status="manual">
+<span>
+<target id="t123"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-desiring" resource="http://premon.fbk.eu/premon/fn17" timestamp="2024-11-04T00:43:35UTC" source="5rGmZz46xcXFMnEYKrNCrFGpiG_mFhjk" lu_url="http://rdf.cltl.nl/efn/fn_eng-lexicon-1.7-lu-1674028917203" reftype="type"/>
+</externalReferences>
+<role id="r1" status="manual">
+<span>
+<target id="t122"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-desiring@experiencer" resource="http://premon.fbk.eu/premon/fn17" timestamp="2024-11-04T10:15:58UTC" source="5rGmZz46xcXFMnEYKrNCrFGpiG_mFhjk" reftype=""/>
+</externalReferences>
+</role>
+<role id="r2" status="manual">
+<span>
+<target id="t130"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-desiring@event" resource="http://premon.fbk.eu/premon/fn17" timestamp="2024-11-04T10:16:03UTC" source="5rGmZz46xcXFMnEYKrNCrFGpiG_mFhjk" reftype=""/>
+</externalReferences>
+</role>
+<role id="r3" status="manual">
+<span>
+<target id="t127"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-desiring@focal_participant" resource="http://premon.fbk.eu/premon/fn17" timestamp="2024-11-04T10:16:08UTC" source="5rGmZz46xcXFMnEYKrNCrFGpiG_mFhjk" reftype=""/>
+</externalReferences>
+</role>
+<role id="r4" status="manual">
+<span>
+<target id="t6"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-desiring@location_of_event" resource="http://premon.fbk.eu/premon/fn17" timestamp="2024-11-04T10:16:18UTC" source="5rGmZz46xcXFMnEYKrNCrFGpiG_mFhjk" reftype=""/>
+</externalReferences>
+</role>
+</predicate>
+<predicate id="pr31" status="manual">
+<span>
+<target id="t130"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-attaching" resource="http://premon.fbk.eu/premon/fn17" timestamp="2024-11-04T00:46:12UTC" source="5rGmZz46xcXFMnEYKrNCrFGpiG_mFhjk" lu_url="http://rdf.cltl.nl/efn/fn_eng-lexicon-1.7-lu-1730677572263" reftype="type"/>
+</externalReferences>
+<role id="r1" status="manual">
+<span>
+<target id="t122"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-attaching@agent" resource="http://premon.fbk.eu/premon/fn17" timestamp="2024-11-04T10:16:28UTC" source="5rGmZz46xcXFMnEYKrNCrFGpiG_mFhjk" reftype=""/>
+</externalReferences>
+</role>
+<role id="r2" status="manual">
+<span>
+<target id="t127"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-attaching@items" resource="http://premon.fbk.eu/premon/fn17" timestamp="2024-11-04T10:16:37UTC" source="5rGmZz46xcXFMnEYKrNCrFGpiG_mFhjk" reftype=""/>
+</externalReferences>
+</role>
+</predicate>
+<predicate id="pr32" status="manual">
+<span>
+<target id="t149"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-choosing" resource="http://premon.fbk.eu/premon/fn17" timestamp="2024-11-04T00:47:10UTC" source="5rGmZz46xcXFMnEYKrNCrFGpiG_mFhjk" lu_url="http://rdf.cltl.nl/efn/fn_eng-lexicon-1.7-lu-1730677630031" reftype="type"/>
+</externalReferences>
+<role id="r1" status="manual">
+<span>
+<target id="t147"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-choosing@cognizer" resource="http://premon.fbk.eu/premon/fn17" timestamp="2024-11-04T10:16:52UTC" source="5rGmZz46xcXFMnEYKrNCrFGpiG_mFhjk" reftype=""/>
+</externalReferences>
+</role>
+<role id="r2" status="manual">
+<span>
+<target id="t145"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-choosing@chosen" resource="http://premon.fbk.eu/premon/fn17" timestamp="2024-11-04T10:16:58UTC" source="5rGmZz46xcXFMnEYKrNCrFGpiG_mFhjk" reftype=""/>
+</externalReferences>
+</role>
+</predicate>
+<predicate id="pr33" status="manual">
+<span>
+<target id="t188"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-awareness" resource="http://premon.fbk.eu/premon/fn17" timestamp="2024-11-04T00:49:54UTC" source="5rGmZz46xcXFMnEYKrNCrFGpiG_mFhjk" lu_url="http://rdf.cltl.nl/efn/fn_eng-lexicon-1.7-lu-1689327328411" reftype="type"/>
+</externalReferences>
+<role id="r1" status="manual">
+<span>
+<target id="t189"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-awareness@cognizer" resource="http://premon.fbk.eu/premon/fn17" timestamp="2024-11-04T10:14:39UTC" source="5rGmZz46xcXFMnEYKrNCrFGpiG_mFhjk" reftype=""/>
+</externalReferences>
+</role>
+<role id="r2" status="manual">
+<span>
+<target id="t198.c1"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-awareness@content" resource="http://premon.fbk.eu/premon/fn17" timestamp="2024-11-04T10:14:47UTC" source="5rGmZz46xcXFMnEYKrNCrFGpiG_mFhjk" reftype=""/>
+</externalReferences>
+</role>
+<role id="r3" status="manual">
+<span>
+<target id="t7.c1"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-awareness@topic" resource="http://premon.fbk.eu/premon/fn17" timestamp="2024-11-04T10:14:59UTC" source="5rGmZz46xcXFMnEYKrNCrFGpiG_mFhjk" reftype=""/>
+</externalReferences>
+</role>
+</predicate>
+<predicate id="pr34" status="manual">
+<span>
+<target id="t202"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-statement" resource="http://premon.fbk.eu/premon/fn17" timestamp="2024-11-04T00:50:05UTC" source="5rGmZz46xcXFMnEYKrNCrFGpiG_mFhjk" lu_url="http://rdf.cltl.nl/efn/fn_eng-lexicon-1.7-lu-1670861044180" reftype="type"/>
+</externalReferences>
+<role id="r1" status="manual">
+<span>
+<target id="t203"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-statement@speaker" resource="http://premon.fbk.eu/premon/fn17" timestamp="2024-11-04T10:17:17UTC" source="5rGmZz46xcXFMnEYKrNCrFGpiG_mFhjk" reftype=""/>
+</externalReferences>
+</role>
+<role id="r2" status="manual">
+<span>
+<target id="t198.c1"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-statement@message" resource="http://premon.fbk.eu/premon/fn17" timestamp="2024-11-04T10:17:37UTC" source="5rGmZz46xcXFMnEYKrNCrFGpiG_mFhjk" reftype=""/>
+</externalReferences>
+</role>
+<role id="r3" status="manual">
+<span>
+<target id="t7.c1"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-statement@topic" resource="http://premon.fbk.eu/premon/fn17" timestamp="2024-11-04T10:17:43UTC" source="5rGmZz46xcXFMnEYKrNCrFGpiG_mFhjk" reftype=""/>
+</externalReferences>
+</role>
+</predicate>
+<predicate id="pr35" status="manual">
+<span>
+<target id="t234"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-getting" resource="http://premon.fbk.eu/premon/fn17" timestamp="2024-11-04T00:52:20UTC" source="5rGmZz46xcXFMnEYKrNCrFGpiG_mFhjk" lu_url="http://rdf.cltl.nl/efn/fn_eng-lexicon-1.7-lu-1670858504036" reftype="type"/>
+</externalReferences>
+<role id="r1" status="manual">
+<span>
+<target id="t233"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-getting@recipient" resource="http://premon.fbk.eu/premon/fn17" timestamp="2024-11-04T10:17:52UTC" source="5rGmZz46xcXFMnEYKrNCrFGpiG_mFhjk" reftype=""/>
+</externalReferences>
+</role>
+<role id="r2" status="manual">
+<span>
+<target id="t237"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-getting@theme" resource="http://premon.fbk.eu/premon/fn17" timestamp="2024-11-04T10:17:56UTC" source="5rGmZz46xcXFMnEYKrNCrFGpiG_mFhjk" reftype=""/>
+</externalReferences>
+</role>
+</predicate>
+<predicate id="pr36" status="manual">
+<span>
+<target id="mw4"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-cause_to_be_included" resource="http://premon.fbk.eu/premon/fn17" timestamp="2024-11-04T00:55:59UTC" source="5rGmZz46xcXFMnEYKrNCrFGpiG_mFhjk" lu_url="http://rdf.cltl.nl/efn/fn_eng-lexicon-1.7-lu-1730678159008" reftype="type"/>
+</externalReferences>
+<role id="r1" status="manual">
+<span>
+<target id="t242"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-cause_to_be_included@agent" resource="http://premon.fbk.eu/premon/fn17" timestamp="2024-11-04T10:18:06UTC" source="5rGmZz46xcXFMnEYKrNCrFGpiG_mFhjk" reftype=""/>
+</externalReferences>
+</role>
+<role id="r2" status="manual">
+<span>
+<target id="t234"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-cause_to_be_included@new_member" resource="http://premon.fbk.eu/premon/fn17" timestamp="2024-11-04T10:18:24UTC" source="5rGmZz46xcXFMnEYKrNCrFGpiG_mFhjk" reftype=""/>
+</externalReferences>
+</role>
+<role id="r3" status="manual">
+<span>
+<target id="t198.c1"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-cause_to_be_included@existing_member" resource="http://premon.fbk.eu/premon/fn17" timestamp="2024-11-04T10:18:47UTC" source="5rGmZz46xcXFMnEYKrNCrFGpiG_mFhjk" reftype=""/>
+</externalReferences>
+</role>
+</predicate>
+<predicate id="pr37" status="manual">
+<span>
+<target id="mw5"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-cause_harm" resource="http://premon.fbk.eu/premon/fn17" timestamp="2024-11-04T00:58:37UTC" source="5rGmZz46xcXFMnEYKrNCrFGpiG_mFhjk" lu_url="http://rdf.cltl.nl/efn/fn_eng-lexicon-1.7-lu-1730678317164" reftype="type"/>
+</externalReferences>
+<role id="r1" status="manual">
+<span>
+<target id="t299"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-cause_harm@cause" resource="http://premon.fbk.eu/premon/fn17" timestamp="2024-11-04T10:19:12UTC" source="5rGmZz46xcXFMnEYKrNCrFGpiG_mFhjk" reftype=""/>
+</externalReferences>
+</role>
+<role id="r2" status="manual">
+<span>
+<target id="t289"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-cause_harm@victim" resource="http://premon.fbk.eu/premon/fn17" timestamp="2024-11-04T10:19:18UTC" source="5rGmZz46xcXFMnEYKrNCrFGpiG_mFhjk" reftype=""/>
+</externalReferences>
+</role>
+</predicate>
+<predicate id="pr38" status="manual">
+<span>
+<target id="t303"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-certainty" resource="http://premon.fbk.eu/premon/fn17" timestamp="2024-11-04T00:59:21UTC" source="5rGmZz46xcXFMnEYKrNCrFGpiG_mFhjk" lu_url="http://rdf.cltl.nl/efn/fn_eng-lexicon-1.7-lu-1730678361850" reftype="type"/>
+</externalReferences>
+<role id="r1" status="manual">
+<span>
+<target id="t302"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-certainty@cognizer" resource="http://premon.fbk.eu/premon/fn17" timestamp="2024-11-04T10:19:28UTC" source="5rGmZz46xcXFMnEYKrNCrFGpiG_mFhjk" reftype=""/>
+</externalReferences>
+</role>
+<role id="r2" status="manual">
+<span>
+<target id="t299"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-certainty@topic" resource="http://premon.fbk.eu/premon/fn17" timestamp="2024-11-04T10:20:08UTC" source="5rGmZz46xcXFMnEYKrNCrFGpiG_mFhjk" reftype=""/>
+</externalReferences>
+</role>
+<role id="r3" status="manual">
+<span>
+<target id="t308"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-certainty@content" resource="http://premon.fbk.eu/premon/fn17" timestamp="2024-11-04T10:20:16UTC" source="5rGmZz46xcXFMnEYKrNCrFGpiG_mFhjk" reftype=""/>
+</externalReferences>
+</role>
+</predicate>
+<predicate id="pr39" status="manual">
+<span>
+<target id="t311"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-emphasizing" resource="http://premon.fbk.eu/premon/fn17" timestamp="2024-11-04T00:59:50UTC" source="5rGmZz46xcXFMnEYKrNCrFGpiG_mFhjk" lu_url="http://rdf.cltl.nl/efn/fn_eng-lexicon-1.7-lu-1730678390688" reftype="type"/>
+</externalReferences>
+<role id="r1" status="manual">
+<span>
+<target id="t310"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-emphasizing@agent" resource="http://premon.fbk.eu/premon/fn17" timestamp="2024-11-04T10:20:57UTC" source="5rGmZz46xcXFMnEYKrNCrFGpiG_mFhjk" reftype=""/>
+</externalReferences>
+</role>
+<role id="r2" status="manual">
+<span>
+<target id="t317"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-emphasizing@consideration" resource="http://premon.fbk.eu/premon/fn17" timestamp="2024-11-04T10:21:11UTC" source="5rGmZz46xcXFMnEYKrNCrFGpiG_mFhjk" reftype=""/>
+</externalReferences>
+</role>
+</predicate>
+<predicate id="pr40" status="manual">
+<span>
+<target id="t329"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-deciding" resource="http://premon.fbk.eu/premon/fn17" timestamp="2024-11-04T01:00:06UTC" source="5rGmZz46xcXFMnEYKrNCrFGpiG_mFhjk" lu_url="http://rdf.cltl.nl/efn/fn_eng-lexicon-1.7-lu-1689537742422" reftype="type"/>
+</externalReferences>
+<role id="r1" status="manual">
+<span>
+<target id="t327"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-deciding@cognizer" resource="http://premon.fbk.eu/premon/fn17" timestamp="2024-11-04T10:21:38UTC" source="5rGmZz46xcXFMnEYKrNCrFGpiG_mFhjk" reftype=""/>
+</externalReferences>
+</role>
+</predicate>
+</srl>
+</NAF>

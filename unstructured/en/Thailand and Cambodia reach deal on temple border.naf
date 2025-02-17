@@ -1,0 +1,537 @@
+<NAF xml:lang="en" version="v3.1">
+<nafHeader>
+<fileDesc creationtime="2011-12-21T18:18:43UTC" title="Thailand and Cambodia reach deal on temple border"/>
+<public uri="https://www.bbc.co.uk/news/world-asia-pacific-16294309"/>
+<linguisticProcessors layer="text">
+<lp beginTimestamp="2021-11-24T18:58:25UTC" endTimestamp="2021-11-24T18:58:25UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+</linguisticProcessors>
+<linguisticProcessors layer="deps">
+<lp beginTimestamp="2021-11-24T18:58:25UTC" endTimestamp="2021-11-24T18:58:25UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+</linguisticProcessors>
+<linguisticProcessors layer="raw">
+<lp beginTimestamp="2021-11-24T18:58:25UTC" endTimestamp="2021-11-24T18:58:25UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+</linguisticProcessors>
+<linguisticProcessors layer="terms">
+<lp beginTimestamp="2021-11-24T18:58:25UTC" endTimestamp="2021-11-24T18:58:25UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+</linguisticProcessors>
+<linguisticProcessors layer="multiwords">
+<lp beginTimestamp="2021-11-24T18:58:25UTC" endTimestamp="2021-11-24T18:58:25UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+</linguisticProcessors>
+<linguisticProcessors layer="entities">
+<lp beginTimestamp="2011-12-21T18:18:43UTC" endTimestamp="2011-12-21T18:18:43UTC" name="Wikipedia hyperlinks" version="Wikipedia dump from 2019-07-20"/>
+</linguisticProcessors>
+<linguisticProcessors layer="srl">
+<lp name="open-sesame" version="commit-96639aedd24442433365d4d9fca877931fe222e4" timestamp="2021-11-26T22:10:11CET" beginTimestamp="2021-11-26T20:48:13UTC" endTimestamp="2021-11-26T21:09:59UTC" hostname="kyoto"/>
+<lp beginTimestamp="undefined" endTimestamp="2022-07-15T14:32:20UTC" name="annotator_adrielli" version="guidelines_v1" id="uN-bn0dqEXMZil-q9fa4CPhO7WFy6Hfj"/>
+</linguisticProcessors>
+</nafHeader>
+<raw>Thailand and Cambodia reach deal on temple border.
+
+According to a joint statement, both countries agreed to set up a working group on "redeployment of their military personnel completely and simultaneously from their current positions in the provisional demilitarised zone at the earliest".
+</raw>
+<text>
+<wf sent="1" id="w1" length="8" offset="0">Thailand</wf><wf sent="1" id="w2" length="3" offset="9">and</wf><wf sent="1" id="w3" length="8" offset="13">Cambodia</wf><wf sent="1" id="w4" length="5" offset="22">reach</wf><wf sent="1" id="w5" length="4" offset="28">deal</wf><wf sent="1" id="w6" length="2" offset="33">on</wf><wf sent="1" id="w7" length="6" offset="36">temple</wf><wf sent="1" id="w8" length="6" offset="43">border</wf><wf sent="1" id="w9" length="1" offset="49">.</wf><wf sent="2" id="w10" length="9" offset="51">
+According
+</wf>
+<wf sent="2" id="w11" length="2" offset="61">
+to
+</wf>
+<wf sent="2" id="w12" length="1" offset="64">
+a
+</wf>
+<wf sent="2" id="w13" length="5" offset="66">
+joint
+</wf>
+<wf sent="2" id="w14" length="9" offset="72">
+statement
+</wf>
+<wf sent="2" id="w15" length="1" offset="81">
+,
+</wf>
+<wf sent="2" id="w16" length="4" offset="83">
+both
+</wf>
+<wf sent="2" id="w17" length="9" offset="88">
+countries
+</wf>
+<wf sent="2" id="w18" length="6" offset="98">
+agreed
+</wf>
+<wf sent="2" id="w19" length="2" offset="105">
+to
+</wf>
+<wf sent="2" id="w20" length="3" offset="108">
+set
+</wf>
+<wf sent="2" id="w21" length="2" offset="112">
+up
+</wf>
+<wf sent="2" id="w22" length="1" offset="115">
+a
+</wf>
+<wf sent="2" id="w23" length="7" offset="117">
+working
+</wf>
+<wf sent="2" id="w24" length="5" offset="125">
+group
+</wf>
+<wf sent="2" id="w25" length="2" offset="131">
+on
+</wf>
+<wf sent="2" id="w26" length="1" offset="134">
+"
+</wf>
+<wf sent="2" id="w27" length="12" offset="135">
+redeployment
+</wf>
+<wf sent="2" id="w28" length="2" offset="148">
+of
+</wf>
+<wf sent="2" id="w29" length="5" offset="151">
+their
+</wf>
+<wf sent="2" id="w30" length="8" offset="157">
+military
+</wf>
+<wf sent="2" id="w31" length="9" offset="166">
+personnel
+</wf>
+<wf sent="2" id="w32" length="10" offset="176">
+completely
+</wf>
+<wf sent="2" id="w33" length="3" offset="187">
+and
+</wf>
+<wf sent="2" id="w34" length="14" offset="191">
+simultaneously
+</wf>
+<wf sent="2" id="w35" length="4" offset="206">
+from
+</wf>
+<wf sent="2" id="w36" length="5" offset="211">
+their
+</wf>
+<wf sent="2" id="w37" length="7" offset="217">
+current
+</wf>
+<wf sent="2" id="w38" length="9" offset="225">
+positions
+</wf>
+<wf sent="2" id="w39" length="2" offset="235">
+in
+</wf>
+<wf sent="2" id="w40" length="3" offset="238">
+the
+</wf>
+<wf sent="2" id="w41" length="11" offset="242">
+provisional
+</wf>
+<wf sent="2" id="w42" length="13" offset="254">
+demilitarised
+</wf>
+<wf sent="2" id="w43" length="4" offset="268">
+zone
+</wf>
+<wf sent="2" id="w44" length="2" offset="273">
+at
+</wf>
+<wf sent="2" id="w45" length="3" offset="276">
+the
+</wf>
+<wf sent="2" id="w46" length="8" offset="280">
+earliest
+</wf>
+<wf sent="2" id="w47" length="1" offset="288">
+"
+</wf>
+<wf sent="2" id="w48" length="1" offset="289">
+.
+</wf>
+</text>
+<terms>
+<term id="t1" lemma="Thailand" pos="PROPN" type="open" morphofeat="NNP"><span><target id="w1"/></span></term><term id="t2" lemma="and" pos="CCONJ" type="open" morphofeat="CC"><span><target id="w2"/></span></term><term id="t3" lemma="Cambodia" pos="PROPN" type="open" morphofeat="NNP"><span><target id="w3"/></span></term><term id="t4" lemma="reach" pos="VERB" type="open" morphofeat="VBP"><span><target id="w4"/></span></term><term id="t5" lemma="deal" pos="NOUN" type="open" morphofeat="NN"><span><target id="w5"/></span></term><term id="t6" lemma="on" pos="ADP" type="open" morphofeat="IN"><span><target id="w6"/></span></term><term id="t7" lemma="temple" pos="PROPN" type="open" morphofeat="NNP"><span><target id="w7"/></span></term><term id="t8" lemma="border" pos="NOUN" type="open" morphofeat="NN"><span><target id="w8"/></span></term><term id="t9" lemma="." pos="PUNCT" type="open" morphofeat="."><span><target id="w9"/></span></term><term id="t10" lemma="accord" pos="VERB" type="open" morphofeat="VBG">
+<span>
+<target id="w10"/>
+</span>
+</term>
+<term id="t11" lemma="to" pos="ADP" type="open" morphofeat="IN">
+<span>
+<target id="w11"/>
+</span>
+</term>
+<term id="t12" lemma="a" pos="DET" type="open" morphofeat="DT">
+<span>
+<target id="w12"/>
+</span>
+</term>
+<term id="t13" lemma="joint" pos="ADJ" type="open" morphofeat="JJ">
+<span>
+<target id="w13"/>
+</span>
+</term>
+<term id="t14" lemma="statement" pos="NOUN" type="open" morphofeat="NN">
+<span>
+<target id="w14"/>
+</span>
+</term>
+<term id="t15" lemma="," pos="PUNCT" type="open" morphofeat=",">
+<span>
+<target id="w15"/>
+</span>
+</term>
+<term id="t16" lemma="both" pos="DET" type="open" morphofeat="DT">
+<span>
+<target id="w16"/>
+</span>
+</term>
+<term id="t17" lemma="country" pos="NOUN" type="open" morphofeat="NNS">
+<span>
+<target id="w17"/>
+</span>
+</term>
+<term id="t18" lemma="agree" pos="VERB" type="open" morphofeat="VBD">
+<span>
+<target id="w18"/>
+</span>
+</term>
+<term id="t19" lemma="to" pos="PART" type="open" morphofeat="TO">
+<span>
+<target id="w19"/>
+</span>
+</term>
+<term id="t20" lemma="set" pos="VERB" type="open" morphofeat="VB">
+<span>
+<target id="w20"/>
+</span>
+</term>
+<term id="t21" lemma="up" pos="PART" type="open" morphofeat="RP">
+<span>
+<target id="w21"/>
+</span>
+</term>
+<term id="t22" lemma="a" pos="DET" type="open" morphofeat="DT">
+<span>
+<target id="w22"/>
+</span>
+</term>
+<term id="t23" lemma="work" pos="VERB" type="open" morphofeat="VBG">
+<span>
+<target id="w23"/>
+</span>
+</term>
+<term id="t24" lemma="group" pos="NOUN" type="open" morphofeat="NN">
+<span>
+<target id="w24"/>
+</span>
+</term>
+<term id="t25" lemma="on" pos="ADP" type="open" morphofeat="IN">
+<span>
+<target id="w25"/>
+</span>
+</term>
+<term id="t26" lemma="&quot;" pos="PUNCT" type="open" morphofeat="``">
+<span>
+<target id="w26"/>
+</span>
+</term>
+<term id="t27" lemma="redeployment" pos="NOUN" type="open" morphofeat="NN">
+<span>
+<target id="w27"/>
+</span>
+</term>
+<term id="t28" lemma="of" pos="ADP" type="open" morphofeat="IN">
+<span>
+<target id="w28"/>
+</span>
+</term>
+<term id="t29" lemma="-PRON-" pos="DET" type="open" morphofeat="PRP$">
+<span>
+<target id="w29"/>
+</span>
+</term>
+<term id="t30" lemma="military" pos="ADJ" type="open" morphofeat="JJ">
+<span>
+<target id="w30"/>
+</span>
+</term>
+<term id="t31" lemma="personnel" pos="NOUN" type="open" morphofeat="NNS">
+<span>
+<target id="w31"/>
+</span>
+</term>
+<term id="t32" lemma="completely" pos="ADV" type="open" morphofeat="RB">
+<span>
+<target id="w32"/>
+</span>
+</term>
+<term id="t33" lemma="and" pos="CCONJ" type="open" morphofeat="CC">
+<span>
+<target id="w33"/>
+</span>
+</term>
+<term id="t34" lemma="simultaneously" pos="ADV" type="open" morphofeat="RB">
+<span>
+<target id="w34"/>
+</span>
+</term>
+<term id="t35" lemma="from" pos="ADP" type="open" morphofeat="IN">
+<span>
+<target id="w35"/>
+</span>
+</term>
+<term id="t36" lemma="-PRON-" pos="DET" type="open" morphofeat="PRP$">
+<span>
+<target id="w36"/>
+</span>
+</term>
+<term id="t37" lemma="current" pos="ADJ" type="open" morphofeat="JJ">
+<span>
+<target id="w37"/>
+</span>
+</term>
+<term id="t38" lemma="position" pos="NOUN" type="open" morphofeat="NNS">
+<span>
+<target id="w38"/>
+</span>
+</term>
+<term id="t39" lemma="in" pos="ADP" type="open" morphofeat="IN">
+<span>
+<target id="w39"/>
+</span>
+</term>
+<term id="t40" lemma="the" pos="DET" type="open" morphofeat="DT">
+<span>
+<target id="w40"/>
+</span>
+</term>
+<term id="t41" lemma="provisional" pos="ADJ" type="open" morphofeat="JJ">
+<span>
+<target id="w41"/>
+</span>
+</term>
+<term id="t42" lemma="demilitarise" pos="VERB" type="open" morphofeat="VBN">
+<span>
+<target id="w42"/>
+</span>
+</term>
+<term id="t43" lemma="zone" pos="NOUN" type="open" morphofeat="NN">
+<span>
+<target id="w43"/>
+</span>
+</term>
+<term id="t44" lemma="at" pos="ADP" type="open" morphofeat="IN">
+<span>
+<target id="w44"/>
+</span>
+</term>
+<term id="t45" lemma="the" pos="DET" type="open" morphofeat="DT">
+<span>
+<target id="w45"/>
+</span>
+</term>
+<term id="t46" lemma="early" pos="ADJ" type="open" morphofeat="JJS">
+<span>
+<target id="w46"/>
+</span>
+</term>
+<term id="t47" lemma="&quot;" pos="PUNCT" type="open" morphofeat="''">
+<span>
+<target id="w47"/>
+</span>
+</term>
+<term id="t48" lemma="." pos="PUNCT" type="open" morphofeat=".">
+<span>
+<target id="w48"/>
+</span>
+</term>
+</terms>
+<deps>
+<dep from="t4" to="t1" rfunc="nsubj"/><dep from="t1" to="t2" rfunc="cc"/><dep from="t1" to="t3" rfunc="conj"/><dep from="t4" to="t5" rfunc="dobj"/><dep from="t5" to="t6" rfunc="prep"/><dep from="t8" to="t7" rfunc="compound"/><dep from="t6" to="t8" rfunc="pobj"/><dep from="t4" to="t9" rfunc="punct"/><dep from="t18" to="t10" rfunc="prep"/>
+<dep from="t10" to="t11" rfunc="prep"/>
+<dep from="t14" to="t12" rfunc="det"/>
+<dep from="t11" to="t14" rfunc="pobj"/>
+<dep from="t14" to="t13" rfunc="amod"/>
+<dep from="t18" to="t15" rfunc="punct"/>
+<dep from="t17" to="t16" rfunc="det"/>
+<dep from="t18" to="t17" rfunc="nsubj"/>
+<dep from="t20" to="t19" rfunc="aux"/>
+<dep from="t18" to="t20" rfunc="xcomp"/>
+<dep from="t20" to="t21" rfunc="prt"/>
+<dep from="t24" to="t22" rfunc="det"/>
+<dep from="t20" to="t24" rfunc="dobj"/>
+<dep from="t24" to="t23" rfunc="amod"/>
+<dep from="t20" to="t25" rfunc="prep"/>
+<dep from="t27" to="t26" rfunc="punct"/>
+<dep from="t25" to="t27" rfunc="pobj"/>
+<dep from="t27" to="t28" rfunc="prep"/>
+<dep from="t31" to="t29" rfunc="poss"/>
+<dep from="t28" to="t31" rfunc="pobj"/>
+<dep from="t31" to="t30" rfunc="amod"/>
+<dep from="t20" to="t32" rfunc="advmod"/>
+<dep from="t32" to="t33" rfunc="cc"/>
+<dep from="t32" to="t34" rfunc="conj"/>
+<dep from="t20" to="t35" rfunc="prep"/>
+<dep from="t38" to="t36" rfunc="poss"/>
+<dep from="t35" to="t38" rfunc="pobj"/>
+<dep from="t38" to="t37" rfunc="amod"/>
+<dep from="t38" to="t39" rfunc="prep"/>
+<dep from="t43" to="t40" rfunc="det"/>
+<dep from="t39" to="t43" rfunc="pobj"/>
+<dep from="t43" to="t41" rfunc="amod"/>
+<dep from="t43" to="t42" rfunc="amod"/>
+<dep from="t20" to="t44" rfunc="prep"/>
+<dep from="t46" to="t45" rfunc="det"/>
+<dep from="t44" to="t46" rfunc="pobj"/>
+<dep from="t20" to="t47" rfunc="punct"/>
+<dep from="t18" to="t48" rfunc="punct"/>
+</deps>
+<entities/>
+<srl>
+<predicate id="pr1" status="deprecated">
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-statement" resource="http://premon.fbk.eu/resource" source="uN-bn0dqEXMZil-q9fa4CPhO7WFy6Hfj" reftype="evoke" timestamp="2022-07-15T14:31:45UTC"/>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-statement" resource="http://premon.fbk.eu/resource" source="uN-bn0dqEXMZil-q9fa4CPhO7WFy6Hfj" reftype="evoke" timestamp="2022-07-15T14:31:45UTC"/>
+</externalReferences>
+<span>
+<target id="t14"/>
+</span>
+</predicate>
+<predicate id="pr2" status="system">
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-political_locales" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2021-11-26T21:09:59UTC"/>
+</externalReferences>
+<span>
+<target id="t17"/>
+</span>
+</predicate>
+<predicate id="pr3" status="manual">
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-make_agreement_on_action" resource="http://premon.fbk.eu/resource" source="uN-bn0dqEXMZil-q9fa4CPhO7WFy6Hfj" reftype="evoke" timestamp="2022-07-15T14:31:54UTC"/>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-make_agreement_on_action" resource="http://premon.fbk.eu/resource" source="uN-bn0dqEXMZil-q9fa4CPhO7WFy6Hfj" reftype="evoke" timestamp="2022-07-15T14:31:54UTC"/>
+</externalReferences>
+<span>
+<target id="t18"/>
+</span>
+<role id="r1" status="manual">
+<span>
+<target id="t17"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-make_agreement_on_action@parties" resource="http://premon.fbk.eu/premon/fn17" timestamp="2022-07-15T14:32:16UTC" source="uN-bn0dqEXMZil-q9fa4CPhO7WFy6Hfj" reftype=""/>
+</externalReferences>
+</role>
+<role id="r2" status="manual">
+<span>
+<target id="t20"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-make_agreement_on_action@obligation" resource="http://premon.fbk.eu/premon/fn17" timestamp="2022-07-15T14:32:20UTC" source="uN-bn0dqEXMZil-q9fa4CPhO7WFy6Hfj" reftype=""/>
+</externalReferences>
+</role>
+</predicate>
+<predicate id="pr4" status="system">
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-being_operational" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2021-11-26T21:09:59UTC"/>
+</externalReferences>
+<span>
+<target id="t23"/>
+</span>
+</predicate>
+<predicate id="pr5" status="system">
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-aggregate" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2021-11-26T21:09:59UTC"/>
+</externalReferences>
+<span>
+<target id="t24"/>
+</span>
+</predicate>
+<predicate id="pr6" status="system">
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-military" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2021-11-26T21:09:59UTC"/>
+</externalReferences>
+<span>
+<target id="t30"/>
+</span>
+</predicate>
+<predicate id="pr7" status="system">
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-employing" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2021-11-26T21:09:59UTC"/>
+</externalReferences>
+<span>
+<target id="t31"/>
+</span>
+</predicate>
+<predicate id="pr8" status="system">
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-temporal_collocation" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2021-11-26T21:09:59UTC"/>
+</externalReferences>
+<span>
+<target id="t37"/>
+</span>
+</predicate>
+<predicate id="pr9" status="system">
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-locale" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2021-11-26T21:09:59UTC"/>
+</externalReferences>
+<span>
+<target id="t43"/>
+</span>
+</predicate>
+</srl>
+<coreferences>
+<coref id="co1" status="manual" type="entity">
+<span>
+<target id="t16"/>
+<target id="t17"/>
+</span>
+<externalReferences>
+<externalRef reference="Q873675" resource="http://www.wikidata.org" timestamp="2022-07-15T14:31:23UTC" source="undefined" reftype="entity"/>
+</externalReferences>
+</coref>
+<coref id="co2" status="manual" type="entity">
+<span>
+<target id="t16"/>
+<target id="t17"/>
+</span>
+<externalReferences>
+<externalRef reference="Q1656441555459" resource="http://www.wikidata.org" timestamp="2022-07-15T14:31:23UTC" source="undefined" reftype="entity"/>
+</externalReferences>
+</coref>
+<coref id="co3" status="manual" type="entity">
+<span>
+<target id="t29"/>
+</span>
+<externalReferences>
+<externalRef reference="Q873675" resource="http://www.wikidata.org" timestamp="2022-07-15T14:31:29UTC" source="undefined" reftype="entity"/>
+</externalReferences>
+</coref>
+<coref id="co4" status="manual" type="entity">
+<span>
+<target id="t29"/>
+</span>
+<externalReferences>
+<externalRef reference="Q1656441555459" resource="http://www.wikidata.org" timestamp="2022-07-15T14:31:29UTC" source="undefined" reftype="entity"/>
+</externalReferences>
+</coref>
+<coref id="co5" status="manual" type="entity">
+<span>
+<target id="t29"/>
+<target id="t30"/>
+<target id="t31"/>
+</span>
+<externalReferences>
+<externalRef reference="Q947702" resource="http://www.wikidata.org" timestamp="2022-07-15T14:31:34UTC" source="undefined" reftype="entity"/>
+</externalReferences>
+</coref>
+<coref id="co6" status="manual" type="entity">
+<span>
+<target id="t29"/>
+<target id="t30"/>
+<target id="t31"/>
+</span>
+<externalReferences>
+<externalRef reference="Q928226" resource="http://www.wikidata.org" timestamp="2022-07-15T14:31:34UTC" source="undefined" reftype="entity"/>
+</externalReferences>
+</coref>
+</coreferences>
+</NAF>

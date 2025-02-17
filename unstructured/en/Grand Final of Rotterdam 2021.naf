@@ -1,0 +1,514 @@
+<NAF xml:lang="en" version="v4">
+<nafHeader>
+<fileDesc creationtime="2021-05-20T00:00:00UTC" title="Grand Final of Rotterdam 2021"/>
+<public uri="http://web.archive.org/web/20210131012936/https://eurovision.tv/event/rotterdam-2021/grand-final/participants"/>
+<linguisticProcessors layer="raw">
+<lp beginTimestamp="2021-08-23T15:33:14UTC" endTimestamp="2021-08-23T15:33:14UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+</linguisticProcessors>
+<linguisticProcessors layer="text">
+<lp beginTimestamp="2021-08-23T15:33:14UTC" endTimestamp="2021-08-23T15:33:14UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+</linguisticProcessors>
+<linguisticProcessors layer="terms">
+<lp beginTimestamp="2021-08-23T15:33:14UTC" endTimestamp="2021-08-23T15:33:14UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+</linguisticProcessors>
+<linguisticProcessors layer="deps">
+<lp beginTimestamp="2021-08-23T15:33:14UTC" endTimestamp="2021-08-23T15:33:14UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+</linguisticProcessors>
+<linguisticProcessors layer="multiwords">
+<lp beginTimestamp="2021-08-23T15:33:14UTC" endTimestamp="2021-08-23T15:33:14UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+</linguisticProcessors>
+<linguisticProcessors layer="srl">
+<lp name="open-sesame" version="commit-96639aedd24442433365d4d9fca877931fe222e4" timestamp="2021-09-13T16:18:21CEST" beginTimestamp="2021-09-13T14:11:20UTC" endTimestamp="2021-09-13T14:18:17UTC" hostname="kyoto"/>
+<lp beginTimestamp="undefined" endTimestamp="2023-05-01T10:25:36UTC" name="annotator_margriet" version="guidelines_v1" id="CPEchZmmMyqG2wRw4WUnjEGOu3j86WwL"/>
+</linguisticProcessors>
+</nafHeader>
+<raw>Grand Final of Rotterdam 2021.
+The Eurovision Song Contest is organized by the European Broadcasting Union, the world's foremost alliance of public service media, representing 116 member organizations in 56 countries and an additional 34 Associates in Asia, Africa, Australasia and the Americas.</raw>
+<text>
+<wf sent="1" id="w1" length="5" offset="0">Grand</wf>
+<wf sent="1" id="w2" length="5" offset="6">Final</wf>
+<wf sent="1" id="w3" length="2" offset="12">of</wf>
+<wf sent="1" id="w4" length="9" offset="15">Rotterdam</wf>
+<wf sent="1" id="w5" length="4" offset="25">2021</wf>
+<wf sent="1" id="w6" length="1" offset="29">.</wf>
+<wf sent="2" id="w7" length="3" offset="31">The</wf>
+<wf sent="2" id="w8" length="10" offset="35">Eurovision</wf>
+<wf sent="2" id="w9" length="4" offset="46">Song</wf>
+<wf sent="2" id="w10" length="7" offset="51">Contest</wf>
+<wf sent="2" id="w11" length="2" offset="59">is</wf>
+<wf sent="2" id="w12" length="9" offset="62">organized</wf>
+<wf sent="2" id="w13" length="2" offset="72">by</wf>
+<wf sent="2" id="w14" length="3" offset="75">the</wf>
+<wf sent="2" id="w15" length="8" offset="79">European</wf>
+<wf sent="2" id="w16" length="12" offset="88">Broadcasting</wf>
+<wf sent="2" id="w17" length="5" offset="101">Union</wf>
+<wf sent="2" id="w18" length="1" offset="106">,</wf>
+<wf sent="2" id="w19" length="3" offset="108">the</wf>
+<wf sent="2" id="w20" length="5" offset="112">world</wf>
+<wf sent="2" id="w21" length="2" offset="117">'s</wf>
+<wf sent="2" id="w22" length="8" offset="120">foremost</wf>
+<wf sent="2" id="w23" length="8" offset="129">alliance</wf>
+<wf sent="2" id="w24" length="2" offset="138">of</wf>
+<wf sent="2" id="w25" length="6" offset="141">public</wf>
+<wf sent="2" id="w26" length="7" offset="148">service</wf>
+<wf sent="2" id="w27" length="5" offset="156">media</wf>
+<wf sent="2" id="w28" length="1" offset="161">,</wf>
+<wf sent="2" id="w29" length="12" offset="163">representing</wf>
+<wf sent="2" id="w30" length="3" offset="176">116</wf>
+<wf sent="2" id="w31" length="6" offset="180">member</wf>
+<wf sent="2" id="w32" length="13" offset="187">organizations</wf>
+<wf sent="2" id="w33" length="2" offset="201">in</wf>
+<wf sent="2" id="w34" length="2" offset="204">56</wf>
+<wf sent="2" id="w35" length="9" offset="207">countries</wf>
+<wf sent="2" id="w36" length="3" offset="217">and</wf>
+<wf sent="2" id="w37" length="2" offset="221">an</wf>
+<wf sent="2" id="w38" length="10" offset="224">additional</wf>
+<wf sent="2" id="w39" length="2" offset="235">34</wf>
+<wf sent="2" id="w40" length="10" offset="238">Associates</wf>
+<wf sent="2" id="w41" length="2" offset="249">in</wf>
+<wf sent="2" id="w42" length="4" offset="252">Asia</wf>
+<wf sent="2" id="w43" length="1" offset="256">,</wf>
+<wf sent="2" id="w44" length="6" offset="258">Africa</wf>
+<wf sent="2" id="w45" length="1" offset="264">,</wf>
+<wf sent="2" id="w46" length="11" offset="266">Australasia</wf>
+<wf sent="2" id="w47" length="3" offset="278">and</wf>
+<wf sent="2" id="w48" length="3" offset="282">the</wf>
+<wf sent="2" id="w49" length="8" offset="286">Americas</wf>
+<wf sent="2" id="w50" length="1" offset="294">.</wf>
+</text>
+<terms>
+<term id="t1" lemma="Grand" pos="PROPN" type="open" morphofeat="NNP">
+<span>
+<target id="w1"/>
+</span>
+</term>
+<term id="t2" lemma="Final" pos="PROPN" type="open" morphofeat="NNP">
+<span>
+<target id="w2"/>
+</span>
+</term>
+<term id="t3" lemma="of" pos="ADP" type="open" morphofeat="IN">
+<span>
+<target id="w3"/>
+</span>
+</term>
+<term id="t4" lemma="Rotterdam" pos="PROPN" type="open" morphofeat="NNP">
+<span>
+<target id="w4"/>
+</span>
+</term>
+<term id="t5" lemma="2021" pos="NUM" type="open" morphofeat="CD">
+<span>
+<target id="w5"/>
+</span>
+</term>
+<term id="t6" lemma="." pos="PUNCT" type="open" morphofeat=".">
+<span>
+<target id="w6"/>
+</span>
+</term>
+<term id="t7" lemma="the" pos="DET" type="open" morphofeat="DT">
+<span>
+<target id="w7"/>
+</span>
+</term>
+<term id="t8" lemma="Eurovision" pos="PROPN" type="open" morphofeat="NNP">
+<span>
+<target id="w8"/>
+</span>
+</term>
+<term id="t9" lemma="Song" pos="PROPN" type="open" morphofeat="NNP">
+<span>
+<target id="w9"/>
+</span>
+</term>
+<term id="t10" lemma="Contest" pos="PROPN" type="open" morphofeat="NNP">
+<span>
+<target id="w10"/>
+</span>
+</term>
+<term id="t11" lemma="be" pos="VERB" type="open" morphofeat="VBZ">
+<span>
+<target id="w11"/>
+</span>
+</term>
+<term id="t12" lemma="organize" pos="VERB" type="open" morphofeat="VBN">
+<span>
+<target id="w12"/>
+</span>
+</term>
+<term id="t13" lemma="by" pos="ADP" type="open" morphofeat="IN">
+<span>
+<target id="w13"/>
+</span>
+</term>
+<term id="t14" lemma="the" pos="DET" type="open" morphofeat="DT">
+<span>
+<target id="w14"/>
+</span>
+</term>
+<term id="t15" lemma="European" pos="PROPN" type="open" morphofeat="NNP">
+<span>
+<target id="w15"/>
+</span>
+</term>
+<term id="t16" lemma="Broadcasting" pos="PROPN" type="open" morphofeat="NNP">
+<span>
+<target id="w16"/>
+</span>
+</term>
+<term id="t17" lemma="Union" pos="PROPN" type="open" morphofeat="NNP">
+<span>
+<target id="w17"/>
+</span>
+</term>
+<term id="t18" lemma="," pos="PUNCT" type="open" morphofeat=",">
+<span>
+<target id="w18"/>
+</span>
+</term>
+<term id="t19" lemma="the" pos="DET" type="open" morphofeat="DT">
+<span>
+<target id="w19"/>
+</span>
+</term>
+<term id="t20" lemma="world" pos="NOUN" type="open" morphofeat="NN">
+<span>
+<target id="w20"/>
+</span>
+</term>
+<term id="t21" lemma="'s" pos="PART" type="open" morphofeat="POS">
+<span>
+<target id="w21"/>
+</span>
+</term>
+<term id="t22" lemma="foremost" pos="ADJ" type="open" morphofeat="JJ">
+<span>
+<target id="w22"/>
+</span>
+</term>
+<term id="t23" lemma="alliance" pos="NOUN" type="open" morphofeat="NN">
+<span>
+<target id="w23"/>
+</span>
+</term>
+<term id="t24" lemma="of" pos="ADP" type="open" morphofeat="IN">
+<span>
+<target id="w24"/>
+</span>
+</term>
+<term id="t25" lemma="public" pos="ADJ" type="open" morphofeat="JJ">
+<span>
+<target id="w25"/>
+</span>
+</term>
+<term id="t26" lemma="service" pos="NOUN" type="open" morphofeat="NN">
+<span>
+<target id="w26"/>
+</span>
+</term>
+<term id="t27" lemma="medium" pos="NOUN" type="open" morphofeat="NNS">
+<span>
+<target id="w27"/>
+</span>
+</term>
+<term id="t28" lemma="," pos="PUNCT" type="open" morphofeat=",">
+<span>
+<target id="w28"/>
+</span>
+</term>
+<term id="t29" lemma="represent" pos="VERB" type="open" morphofeat="VBG">
+<span>
+<target id="w29"/>
+</span>
+</term>
+<term id="t30" lemma="116" pos="NUM" type="open" morphofeat="CD">
+<span>
+<target id="w30"/>
+</span>
+</term>
+<term id="t31" lemma="member" pos="NOUN" type="open" morphofeat="NN">
+<span>
+<target id="w31"/>
+</span>
+</term>
+<term id="t32" lemma="organization" pos="NOUN" type="open" morphofeat="NNS">
+<span>
+<target id="w32"/>
+</span>
+</term>
+<term id="t33" lemma="in" pos="ADP" type="open" morphofeat="IN">
+<span>
+<target id="w33"/>
+</span>
+</term>
+<term id="t34" lemma="56" pos="NUM" type="open" morphofeat="CD">
+<span>
+<target id="w34"/>
+</span>
+</term>
+<term id="t35" lemma="country" pos="NOUN" type="open" morphofeat="NNS">
+<span>
+<target id="w35"/>
+</span>
+</term>
+<term id="t36" lemma="and" pos="CCONJ" type="open" morphofeat="CC">
+<span>
+<target id="w36"/>
+</span>
+</term>
+<term id="t37" lemma="an" pos="DET" type="open" morphofeat="DT">
+<span>
+<target id="w37"/>
+</span>
+</term>
+<term id="t38" lemma="additional" pos="ADJ" type="open" morphofeat="JJ">
+<span>
+<target id="w38"/>
+</span>
+</term>
+<term id="t39" lemma="34" pos="NUM" type="open" morphofeat="CD">
+<span>
+<target id="w39"/>
+</span>
+</term>
+<term id="t40" lemma="Associates" pos="PROPN" type="open" morphofeat="NNPS">
+<span>
+<target id="w40"/>
+</span>
+</term>
+<term id="t41" lemma="in" pos="ADP" type="open" morphofeat="IN">
+<span>
+<target id="w41"/>
+</span>
+</term>
+<term id="t42" lemma="Asia" pos="PROPN" type="open" morphofeat="NNP">
+<span>
+<target id="w42"/>
+</span>
+</term>
+<term id="t43" lemma="," pos="PUNCT" type="open" morphofeat=",">
+<span>
+<target id="w43"/>
+</span>
+</term>
+<term id="t44" lemma="Africa" pos="PROPN" type="open" morphofeat="NNP">
+<span>
+<target id="w44"/>
+</span>
+</term>
+<term id="t45" lemma="," pos="PUNCT" type="open" morphofeat=",">
+<span>
+<target id="w45"/>
+</span>
+</term>
+<term id="t46" lemma="Australasia" pos="PROPN" type="open" morphofeat="NNP">
+<span>
+<target id="w46"/>
+</span>
+</term>
+<term id="t47" lemma="and" pos="CCONJ" type="open" morphofeat="CC">
+<span>
+<target id="w47"/>
+</span>
+</term>
+<term id="t48" lemma="the" pos="DET" type="open" morphofeat="DT">
+<span>
+<target id="w48"/>
+</span>
+</term>
+<term id="t49" lemma="Americas" pos="PROPN" type="open" morphofeat="NNPS">
+<span>
+<target id="w49"/>
+</span>
+</term>
+<term id="t50" lemma="." pos="PUNCT" type="open" morphofeat=".">
+<span>
+<target id="w50"/>
+</span>
+</term>
+</terms>
+<deps>
+<dep from="t2" to="t1" rfunc="compound"/>
+<dep from="t2" to="t3" rfunc="prep"/>
+<dep from="t3" to="t4" rfunc="pobj"/>
+<dep from="t4" to="t5" rfunc="nummod"/>
+<dep from="t2" to="t6" rfunc="punct"/>
+<dep from="t10" to="t7" rfunc="det"/>
+<dep from="t12" to="t10" rfunc="nsubjpass"/>
+<dep from="t9" to="t8" rfunc="compound"/>
+<dep from="t10" to="t9" rfunc="compound"/>
+<dep from="t12" to="t11" rfunc="auxpass"/>
+<dep from="t12" to="t13" rfunc="agent"/>
+<dep from="t17" to="t14" rfunc="det"/>
+<dep from="t13" to="t17" rfunc="pobj"/>
+<dep from="t17" to="t15" rfunc="compound"/>
+<dep from="t17" to="t16" rfunc="compound"/>
+<dep from="t17" to="t18" rfunc="punct"/>
+<dep from="t20" to="t19" rfunc="det"/>
+<dep from="t23" to="t20" rfunc="poss"/>
+<dep from="t17" to="t23" rfunc="appos"/>
+<dep from="t20" to="t21" rfunc="case"/>
+<dep from="t23" to="t22" rfunc="amod"/>
+<dep from="t23" to="t24" rfunc="prep"/>
+<dep from="t26" to="t25" rfunc="amod"/>
+<dep from="t27" to="t26" rfunc="compound"/>
+<dep from="t24" to="t27" rfunc="pobj"/>
+<dep from="t17" to="t28" rfunc="punct"/>
+<dep from="t12" to="t29" rfunc="advcl"/>
+<dep from="t32" to="t30" rfunc="nummod"/>
+<dep from="t29" to="t32" rfunc="dobj"/>
+<dep from="t32" to="t31" rfunc="compound"/>
+<dep from="t29" to="t33" rfunc="prep"/>
+<dep from="t35" to="t34" rfunc="nummod"/>
+<dep from="t33" to="t35" rfunc="pobj"/>
+<dep from="t29" to="t36" rfunc="cc"/>
+<dep from="t40" to="t37" rfunc="det"/>
+<dep from="t29" to="t40" rfunc="conj"/>
+<dep from="t40" to="t38" rfunc="amod"/>
+<dep from="t40" to="t39" rfunc="nummod"/>
+<dep from="t40" to="t41" rfunc="prep"/>
+<dep from="t41" to="t42" rfunc="pobj"/>
+<dep from="t42" to="t43" rfunc="punct"/>
+<dep from="t42" to="t44" rfunc="conj"/>
+<dep from="t44" to="t45" rfunc="punct"/>
+<dep from="t44" to="t46" rfunc="conj"/>
+<dep from="t46" to="t47" rfunc="cc"/>
+<dep from="t49" to="t48" rfunc="det"/>
+<dep from="t46" to="t49" rfunc="conj"/>
+<dep from="t12" to="t50" rfunc="punct"/>
+</deps>
+<srl>
+<predicate id="pr1" status="system">
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-political_locales" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2021-09-13T14:18:17UTC"/>
+</externalReferences>
+<span>
+<target id="t20"/>
+</span>
+</predicate>
+<predicate id="pr2" status="system">
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-alliance" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2021-09-13T14:18:17UTC"/>
+</externalReferences>
+<span>
+<target id="t23"/>
+</span>
+</predicate>
+<predicate id="pr3" status="system">
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-communicate_categorization" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2021-09-13T14:18:17UTC"/>
+</externalReferences>
+<span>
+<target id="t29"/>
+</span>
+</predicate>
+<predicate id="pr4" status="system">
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-membership" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2021-09-13T14:18:17UTC"/>
+</externalReferences>
+<span>
+<target id="t31"/>
+</span>
+</predicate>
+<predicate id="pr5" status="system">
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-organization" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2021-09-13T14:18:17UTC"/>
+</externalReferences>
+<span>
+<target id="t32"/>
+</span>
+</predicate>
+<predicate id="pr6" status="system">
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-political_locales" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2021-09-13T14:18:17UTC"/>
+</externalReferences>
+<span>
+<target id="t35"/>
+</span>
+</predicate>
+<predicate id="pr7" status="system">
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-increment" resource="http://premon.fbk.eu/resource" source="open-sesame" reftype="evoke" timestamp="2021-09-13T14:18:17UTC"/>
+</externalReferences>
+<span>
+<target id="t38"/>
+</span>
+</predicate>
+<predicate id="pr8" status="manual">
+<span>
+<target id="t2"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-finish_competition" resource="http://premon.fbk.eu/premon/fn17" timestamp="2023-05-01T10:24:54UTC" source="CPEchZmmMyqG2wRw4WUnjEGOu3j86WwL" lu_url="http://rdf.cltl.nl/efn/fn_eng-lexicon-1.7-lu-1682929298379" reftype="type"/>
+</externalReferences>
+<role id="r1" status="manual">
+<span>
+<target id="t4"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-finish_competition@competition" resource="http://premon.fbk.eu/premon/fn17" timestamp="2023-05-01T10:25:12UTC" source="CPEchZmmMyqG2wRw4WUnjEGOu3j86WwL" reftype=""/>
+</externalReferences>
+</role>
+<role id="r2" status="manual">
+<span/>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-finish_competition@competitors" resource="http://premon.fbk.eu/premon/fn17" timestamp="2023-05-01T10:25:17UTC" source="CPEchZmmMyqG2wRw4WUnjEGOu3j86WwL" reftype=""/>
+</externalReferences>
+</role>
+</predicate>
+<predicate id="pr9" status="manual">
+<span>
+<target id="t12"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-making_arrangements" resource="http://premon.fbk.eu/premon/fn17" timestamp="2023-05-01T10:25:02UTC" source="CPEchZmmMyqG2wRw4WUnjEGOu3j86WwL" lu_url="http://rdf.cltl.nl/efn/fn_eng-lexicon-1.7-lu-17605" reftype="type"/>
+</externalReferences>
+<role id="r1" status="manual">
+<span>
+<target id="t17"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-making_arrangements@agent" resource="http://premon.fbk.eu/premon/fn17" timestamp="2023-05-01T10:25:28UTC" source="CPEchZmmMyqG2wRw4WUnjEGOu3j86WwL" reftype=""/>
+</externalReferences>
+</role>
+<role id="r2" status="manual">
+<span>
+<target id="t10"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-making_arrangements@event" resource="http://premon.fbk.eu/premon/fn17" timestamp="2023-05-01T10:25:32UTC" source="CPEchZmmMyqG2wRw4WUnjEGOu3j86WwL" reftype=""/>
+</externalReferences>
+</role>
+<role id="r3" status="manual">
+<span>
+<target id="t5"/>
+</span>
+<externalReferences>
+<externalRef reference="http://premon.fbk.eu/resource/fn17-making_arrangements@scheduled_time" resource="http://premon.fbk.eu/premon/fn17" timestamp="2023-05-01T10:25:36UTC" source="CPEchZmmMyqG2wRw4WUnjEGOu3j86WwL" reftype=""/>
+</externalReferences>
+</role>
+</predicate>
+</srl>
+<coreferences>
+<coref id="co1" status="manual" type="event">
+<span>
+<target id="t4"/>
+<target id="t5"/>
+</span>
+<externalReferences>
+<externalRef reference="Q30973589" resource="http://www.wikidata.org" timestamp="2023-05-01T10:24:35UTC" source="undefined" reftype="event"/>
+</externalReferences>
+</coref>
+<coref id="co2" status="manual" type="entity">
+<span>
+<target id="t15"/>
+<target id="t16"/>
+<target id="t17"/>
+</span>
+<externalReferences>
+<externalRef reference="Q166400" resource="http://www.wikidata.org" timestamp="2023-05-01T10:24:43UTC" source="undefined" reftype="entity"/>
+</externalReferences>
+</coref>
+</coreferences>
+</NAF>

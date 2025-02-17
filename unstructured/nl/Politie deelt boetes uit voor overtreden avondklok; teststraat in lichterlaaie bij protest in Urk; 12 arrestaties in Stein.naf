@@ -1,0 +1,550 @@
+<NAF xml:lang="nl" version="v4">
+  <nafHeader>
+    <fileDesc creationtime="2021-01-23T20:00:00UTC" title="Politie deelt boetes uit voor overtreden avondklok; teststraat in lichterlaaie bij protest in Urk; 12 arrestaties in Stein"/>
+    <public uri="http://web.archive.org/web/20210306125248/https://www.ad.nl/binnenland/politie-deelt-boetes-uit-voor-overtreden-avondklok-teststraat-in-lichterlaaie-bij-protest-in-urk-12-arrestaties-in-stein~a3df1791/"/>
+    <linguisticProcessors layer="raw">
+      <lp beginTimestamp="2021-09-09T11:18:00UTC" endTimestamp="2021-09-09T11:18:00UTC" name="spaCy-model_nl_core_news_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="text">
+      <lp beginTimestamp="2021-09-09T11:18:00UTC" endTimestamp="2021-09-09T11:18:00UTC" name="spaCy-model_nl_core_news_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp beginTimestamp="2021-09-09T11:18:00UTC" endTimestamp="2021-09-09T11:18:00UTC" name="spaCy-model_nl_core_news_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="deps">
+      <lp beginTimestamp="2021-09-09T11:18:00UTC" endTimestamp="2021-09-09T11:18:00UTC" name="spaCy-model_nl_core_news_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="multiwords">
+      <lp beginTimestamp="2021-09-09T11:18:00UTC" endTimestamp="2021-09-09T11:18:00UTC" name="spaCy-model_nl_core_news_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <raw>Politie deelt boetes uit voor overtreden avondklok; teststraat in lichterlaaie bij protest in Urk; 12 arrestaties in Stein.
+Koken &amp; eten In deze chocolade­fa­briek in Brabant kun je je eigen pak hagelslag maken 5 maart Het heeft de sfeer van Sjakie in de Chocoladefabriek, maar het is levensecht. In een nieuwe chocoladefabriek in het Brabantse Veghel die nu in de maak is, maak je je eigen chocoladereep, in je eigen favoriete smaak, met je zelf ontworpen wikkel erom. In de fabriek werken alleen maar jonge mensen.</raw>
+  <text>
+    <wf sent="1" id="w1" length="7" offset="0">Politie</wf><wf sent="1" id="w2" length="5" offset="8">deelt</wf><wf sent="1" id="w3" length="6" offset="14">boetes</wf><wf sent="1" id="w4" length="3" offset="21">uit</wf><wf sent="1" id="w5" length="4" offset="25">voor</wf><wf sent="1" id="w6" length="10" offset="30">overtreden</wf><wf sent="1" id="w7" length="9" offset="41">avondklok</wf><wf sent="1" id="w8" length="1" offset="50">;</wf><wf sent="1" id="w9" length="10" offset="52">teststraat</wf><wf sent="1" id="w10" length="2" offset="63">in</wf><wf sent="1" id="w11" length="12" offset="66">lichterlaaie</wf><wf sent="1" id="w12" length="3" offset="79">bij</wf><wf sent="1" id="w13" length="7" offset="83">protest</wf><wf sent="1" id="w14" length="2" offset="91">in</wf><wf sent="1" id="w15" length="3" offset="94">Urk</wf><wf sent="1" id="w16" length="1" offset="97">;</wf><wf sent="1" id="w17" length="2" offset="99">12</wf><wf sent="1" id="w18" length="11" offset="102">arrestaties</wf><wf sent="1" id="w19" length="2" offset="114">in</wf><wf sent="1" id="w20" length="5" offset="117">Stein</wf><wf sent="1" id="w21" length="1" offset="122">.</wf><wf sent="2" id="w22" length="5" offset="124">Koken</wf>
+    <wf sent="2" id="w23" length="1" offset="130">&amp;</wf>
+    <wf sent="2" id="w24" length="4" offset="132">eten</wf>
+    <wf sent="2" id="w25" length="2" offset="137">In</wf>
+    <wf sent="2" id="w26" length="4" offset="140">deze</wf>
+    <wf sent="2" id="w27" length="18" offset="145">chocolade­fa­briek</wf>
+    <wf sent="2" id="w28" length="2" offset="164">in</wf>
+    <wf sent="2" id="w29" length="7" offset="167">Brabant</wf>
+    <wf sent="2" id="w30" length="3" offset="175">kun</wf>
+    <wf sent="2" id="w31" length="2" offset="179">je</wf>
+    <wf sent="2" id="w32" length="2" offset="182">je</wf>
+    <wf sent="2" id="w33" length="5" offset="185">eigen</wf>
+    <wf sent="2" id="w34" length="3" offset="191">pak</wf>
+    <wf sent="2" id="w35" length="9" offset="195">hagelslag</wf>
+    <wf sent="2" id="w36" length="5" offset="205">maken</wf>
+    <wf sent="2" id="w37" length="1" offset="211">5</wf>
+    <wf sent="2" id="w38" length="5" offset="213">maart</wf>
+    <wf sent="3" id="w39" length="3" offset="219">Het</wf>
+    <wf sent="3" id="w40" length="5" offset="223">heeft</wf>
+    <wf sent="3" id="w41" length="2" offset="229">de</wf>
+    <wf sent="3" id="w42" length="5" offset="232">sfeer</wf>
+    <wf sent="3" id="w43" length="3" offset="238">van</wf>
+    <wf sent="3" id="w44" length="6" offset="242">Sjakie</wf>
+    <wf sent="3" id="w45" length="2" offset="249">in</wf>
+    <wf sent="3" id="w46" length="2" offset="252">de</wf>
+    <wf sent="3" id="w47" length="16" offset="255">Chocoladefabriek</wf>
+    <wf sent="3" id="w48" length="1" offset="271">,</wf>
+    <wf sent="3" id="w49" length="4" offset="273">maar</wf>
+    <wf sent="3" id="w50" length="3" offset="278">het</wf>
+    <wf sent="3" id="w51" length="2" offset="282">is</wf>
+    <wf sent="3" id="w52" length="10" offset="285">levensecht</wf>
+    <wf sent="3" id="w53" length="1" offset="295">.</wf>
+    <wf sent="4" id="w54" length="2" offset="297">In</wf>
+    <wf sent="4" id="w55" length="3" offset="300">een</wf>
+    <wf sent="4" id="w56" length="6" offset="304">nieuwe</wf>
+    <wf sent="4" id="w57" length="16" offset="311">chocoladefabriek</wf>
+    <wf sent="4" id="w58" length="2" offset="328">in</wf>
+    <wf sent="4" id="w59" length="3" offset="331">het</wf>
+    <wf sent="4" id="w60" length="9" offset="335">Brabantse</wf>
+    <wf sent="4" id="w61" length="6" offset="345">Veghel</wf>
+    <wf sent="4" id="w62" length="3" offset="352">die</wf>
+    <wf sent="4" id="w63" length="2" offset="356">nu</wf>
+    <wf sent="4" id="w64" length="2" offset="359">in</wf>
+    <wf sent="4" id="w65" length="2" offset="362">de</wf>
+    <wf sent="4" id="w66" length="4" offset="365">maak</wf>
+    <wf sent="4" id="w67" length="2" offset="370">is</wf>
+    <wf sent="4" id="w68" length="1" offset="372">,</wf>
+    <wf sent="4" id="w69" length="4" offset="374">maak</wf>
+    <wf sent="4" id="w70" length="2" offset="379">je</wf>
+    <wf sent="4" id="w71" length="2" offset="382">je</wf>
+    <wf sent="4" id="w72" length="5" offset="385">eigen</wf>
+    <wf sent="4" id="w73" length="13" offset="391">chocoladereep</wf>
+    <wf sent="4" id="w74" length="1" offset="404">,</wf>
+    <wf sent="4" id="w75" length="2" offset="406">in</wf>
+    <wf sent="4" id="w76" length="2" offset="409">je</wf>
+    <wf sent="4" id="w77" length="5" offset="412">eigen</wf>
+    <wf sent="4" id="w78" length="9" offset="418">favoriete</wf>
+    <wf sent="4" id="w79" length="5" offset="428">smaak</wf>
+    <wf sent="4" id="w80" length="1" offset="433">,</wf>
+    <wf sent="4" id="w81" length="3" offset="435">met</wf>
+    <wf sent="4" id="w82" length="2" offset="439">je</wf>
+    <wf sent="4" id="w83" length="4" offset="442">zelf</wf>
+    <wf sent="4" id="w84" length="9" offset="447">ontworpen</wf>
+    <wf sent="4" id="w85" length="6" offset="457">wikkel</wf>
+    <wf sent="4" id="w86" length="4" offset="464">erom</wf>
+    <wf sent="4" id="w87" length="1" offset="468">.</wf>
+    <wf sent="5" id="w88" length="2" offset="470">In</wf>
+    <wf sent="5" id="w89" length="2" offset="473">de</wf>
+    <wf sent="5" id="w90" length="7" offset="476">fabriek</wf>
+    <wf sent="5" id="w91" length="6" offset="484">werken</wf>
+    <wf sent="5" id="w92" length="6" offset="491">alleen</wf>
+    <wf sent="5" id="w93" length="4" offset="498">maar</wf>
+    <wf sent="5" id="w94" length="5" offset="503">jonge</wf>
+    <wf sent="5" id="w95" length="6" offset="509">mensen</wf>
+    <wf sent="5" id="w96" length="1" offset="515">.</wf>
+  </text>
+  <terms>
+    <term id="t1" lemma="politie" pos="NOUN" type="open" morphofeat="N|soort|ev|basis|zijd|stan__Gender=Com|Number=Sing"><span><target id="w1"/></span></term><term id="t2" lemma="delen" pos="AUX" type="open" morphofeat="WW|pv|tgw|met-t__Number=Sing|Tense=Pres|VerbForm=Fin" component_of="mw1"><span><target id="w2"/></span></term><term id="t3" lemma="boete" pos="NOUN" type="open" morphofeat="N|soort|mv|basis__Number=Plur"><span><target id="w3"/></span></term><term id="t4" lemma="uit" pos="ADP" type="open" morphofeat="VZ|fin" component_of="mw1"><span><target id="w4"/></span></term><term id="t5" lemma="voor" pos="ADP" type="open" morphofeat="VZ|init"><span><target id="w5"/></span></term><term id="t6" lemma="overtred" pos="ADJ" type="open" morphofeat="ADJ|prenom|basis|zonder__Degree=Pos"><span><target id="w6"/></span></term><term id="t7" lemma="avondklok" pos="PROPN" type="open" morphofeat="N|eigen|ev|basis|onz|stan__Gender=Neut|Number=Sing"><span><target id="w7"/></span></term><term id="t8" lemma=";" pos="SYM" type="open" morphofeat="LET"><span><target id="w8"/></span></term><term id="t9" lemma="teststraat" pos="NOUN" type="open" morphofeat="N|soort|ev|basis|onz|stan__Gender=Neut|Number=Sing"><span><target id="w9"/></span></term><term id="t10" lemma="in" pos="ADP" type="open" morphofeat="VZ|init"><span><target id="w10"/></span></term><term id="t11" lemma="lichterlaaie" pos="NOUN" type="open" morphofeat="N|soort|ev|basis|zijd|stan__Gender=Com|Number=Sing"><span><target id="w11"/></span></term><term id="t12" lemma="bij" pos="ADP" type="open" morphofeat="VZ|init"><span><target id="w12"/></span></term><term id="t13" lemma="protest" pos="NOUN" type="open" morphofeat="N|soort|ev|basis|onz|stan__Gender=Neut|Number=Sing"><span><target id="w13"/></span></term><term id="t14" lemma="in" pos="ADP" type="open" morphofeat="VZ|init"><span><target id="w14"/></span></term><term id="t15" lemma="urk" pos="PROPN" type="open" morphofeat="N|eigen|ev|basis|onz|stan__Gender=Neut|Number=Sing"><span><target id="w15"/></span></term><term id="t16" lemma=";" pos="SYM" type="open" morphofeat="LET"><span><target id="w16"/></span></term><term id="t17" lemma="12" pos="NUM" type="open" morphofeat="TW|hoofd|prenom|stan"><span><target id="w17"/></span></term><term id="t18" lemma="arrestatie" pos="NOUN" type="open" morphofeat="N|soort|mv|basis__Number=Plur"><span><target id="w18"/></span></term><term id="t19" lemma="in" pos="ADP" type="open" morphofeat="VZ|init"><span><target id="w19"/></span></term><term id="t20" lemma="stein" pos="PROPN" type="open" morphofeat="N|eigen|ev|basis|onz|stan__Gender=Neut|Number=Sing"><span><target id="w20"/></span></term><term id="t21" lemma="." pos="SYM" type="open" morphofeat="LET"><span><target id="w21"/></span></term><term id="t22" lemma="kok" pos="NOUN" type="open" morphofeat="N|soort|mv|neut__Number=Plur">
+      <span>
+        <target id="w22"/>
+      </span>
+    </term>
+    <term id="t23" lemma="&amp;" pos="VERB" type="open" morphofeat="V|intrans|ovt|1of2of3|ev__Aspect=Imp|Mood=Ind|Number=Sing|Subcat=Intr|Tense=Past|VerbForm=Fin">
+      <span>
+        <target id="w23"/>
+      </span>
+    </term>
+    <term id="t24" lemma="eten" pos="VERB" type="open" morphofeat="V|intrans|inf__Subcat=Intr|VerbForm=Inf">
+      <span>
+        <target id="w24"/>
+      </span>
+    </term>
+    <term id="t25" lemma="in" pos="ADP" type="open" morphofeat="Prep|voor__AdpType=Prep">
+      <span>
+        <target id="w25"/>
+      </span>
+    </term>
+    <term id="t26" lemma="deze" pos="PRON" type="open" morphofeat="Pron|aanw|neut|attr__PronType=Dem">
+      <span>
+        <target id="w26"/>
+      </span>
+    </term>
+    <term id="t27" lemma="chocolade­fa­briek" pos="NOUN" type="open" morphofeat="N|soort|ev|neut__Number=Sing">
+      <span>
+        <target id="w27"/>
+      </span>
+    </term>
+    <term id="t28" lemma="in" pos="ADP" type="open" morphofeat="Prep|voor__AdpType=Prep">
+      <span>
+        <target id="w28"/>
+      </span>
+    </term>
+    <term id="t29" lemma="brabant" pos="NOUN" type="open" morphofeat="N|eigen|ev|neut__Number=Sing">
+      <span>
+        <target id="w29"/>
+      </span>
+    </term>
+    <term id="t30" lemma="kunnen" pos="VERB" type="open" morphofeat="V|hulp|ott|2|ev__Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|VerbType=Mod">
+      <span>
+        <target id="w30"/>
+      </span>
+    </term>
+    <term id="t31" lemma="je" pos="PRON" type="open" morphofeat="Pron|onbep|neut|zelfst__PronType=Ind">
+      <span>
+        <target id="w31"/>
+      </span>
+    </term>
+    <term id="t32" lemma="je" pos="PRON" type="open" morphofeat="Pron|bez|2|ev|neut|attr__Number=Sing|Person=2|Poss=Yes|PronType=Prs">
+      <span>
+        <target id="w32"/>
+      </span>
+    </term>
+    <term id="t33" lemma="eigen" pos="PRON" type="open" morphofeat="Pron|aanw|neut|attr|weigen__PronType=Dem">
+      <span>
+        <target id="w33"/>
+      </span>
+    </term>
+    <term id="t34" lemma="pak" pos="NOUN" type="open" morphofeat="N|soort|ev|neut__Number=Sing">
+      <span>
+        <target id="w34"/>
+      </span>
+    </term>
+    <term id="t35" lemma="hagelslag" pos="X" type="open" morphofeat="X__Number=Sing">
+      <span>
+        <target id="w35"/>
+      </span>
+    </term>
+    <term id="t36" lemma="maken" pos="VERB" type="open" morphofeat="V|trans|inf__Subcat=Tran|VerbForm=Inf">
+      <span>
+        <target id="w36"/>
+      </span>
+    </term>
+    <term id="t37" lemma="5" pos="NUM" type="open" morphofeat="Num_N__NumForm=Digit|NumType=Card">
+      <span>
+        <target id="w37"/>
+      </span>
+    </term>
+    <term id="t38" lemma="maart" pos="NUM" type="open" morphofeat="NUM__Definite=Def|Number=Sing|NumType=Card">
+      <span>
+        <target id="w38"/>
+      </span>
+    </term>
+    <term id="t39" lemma="het" pos="PRON" type="open" morphofeat="Pron|onbep|neut|zelfst__PronType=Ind">
+      <span>
+        <target id="w39"/>
+      </span>
+    </term>
+    <term id="t40" lemma="hebben" pos="VERB" type="open" morphofeat="V|hulp|ott|3|ev__Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin">
+      <span>
+        <target id="w40"/>
+      </span>
+    </term>
+    <term id="t41" lemma="de" pos="DET" type="open" morphofeat="Art|bep|zijdofmv|neut__Definite=Def|PronType=Art">
+      <span>
+        <target id="w41"/>
+      </span>
+    </term>
+    <term id="t42" lemma="sfeer" pos="NOUN" type="open" morphofeat="N|soort|ev|neut__Number=Sing">
+      <span>
+        <target id="w42"/>
+      </span>
+    </term>
+    <term id="t43" lemma="van" pos="ADP" type="open" morphofeat="Prep|voor__AdpType=Prep">
+      <span>
+        <target id="w43"/>
+      </span>
+    </term>
+    <term id="t44" lemma="sjakie" pos="NOUN" type="open" morphofeat="N|eigen|ev|neut__Number=Sing">
+      <span>
+        <target id="w44"/>
+      </span>
+    </term>
+    <term id="t45" lemma="in" pos="ADP" type="open" morphofeat="Prep|voor__AdpType=Prep">
+      <span>
+        <target id="w45"/>
+      </span>
+    </term>
+    <term id="t46" lemma="de" pos="DET" type="open" morphofeat="Art|bep|zijdofmv|neut__Definite=Def|PronType=Art">
+      <span>
+        <target id="w46"/>
+      </span>
+    </term>
+    <term id="t47" lemma="chocoladefabriek" pos="NOUN" type="open" morphofeat="N|soort|ev|neut__Number=Sing">
+      <span>
+        <target id="w47"/>
+      </span>
+    </term>
+    <term id="t48" lemma="," pos="PUNCT" type="open" morphofeat="Punc|komma__PunctType=Comm">
+      <span>
+        <target id="w48"/>
+      </span>
+    </term>
+    <term id="t49" lemma="maar" pos="CONJ" type="open" morphofeat="Conj|neven___">
+      <span>
+        <target id="w49"/>
+      </span>
+    </term>
+    <term id="t50" lemma="het" pos="PRON" type="open" morphofeat="Pron|onbep|neut|zelfst__PronType=Ind">
+      <span>
+        <target id="w50"/>
+      </span>
+    </term>
+    <term id="t51" lemma="zijn" pos="VERB" type="open" morphofeat="V|hulpofkopp|ott|3|ev__Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin">
+      <span>
+        <target id="w51"/>
+      </span>
+    </term>
+    <term id="t52" lemma="levensecht" pos="VERB" type="open" morphofeat="V|trans|verldw|onverv__Subcat=Tran|Tense=Past|VerbForm=Part">
+      <span>
+        <target id="w52"/>
+      </span>
+    </term>
+    <term id="t53" lemma="." pos="PUNCT" type="open" morphofeat="Punc|punt__PunctType=Peri">
+      <span>
+        <target id="w53"/>
+      </span>
+    </term>
+    <term id="t54" lemma="in" pos="ADP" type="open" morphofeat="Prep|voor__AdpType=Prep">
+      <span>
+        <target id="w54"/>
+      </span>
+    </term>
+    <term id="t55" lemma="een" pos="DET" type="open" morphofeat="Art|onbep|zijdofonzijd|neut__Definite=Ind|Number=Sing|PronType=Art">
+      <span>
+        <target id="w55"/>
+      </span>
+    </term>
+    <term id="t56" lemma="nieuw" pos="ADJ" type="open" morphofeat="Adj|attr|stell|vervneut__Case=Nom|Degree=Pos">
+      <span>
+        <target id="w56"/>
+      </span>
+    </term>
+    <term id="t57" lemma="chocoladefabriek" pos="NOUN" type="open" morphofeat="N|soort|ev|neut__Number=Sing">
+      <span>
+        <target id="w57"/>
+      </span>
+    </term>
+    <term id="t58" lemma="in" pos="ADP" type="open" morphofeat="Prep|voor__AdpType=Prep">
+      <span>
+        <target id="w58"/>
+      </span>
+    </term>
+    <term id="t59" lemma="het" pos="DET" type="open" morphofeat="Art|bep|onzijd|neut__Definite=Def|Gender=Neut|PronType=Art">
+      <span>
+        <target id="w59"/>
+      </span>
+    </term>
+    <term id="t60" lemma="brabants" pos="ADJ" type="open" morphofeat="Adj|attr|stell|vervneut__Case=Nom|Degree=Pos">
+      <span>
+        <target id="w60"/>
+      </span>
+    </term>
+    <term id="t61" lemma="veghel" pos="NOUN" type="open" morphofeat="N|eigen|ev|neut__Number=Sing">
+      <span>
+        <target id="w61"/>
+      </span>
+    </term>
+    <term id="t62" lemma="die" pos="PRON" type="open" morphofeat="Pron|betr|neut|zelfst__PronType=Rel">
+      <span>
+        <target id="w62"/>
+      </span>
+    </term>
+    <term id="t63" lemma="nu" pos="ADV" type="open" morphofeat="Adv|gew|aanw__PronType=Dem">
+      <span>
+        <target id="w63"/>
+      </span>
+    </term>
+    <term id="t64" lemma="in" pos="ADP" type="open" morphofeat="Prep_Art_N__AdpType=Prep">
+      <span>
+        <target id="w64"/>
+      </span>
+    </term>
+    <term id="t65" lemma="de" pos="ADP" type="open" morphofeat="ADP__AdpType=Prep">
+      <span>
+        <target id="w65"/>
+      </span>
+    </term>
+    <term id="t66" lemma="maak" pos="X" type="open" morphofeat="X__Number=Sing">
+      <span>
+        <target id="w66"/>
+      </span>
+    </term>
+    <term id="t67" lemma="zijn" pos="VERB" type="open" morphofeat="V|hulpofkopp|ott|3|ev__Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|VerbType=Aux,Cop">
+      <span>
+        <target id="w67"/>
+      </span>
+    </term>
+    <term id="t68" lemma="," pos="PUNCT" type="open" morphofeat="Punc|komma__PunctType=Comm">
+      <span>
+        <target id="w68"/>
+      </span>
+    </term>
+    <term id="t69" lemma="maken" pos="VERB" type="open" morphofeat="V|trans|ott|2|ev__Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Subcat=Tran|Tense=Pres|VerbForm=Fin">
+      <span>
+        <target id="w69"/>
+      </span>
+    </term>
+    <term id="t70" lemma="je" pos="PRON" type="open" morphofeat="Pron|onbep|neut|zelfst__PronType=Ind">
+      <span>
+        <target id="w70"/>
+      </span>
+    </term>
+    <term id="t71" lemma="je" pos="PRON" type="open" morphofeat="Pron|bez|2|ev|neut|attr__Number=Sing|Person=2|Poss=Yes|PronType=Prs">
+      <span>
+        <target id="w71"/>
+      </span>
+    </term>
+    <term id="t72" lemma="eigen" pos="PRON" type="open" morphofeat="Pron|aanw|neut|attr|weigen__PronType=Dem">
+      <span>
+        <target id="w72"/>
+      </span>
+    </term>
+    <term id="t73" lemma="chocoladereep" pos="NOUN" type="open" morphofeat="N|soort|ev|neut__Number=Sing">
+      <span>
+        <target id="w73"/>
+      </span>
+    </term>
+    <term id="t74" lemma="," pos="PUNCT" type="open" morphofeat="Punc|komma__PunctType=Comm">
+      <span>
+        <target id="w74"/>
+      </span>
+    </term>
+    <term id="t75" lemma="in" pos="ADP" type="open" morphofeat="Prep|voor__AdpType=Prep">
+      <span>
+        <target id="w75"/>
+      </span>
+    </term>
+    <term id="t76" lemma="je" pos="PRON" type="open" morphofeat="Pron|bez|2|ev|neut|attr__Number=Sing|Person=2|Poss=Yes|PronType=Prs">
+      <span>
+        <target id="w76"/>
+      </span>
+    </term>
+    <term id="t77" lemma="eigen" pos="PRON" type="open" morphofeat="Pron|aanw|neut|attr|weigen__PronType=Dem">
+      <span>
+        <target id="w77"/>
+      </span>
+    </term>
+    <term id="t78" lemma="favoriet" pos="ADJ" type="open" morphofeat="Adj|attr|stell|vervneut__Case=Nom|Degree=Pos">
+      <span>
+        <target id="w78"/>
+      </span>
+    </term>
+    <term id="t79" lemma="smaak" pos="NOUN" type="open" morphofeat="N|soort|ev|neut__Number=Sing">
+      <span>
+        <target id="w79"/>
+      </span>
+    </term>
+    <term id="t80" lemma="," pos="PUNCT" type="open" morphofeat="Punc|komma__PunctType=Comm">
+      <span>
+        <target id="w80"/>
+      </span>
+    </term>
+    <term id="t81" lemma="met" pos="ADP" type="open" morphofeat="Prep|voor__AdpType=Prep">
+      <span>
+        <target id="w81"/>
+      </span>
+    </term>
+    <term id="t82" lemma="je" pos="PRON" type="open" morphofeat="Pron|per|2|ev|datofacc__Case=Acc,Dat|Number=Sing|Person=2|PronType=Prs">
+      <span>
+        <target id="w82"/>
+      </span>
+    </term>
+    <term id="t83" lemma="zelf" pos="PRON" type="open" morphofeat="Pron|aanw|neut|attr|wzelf__PronType=Dem">
+      <span>
+        <target id="w83"/>
+      </span>
+    </term>
+    <term id="t84" lemma="ontwerpen" pos="VERB" type="open" morphofeat="V|trans|verldw|onverv__Subcat=Tran|Tense=Past|VerbForm=Part">
+      <span>
+        <target id="w84"/>
+      </span>
+    </term>
+    <term id="t85" lemma="wikkel" pos="NOUN" type="open" morphofeat="N|soort|ev|neut__Number=Sing">
+      <span>
+        <target id="w85"/>
+      </span>
+    </term>
+    <term id="t86" lemma="erom" pos="ADJ" type="open" morphofeat="Adj|attr|stell|onverv__Degree=Pos">
+      <span>
+        <target id="w86"/>
+      </span>
+    </term>
+    <term id="t87" lemma="." pos="PUNCT" type="open" morphofeat="Punc|punt__PunctType=Peri">
+      <span>
+        <target id="w87"/>
+      </span>
+    </term>
+    <term id="t88" lemma="in" pos="ADP" type="open" morphofeat="Prep|voor__AdpType=Prep">
+      <span>
+        <target id="w88"/>
+      </span>
+    </term>
+    <term id="t89" lemma="de" pos="DET" type="open" morphofeat="Art|bep|zijdofmv|neut__Definite=Def|PronType=Art">
+      <span>
+        <target id="w89"/>
+      </span>
+    </term>
+    <term id="t90" lemma="fabriek" pos="NOUN" type="open" morphofeat="N|soort|ev|neut__Number=Sing">
+      <span>
+        <target id="w90"/>
+      </span>
+    </term>
+    <term id="t91" lemma="werken" pos="VERB" type="open" morphofeat="V|intrans|ott|1of2of3|mv__Aspect=Imp|Mood=Ind|Number=Plur|Subcat=Intr|Tense=Pres|VerbForm=Fin">
+      <span>
+        <target id="w91"/>
+      </span>
+    </term>
+    <term id="t92" lemma="alleen" pos="ADV" type="open" morphofeat="Adv|gew|geenfunc|stell|onverv__Degree=Pos">
+      <span>
+        <target id="w92"/>
+      </span>
+    </term>
+    <term id="t93" lemma="maar" pos="ADV" type="open" morphofeat="Adv|gew|geenfunc|stell|onverv__Degree=Pos">
+      <span>
+        <target id="w93"/>
+      </span>
+    </term>
+    <term id="t94" lemma="jong" pos="ADJ" type="open" morphofeat="Adj|attr|stell|vervneut__Case=Nom|Degree=Pos">
+      <span>
+        <target id="w94"/>
+      </span>
+    </term>
+    <term id="t95" lemma="mens" pos="NOUN" type="open" morphofeat="N|soort|mv|neut__Number=Plur">
+      <span>
+        <target id="w95"/>
+      </span>
+    </term>
+    <term id="t96" lemma="." pos="PUNCT" type="open" morphofeat="Punc|punt__PunctType=Peri">
+      <span>
+        <target id="w96"/>
+      </span>
+    </term>
+  </terms>
+  <deps>
+    <dep from="t2" to="t1" rfunc="nsubj"/><dep from="t2" to="t3" rfunc="obj"/><dep from="t2" to="t4" rfunc="compound:prt"/><dep from="t7" to="t5" rfunc="case"/><dep from="t2" to="t7" rfunc="obl"/><dep from="t7" to="t6" rfunc="amod"/><dep from="t9" to="t8" rfunc="punct"/><dep from="t2" to="t9" rfunc="parataxis"/><dep from="t11" to="t10" rfunc="case"/><dep from="t9" to="t11" rfunc="nmod"/><dep from="t13" to="t12" rfunc="case"/><dep from="t9" to="t13" rfunc="nmod"/><dep from="t15" to="t14" rfunc="case"/><dep from="t13" to="t15" rfunc="nmod"/><dep from="t18" to="t16" rfunc="punct"/><dep from="t9" to="t18" rfunc="parataxis"/><dep from="t18" to="t17" rfunc="nummod"/><dep from="t20" to="t19" rfunc="case"/><dep from="t18" to="t20" rfunc="nmod"/><dep from="t2" to="t21" rfunc="punct"/><dep from="t24" to="t22" rfunc="nsubj"/>
+    <dep from="t36" to="t24" rfunc="advcl"/>
+    <dep from="t30" to="t36" rfunc="xcomp"/>
+    <dep from="t22" to="t23" rfunc="flat"/>
+    <dep from="t27" to="t25" rfunc="case"/>
+    <dep from="t36" to="t27" rfunc="obl"/>
+    <dep from="t27" to="t26" rfunc="nmod"/>
+    <dep from="t29" to="t28" rfunc="case"/>
+    <dep from="t27" to="t29" rfunc="nmod"/>
+    <dep from="t30" to="t31" rfunc="nsubj"/>
+    <dep from="t34" to="t32" rfunc="nmod"/>
+    <dep from="t36" to="t34" rfunc="obj"/>
+    <dep from="t34" to="t33" rfunc="nmod"/>
+    <dep from="t34" to="t35" rfunc="nmod"/>
+    <dep from="t36" to="t37" rfunc="nsubj"/>
+    <dep from="t37" to="t38" rfunc="compound"/>
+    <dep from="t40" to="t39" rfunc="nsubj"/>
+    <dep from="t42" to="t41" rfunc="det"/>
+    <dep from="t40" to="t42" rfunc="obj"/>
+    <dep from="t44" to="t43" rfunc="case"/>
+    <dep from="t42" to="t44" rfunc="nmod"/>
+    <dep from="t47" to="t45" rfunc="case"/>
+    <dep from="t42" to="t47" rfunc="nmod"/>
+    <dep from="t47" to="t46" rfunc="det"/>
+    <dep from="t52" to="t48" rfunc="punct"/>
+    <dep from="t40" to="t52" rfunc="conj"/>
+    <dep from="t52" to="t49" rfunc="cc"/>
+    <dep from="t52" to="t50" rfunc="nsubj"/>
+    <dep from="t52" to="t51" rfunc="cop"/>
+    <dep from="t40" to="t53" rfunc="punct"/>
+    <dep from="t57" to="t54" rfunc="case"/>
+    <dep from="t69" to="t57" rfunc="obl"/>
+    <dep from="t57" to="t55" rfunc="det"/>
+    <dep from="t57" to="t56" rfunc="amod"/>
+    <dep from="t61" to="t58" rfunc="case"/>
+    <dep from="t57" to="t61" rfunc="nmod"/>
+    <dep from="t61" to="t59" rfunc="det"/>
+    <dep from="t61" to="t60" rfunc="amod"/>
+    <dep from="t66" to="t62" rfunc="obj"/>
+    <dep from="t57" to="t66" rfunc="acl"/>
+    <dep from="t66" to="t63" rfunc="advmod"/>
+    <dep from="t66" to="t64" rfunc="case"/>
+    <dep from="t66" to="t65" rfunc="det"/>
+    <dep from="t66" to="t67" rfunc="cop"/>
+    <dep from="t69" to="t68" rfunc="punct"/>
+    <dep from="t69" to="t70" rfunc="nsubj"/>
+    <dep from="t73" to="t71" rfunc="nmod"/>
+    <dep from="t69" to="t73" rfunc="obj"/>
+    <dep from="t73" to="t72" rfunc="nmod"/>
+    <dep from="t69" to="t74" rfunc="punct"/>
+    <dep from="t79" to="t75" rfunc="case"/>
+    <dep from="t69" to="t79" rfunc="obl"/>
+    <dep from="t79" to="t76" rfunc="nmod"/>
+    <dep from="t79" to="t77" rfunc="nmod"/>
+    <dep from="t79" to="t78" rfunc="amod"/>
+    <dep from="t79" to="t80" rfunc="punct"/>
+    <dep from="t82" to="t81" rfunc="case"/>
+    <dep from="t85" to="t82" rfunc="nmod"/>
+    <dep from="t69" to="t85" rfunc="obj"/>
+    <dep from="t84" to="t83" rfunc="obl"/>
+    <dep from="t85" to="t84" rfunc="acl"/>
+    <dep from="t69" to="t86" rfunc="advmod"/>
+    <dep from="t69" to="t87" rfunc="punct"/>
+    <dep from="t90" to="t88" rfunc="case"/>
+    <dep from="t91" to="t90" rfunc="obl"/>
+    <dep from="t90" to="t89" rfunc="det"/>
+    <dep from="t91" to="t92" rfunc="advmod"/>
+    <dep from="t91" to="t93" rfunc="advmod"/>
+    <dep from="t95" to="t94" rfunc="amod"/>
+    <dep from="t91" to="t95" rfunc="nsubj"/>
+    <dep from="t91" to="t96" rfunc="punct"/>
+  </deps>
+</NAF>
